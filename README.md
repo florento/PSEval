@@ -1,3 +1,3 @@
 # PSeval
-evaluation results for PSE
+evaluation results of engraving-based pitch-spelling algos (PSE)
 on different datasets
