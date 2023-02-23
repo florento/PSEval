@@ -1,6 +1,6 @@
 id,title,composer,part,KSgt,KSest,notes,err,time
-8460.0,BWV846_Prelude,Bach,rh,0.0,,408.0,0.0,0.127
-8460.0,BWV846_Prelude,Bach,lh,0.0,,211.0,2.0,0.073
+8460.0,BWV846_Prelude,Bach,rh,0,,408,0,0.127
+8460.0,BWV846_Prelude,Bach,lh,0,,211,2,0.073
 8461.0,BWV846_Fugue,Bach,rh,0.0,,487.0,1.0,2.569
 8461.0,BWV846_Fugue,Bach,lh,0.0,,315.0,6.0,1.345
 8480.0,BWV848_Prelude,Bach,rh,7.0,,397.0,21.0,0.14
