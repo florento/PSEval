@@ -2,7 +2,7 @@
 
 complete evaluation LG dataset
 19 fev 2023
-version PSE:
+version PSE: v0.6
 
 PSeval with 30 tonalities: maj and min harm, KS in -7...7
 

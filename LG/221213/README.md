@@ -2,7 +2,7 @@
 
 complete evaluation LG dataset
 13 decembre 2022
-version PSE:
+version PSE: v0.5 (mono, no chords)
 
 ## `LG_0.csv`
 
