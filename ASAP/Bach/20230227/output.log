@@ -1,0 +1,1590 @@
+
+
+> eval_Bach()
+
+
+BWV 846 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_846/xml_score.musicxml
+Das Wohltemperierte Klavier I None part 1 / 2 408 notes, 35 bars, add_tons 25
+global ton: OK: ( 0 ), diff: 0
+
+Das Wohltemperierte Klavier I None part 2 / 2 211 notes, 35 bars, add_tons 25
+global ton: OK: ( 0 ), diff: 0
+
+
+BWV 846 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_846/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 487 notes, 27 bars, add_tons 25
+[pse_warning] PSV 249-270: tie break fail (2 bests): [accid=2,dist=7,disj=2,color=0] accid=2,dist=7,disj=2,color=0 accid=2,dist=7,disj=2,color=0 
+global ton: OK: ( 0 ), diff: 4
+
+xml_score.musicxml None part 2 / 2 315 notes, 27 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_warning] PSV 59-77, estimation locals, tie break fail Dmin (1b) vs Dmaj (2#), cost=[accid=3,dist=0,disj=1,color=0], prevton=Cmaj (0), (dist: 2 vs 2)
+[pse_warning] PSV 174-189: tie break fail (2 bests): [accid=4,dist=23,disj=0,color=1] accid=4,dist=23,disj=0,color=1 accid=4,dist=23,disj=0,color=1 
+global ton: OK: ( 0 ), diff: 6
+
+
+BWV 848 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_848/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 397 notes, 104 bars, add_tons 25
+[pse_debug] PST init: bar 86 EMPTY
+[pse_debug] PST init: bar 87 EMPTY
+[pse_debug] PST init: bar 88 EMPTY
+[pse_debug] PST init: bar 89 EMPTY
+[pse_debug] PST init: bar 96 EMPTY
+[pse_debug] PST init: bar 99 EMPTY
+[pse_debug] PST init: bar 101 EMPTY
+[pse_warning] PSV 36-42, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=C#maj (7#), (dist: 11 vs 11)
+[pse_warning] PSV 174-180, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Ebmin (6b), (dist: 3 vs 3)
+[pse_debug] PSV: estimate local for 11: empty vector 364-364, keeping previous 8
+[pse_debug] PSV: estimate local for 11: empty vector 364-364, keeping previous 8
+[pse_debug] PSV: estimate local for 11: empty vector 364-364, keeping previous 8
+[pse_debug] PSV: estimate local for 11: empty vector 364-364, keeping previous 8
+[pse_debug] PSV: estimate local for 11: empty vector 370-370, keeping previous 20
+[pse_debug] PSV: estimate local for 11: empty vector 382-382, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 388-388, keeping previous 11
+global ton: OK: ( 7 ), diff: 22
+
+xml_score.musicxml None part 2 / 2 425 notes, 104 bars, add_tons 25
+[pse_debug] PST init: bar 97 EMPTY
+[pse_warning] PSV 149-152, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Bbmaj (2b), (dist: 2 vs 2)
+[pse_debug] PSV: estimate local for 11: empty vector 401-401, keeping previous 8
+global ton: OK: ( 7 ), diff: 16
+
+
+BWV 848 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_848/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 866 notes, 55 bars, add_tons 25
+global ton: OK: ( 7 ), diff: 41
+
+xml_score.musicxml None part 2 / 2 623 notes, 55 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PSV: estimate local for 0: empty vector 0-0, keeping previous 0
+[pse_debug] PSV: estimate local for 0: empty vector 0-0, keeping previous 0
+[pse_debug] PSV: estimate local for 0: empty vector 0-0, keeping previous 0
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+[pse_warning] PSV 77-87: tie break fail (2 bests): [accid=1,dist=5,disj=0,color=0] accid=1,dist=5,disj=0,color=0 accid=1,dist=5,disj=0,color=0 
+global ton: NO: ( -4 was <music21.key.KeySignature of 7 sharps> ), diff: 619
+
+
+BWV 854 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_854/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 287 notes, 24 bars, add_tons 25
+[pse_warning] PSV 75-91: tie break fail (2 bests): [accid=4,dist=20,disj=2,color=0] accid=4,dist=20,disj=2,color=0 accid=4,dist=20,disj=2,color=0 
+[pse_warning] PSV 100-110: tie break fail (2 bests): [accid=1,dist=3,disj=1,color=0] accid=1,dist=3,disj=1,color=0 accid=1,dist=3,disj=1,color=0 
+[pse_warning] PSV 274-286: tie break fail (2 bests): [accid=3,dist=6,disj=2,color=0] accid=3,dist=6,disj=2,color=0 accid=3,dist=6,disj=2,color=0 
+global ton: OK: ( 4 ), diff: 5
+
+xml_score.musicxml None part 2 / 2 221 notes, 24 bars, add_tons 25
+global ton: OK: ( 4 ), diff: 2
+
+
+BWV 854 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_854/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 475 notes, 29 bars, add_tons 25
+global ton: OK: ( 4 ), diff: 1
+
+xml_score.musicxml None part 2 / 2 287 notes, 29 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PSV: estimate local for 8: empty vector 0-0, keeping previous 8
+[pse_debug] PSV: estimate local for 8: empty vector 0-0, keeping previous 8
+global ton: OK: ( 4 ), diff: 1
+
+
+BWV 856 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_856/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 481 notes, 73 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+global ton: OK: ( -1 ), diff: 1
+
+xml_score.musicxml None part 2 / 2 313 notes, 73 bars, add_tons 25
+[pse_debug] PST init: bar 22 EMPTY
+[pse_debug] PST init: bar 23 EMPTY
+[pse_debug] PST init: bar 24 EMPTY
+[pse_debug] PSV: estimate local for 3: empty vector 125-125, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 125-125, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 125-125, keeping previous 3
+[pse_warning] PSV 165-167, estimation locals, tie break fail Dmaj (2#) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Fmaj (1b), (dist: 3 vs 3)
+[pse_warning] PSV 165-167, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Fmaj (1b), (dist: 3 vs 3)
+global ton: OK: ( -1 ), diff: 2
+
+
+BWV 857 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_857/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 394 notes, 22 bars, add_tons 25
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+[pse_warning] PSV 240-254: tie break fail (2 bests): [accid=3,dist=9,disj=1,color=0] accid=3,dist=9,disj=1,color=0 accid=3,dist=9,disj=1,color=0 
+[pse_warning] PSV 332-349: tie break fail (2 bests): [accid=5,dist=25,disj=3,color=0] accid=5,dist=25,disj=3,color=0 accid=5,dist=25,disj=3,color=0 
+global ton: OK: ( -4 ), diff: 8
+
+xml_score.musicxml None part 2 / 2 249 notes, 22 bars, add_tons 25
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+[pse_warning] PSV 5-18: tie break fail (2 bests): [accid=1,dist=2,disj=0,color=0] accid=1,dist=2,disj=0,color=0 accid=1,dist=2,disj=0,color=0 
+[pse_warning] PSV 18-31: tie break fail (2 bests): [accid=1,dist=7,disj=0,color=0] accid=1,dist=7,disj=0,color=0 accid=1,dist=7,disj=0,color=0 
+[pse_warning] PSV 123-139: tie break fail (2 bests): [accid=2,dist=12,disj=1,color=0] accid=2,dist=12,disj=1,color=0 accid=2,dist=12,disj=1,color=0 
+[pse_warning] PSV 227-235: tie break fail (2 bests): [accid=2,dist=4,disj=0,color=0] accid=2,dist=4,disj=0,color=0 accid=2,dist=4,disj=0,color=0 
+global ton: OK: ( -4 ), diff: 4
+
+
+BWV 857 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_857/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 735 notes, 58 bars, add_tons 25
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PSV: estimate local for 1: empty vector 6-6, keeping previous 4
+[pse_warning] PSV 106-115, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Cmin (3b), (dist: 2 vs 2)
+[pse_warning] PSV 146-164, estimation locals, tie break fail Cmin (3b) vs Bbmaj (2b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Ebmaj (3b), (dist: 1 vs 1)
+[pse_warning] PSV 697-719, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=3,color=0], prevton=Ebmaj (3b), (dist: 1 vs 1)
+[pse_warning] PSV 125-135: tie break fail (2 bests): [accid=1,dist=3,disj=2,color=0] accid=1,dist=3,disj=2,color=0 accid=1,dist=3,disj=2,color=0 
+[pse_warning] PSV 135-146: tie break fail (2 bests): [accid=2,dist=4,disj=3,color=0] accid=2,dist=4,disj=3,color=0 accid=2,dist=4,disj=3,color=0 
+[pse_warning] PSV 237-251: tie break fail (2 bests): [accid=2,dist=2,disj=2,color=0] accid=2,dist=2,disj=2,color=0 accid=2,dist=2,disj=2,color=0 
+[pse_warning] PSV 286-304: tie break fail (2 bests): [accid=1,dist=3,disj=0,color=0] accid=1,dist=3,disj=0,color=0 accid=1,dist=3,disj=0,color=0 
+global ton: NO: ( -3 was <music21.key.KeySignature of 4 flats> ), diff: 11
+
+xml_score.musicxml None part 2 / 2 688 notes, 58 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PSV: estimate local for 1: empty vector 0-0, keeping previous 1
+[pse_warning] PSV 226-237: tie break fail (2 bests): [accid=2,dist=2,disj=4,color=0] accid=2,dist=2,disj=4,color=0 accid=2,dist=2,disj=4,color=0 
+[pse_warning] PSV 237-253: tie break fail (2 bests): [accid=3,dist=11,disj=3,color=0] accid=3,dist=11,disj=3,color=0 accid=3,dist=11,disj=3,color=0 
+global ton: NO: ( -3 was <music21.key.KeySignature of 4 flats> ), diff: 12
+
+
+BWV 858 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_858/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 293 notes, 30 bars, add_tons 25
+global ton: OK: ( 6 ), diff: 24
+
+xml_score.musicxml None part 2 / 2 169 notes, 30 bars, add_tons 25
+global ton: OK: ( 6 ), diff: 4
+
+
+BWV 858 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_858/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 583 notes, 35 bars, add_tons 25
+global ton: OK: ( 6 ), diff: 2
+
+xml_score.musicxml None part 2 / 2 370 notes, 35 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PSV: estimate local for 10: empty vector 0-0, keeping previous 10
+[pse_debug] PSV: estimate local for 10: empty vector 0-0, keeping previous 10
+[pse_debug] PSV: estimate local for 10: empty vector 0-0, keeping previous 10
+[pse_debug] PSV: estimate local for 10: empty vector 0-0, keeping previous 10
+global ton: OK: ( 6 ), diff: 10
+
+
+BWV 860 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_860/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 335 notes, 19 bars, add_tons 25
+[pse_warning] PSV 118-126, estimation locals, tie break fail Amin (0) vs Gmaj (1#), cost=[accid=0,dist=0,disj=0,color=0], prevton=Amaj (3#), (dist: 2 vs 2)
+global ton: OK: ( 1 ), diff: 0
+
+xml_score.musicxml None part 2 / 2 275 notes, 19 bars, add_tons 25
+[pse_warning] PSV 64-88, estimation locals, tie break fail Amin (0) vs Gmaj (1#), cost=[accid=0,dist=0,disj=0,color=0], prevton=Amaj (3#), (dist: 2 vs 2)
+[pse_warning] PSV 158-182: tie break fail (2 bests): [accid=2,dist=12,disj=4,color=0] accid=2,dist=12,disj=4,color=0 accid=2,dist=12,disj=4,color=0 
+global ton: NO: ( 2 was G major ), diff: 2
+
+
+BWV 860 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_860/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 1124 notes, 86 bars, add_tons 25
+[pse_warning] PSV 290-306, estimation locals, tie break fail Emin (1#) vs Dmaj (2#), cost=[accid=2,dist=0,disj=0,color=0], prevton=Gmaj (1#), (dist: 1 vs 1)
+[pse_warning] PSV 508-526, estimation locals, tie break fail Emin (1#) vs Dmaj (2#), cost=[accid=1,dist=0,disj=0,color=0], prevton=Gmaj (1#), (dist: 1 vs 1)
+global ton: OK: ( 1 ), diff: 4
+
+xml_score.musicxml None part 2 / 2 705 notes, 86 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PST init: bar 8 EMPTY
+[pse_debug] PST init: bar 9 EMPTY
+[pse_debug] PST init: bar 40 EMPTY
+[pse_debug] PST init: bar 41 EMPTY
+[pse_debug] PST init: bar 42 EMPTY
+[pse_debug] PST init: bar 43 EMPTY
+[pse_debug] PST init: bar 44 EMPTY
+[pse_debug] PST init: bar 45 EMPTY
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 303-303, keeping previous 6
+[pse_debug] PSV: estimate local for 5: empty vector 303-303, keeping previous 6
+[pse_debug] PSV: estimate local for 5: empty vector 303-303, keeping previous 6
+[pse_debug] PSV: estimate local for 5: empty vector 303-303, keeping previous 6
+[pse_debug] PSV: estimate local for 5: empty vector 303-303, keeping previous 6
+[pse_debug] PSV: estimate local for 5: empty vector 303-303, keeping previous 6
+global ton: OK: ( 1 ), diff: 2
+
+
+BWV 862 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_862/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 381 notes, 44 bars, add_tons 25
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+global ton: OK:  ( -4 ), diff: 0
+
+xml_score.musicxml None part 2 / 2 314 notes, 44 bars, add_tons 25
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+global ton: OK: ( -4 ), diff: 0
+
+
+BWV 862 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_862/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 477 notes, 35 bars, add_tons 25
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+[pse_warning] PSV 404-420: tie break fail (2 bests): [accid=2,dist=11,disj=0,color=0] accid=2,dist=11,disj=0,color=0 accid=2,dist=11,disj=0,color=0 
+global ton: OK: ( -4 ), diff: 1
+
+xml_score.musicxml None part 2 / 2 455 notes, 35 bars, add_tons 25
+[pse_warning] PSV 148-165, estimation locals, tie break fail Fmin (4b) vs Ebmaj (3b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Abmaj (4b), (dist: 1 vs 1)
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+[pse_warning] PSV 343-355: tie break fail (2 bests): [accid=3,dist=22,disj=0,color=0] accid=3,dist=22,disj=0,color=0 accid=3,dist=22,disj=0,color=0 
+global ton: OK: ( -4 ), diff: 1
+
+
+BWV 863 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_863/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 344 notes, 29 bars, add_tons 25
+global ton: OK: ( 5 ), diff: 11
+
+xml_score.musicxml None part 2 / 2 267 notes, 29 bars, add_tons 25
+[pse_warning] PSV 40-49: tie break fail (2 bests): [accid=2,dist=12,disj=2,color=0] accid=2,dist=12,disj=2,color=0 accid=2,dist=12,disj=2,color=0 
+[pse_warning] PSV 49-60: tie break fail (2 bests): [accid=2,dist=2,disj=3,color=0] accid=2,dist=2,disj=3,color=0 accid=2,dist=2,disj=3,color=0 
+[pse_warning] PSV 157-169: tie break fail (2 bests): [accid=3,dist=8,disj=2,color=0] accid=3,dist=8,disj=2,color=0 accid=3,dist=8,disj=2,color=0 
+[pse_warning] PSV 251-260: tie break fail (2 bests): [accid=1,dist=7,disj=1,color=0] accid=1,dist=7,disj=1,color=0 accid=1,dist=7,disj=1,color=0 
+global ton: OK: ( 5 ), diff: 14
+
+
+BWV 863 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_863/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 473 notes, 41 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PSV: estimate local for 23: empty vector 0-0, keeping previous 23
+[pse_debug] PSV: estimate local for 23: empty vector 0-0, keeping previous 23
+[pse_warning] PSV 431-446, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=C#min (4#), (dist: 9 vs 9)
+[pse_warning] PSV 252-266: tie break fail (2 bests): [accid=8,dist=98,disj=0,color=2] accid=8,dist=98,disj=0,color=2 accid=8,dist=98,disj=0,color=2 
+[pse_warning] PSV 306-321: tie break fail (2 bests): [accid=3,dist=9,disj=0,color=0] accid=3,dist=9,disj=0,color=0 accid=3,dist=9,disj=0,color=0 
+global ton: OK: ( 5 ),  diff: 71
+
+xml_score.musicxml None part 2 / 2 374 notes, 41 bars, add_tons 25
+[pse_warning] PSV 170-183: tie break fail (2 bests): [accid=3,dist=20,disj=0,color=0] accid=3,dist=20,disj=0,color=0 accid=3,dist=20,disj=0,color=0 
+[pse_warning] PSV 278-294: tie break fail (2 bests): [accid=4,dist=24,disj=0,color=0] accid=4,dist=24,disj=0,color=0 accid=4,dist=24,disj=0,color=0 
+global ton: OK: ( 5 ), diff: 39
+
+
+BWV 864 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_864/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 361 notes, 24 bars, add_tons 25
+[pse_warning] PSV 0-12, estimation locals, tie break fail Emaj (4#) vs Dmaj (2#), cost=[accid=1,dist=0,disj=2,color=0], prevton=Amaj (3#), (dist: 1 vs 1)
+[pse_warning] PSV 289-302, estimation locals, tie break fail Emaj (4#) vs Dmaj (2#), cost=[accid=1,dist=0,disj=2,color=0], prevton=Amaj (3#), (dist: 1 vs 1)
+global ton: OK: ( 3 ), diff: 2
+
+xml_score.musicxml None part 2 / 2 280 notes, 24 bars, add_tons 25
+global ton: OK: ( 3 ), diff: 2
+
+
+BWV 864 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_864/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 813 notes, 54 bars, add_tons 25
+[pse_warning] PSV 617-640, estimation locals, tie break fail F#min (3#) vs Emaj (4#), cost=[accid=1,dist=0,disj=0,color=0], prevton=Amaj (3#), (dist: 1 vs 1)
+[pse_warning] PSV 599-617: tie break fail (2 bests): [accid=4,dist=5,disj=6,color=1] accid=4,dist=5,disj=6,color=1 accid=4,dist=5,disj=6,color=1 
+global ton: OK: ( 3 ), diff: 4
+
+xml_score.musicxml None part 2 / 2 487 notes, 54 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 20 EMPTY
+[pse_debug] PST init: bar 21 EMPTY
+[pse_debug] PSV: estimate local for 7: empty vector 0-0, keeping previous 7
+[pse_debug] PSV: estimate local for 7: empty vector 0-0, keeping previous 7
+[pse_debug] PSV: estimate local for 7: empty vector 0-0, keeping previous 7
+[pse_debug] PSV: estimate local for 7: empty vector 116-116, keeping previous 8
+[pse_debug] PSV: estimate local for 7: empty vector 116-116, keeping previous 8
+[pse_warning] PSV 60-67: tie break fail (2 bests): [accid=1,dist=13,disj=0,color=0] accid=1,dist=13,disj=0,color=0 accid=1,dist=13,disj=0,color=0 
+global ton: OK: ( 3 ), diff: 6
+
+
+BWV 865 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_865/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 402 notes, 28 bars, add_tons 25
+global ton: OK: ( 0 ), diff: 1
+
+xml_score.musicxml None part 2 / 2 246 notes, 28 bars, add_tons 25
+[pse_debug] PST init: bar 8 EMPTY
+[pse_debug] PST init: bar 9 EMPTY
+[pse_debug] PST init: bar 10 EMPTY
+[pse_debug] PSV: estimate local for 4: empty vector 72-72, keeping previous 5
+[pse_debug] PSV: estimate local for 4: empty vector 72-72, keeping previous 5
+[pse_debug] PSV: estimate local for 4: empty vector 72-72, keeping previous 5
+global ton: OK: ( 0 ), diff: 0
+
+
+BWV 865 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_865/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 1408 notes, 87 bars, add_tons 25
+[pse_debug] PST init: bar 65 EMPTY
+[pse_debug] PSV: estimate local for 4: empty vector 1043-1043, keeping previous 3
+[pse_warning] PSV 1103-1121: tie break fail (2 bests): [accid=3,dist=19,disj=1,color=1] accid=3,dist=19,disj=1,color=1 accid=3,dist=19,disj=1,color=1 
+global ton: OK: ( 0 ), diff: 12
+
+xml_score.musicxml None part 2 / 2 1140 notes, 87 bars, add_tons 25
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PSV: estimate local for 4: empty vector 34-34, keeping previous 5
+global ton: OK: ( 0 ), diff: 6
+
+
+ BWV 866 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_866/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 317 notes, 20 bars, add_tons 25
+global ton: OK: ( -2 ), diff: 1
+
+xml_score.musicxml None part 2 / 2 321 notes, 20 bars, add_tons 25
+[pse_warning] PSV 246-263: tie break fail (2 bests): [accid=1,dist=6,disj=0,color=0] accid=1,dist=6,disj=0,color=0 accid=1,dist=6,disj=0,color=0 
+global ton: OK: ( -2 ), diff: 1
+
+
+BWV 866 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_866/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 573 notes, 48 bars, add_tons 25
+[pse_warning] PSV 327-337: tie break fail (2 bests): [accid=1,dist=13,disj=0,color=0] accid=1,dist=13,disj=0,color=0 accid=1,dist=13,disj=0,color=0 
+global ton: OK: ( -2 ), diff: 2
+
+xml_score.musicxml None part 2 / 2 395 notes, 48 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PSV: estimate local for 2: empty vector 0-0, keeping previous 2
+[pse_debug] PSV: estimate local for 2: empty vector 0-0, keeping previous 2
+[pse_debug] PSV: estimate local for 2: empty vector 0-0, keeping previous 2
+[pse_debug] PSV: estimate local for 2: empty vector 0-0, keeping previous 2
+[pse_debug] PSV: estimate local for 2: empty vector 4-4, keeping previous 2
+[pse_warning] PSV 251-262: tie break fail (2 bests): [accid=2,dist=3,disj=0,color=0] accid=2,dist=3,disj=0,color=0 accid=2,dist=3,disj=0,color=0 
+global ton: OK: ( -2 ), diff: 2
+
+
+BWV 867 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_867/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 528 notes, 24 bars, add_tons 25
+[pse_warning] PSV 0-22, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 22-47, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 106-126, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 126-149, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 193-213, estimation locals, tie break fail Fmaj (1b) vs Ebmaj (3b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Fmin (4b), (dist: 2 vs 2)
+[pse_warning] PSV 340-368, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 368-401, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 418-438, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 489-515, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=4,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 515-528, estimation locals, tie break fail Ebmin (6b) vs Ebmaj (3b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 3 vs 3)
+global ton: OK: ( -5 ), diff: 2
+
+xml_score.musicxml None part 2 / 2 279 notes, 24 bars, add_tons 25
+[pse_warning] PSV 47-54, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=1,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 54-63, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=2,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 198-213, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Ebmin (6b), (dist: 3 vs 3)
+[pse_warning] PSV 69-79: tie break fail (2 bests): [accid=4,dist=17,disj=1,color=0] accid=4,dist=17,disj=1,color=0 accid=4,dist=17,disj=1,color=0 
+global ton: OK: ( -5 ), diff: 5
+
+
+BWV 867 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_867/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 536 notes, 75 bars, add_tons 25
+[pse_warning] PSV 0-2, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 2-5, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 72-87, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 96-109, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 209-217, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 322-332, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 399-407, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 440-446, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 474-480, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 480-488, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 488-500, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 407-415: tie break fail (2 bests): [accid=1,dist=9,disj=0,color=0] accid=1,dist=9,disj=0,color=0 accid=1,dist=9,disj=0,color=0 
+[pse_warning] PSV 427-432: tie break fail (2 bests): [accid=1,dist=7,disj=0,color=0] accid=1,dist=7,disj=0,color=0 accid=1,dist=7,disj=0,color=0 
+global ton: OK: ( -5 ), diff: 25
+
+xml_score.musicxml None part 2 / 2 291 notes, 75 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PST init: bar 8 EMPTY
+[pse_debug] PST init: bar 10 EMPTY
+[pse_debug] PST init: bar 25 EMPTY
+[pse_debug] PST init: bar 26 EMPTY
+[pse_debug] PST init: bar 27 EMPTY
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 0-0, keeping previous 11
+[pse_debug] PSV: estimate local for 11: empty vector 2-2, keeping previous 11
+[pse_warning] PSV 11-17, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Dmin (1b), (dist: 4 vs 4)
+[pse_warning] PSV 28-33, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Bbmaj (2b), (dist: 2 vs 2)
+[pse_debug] PSV: estimate local for 11: empty vector 72-72, keeping previous 0
+[pse_debug] PSV: estimate local for 11: empty vector 72-72, keeping previous 0
+[pse_debug] PSV: estimate local for 11: empty vector 72-72, keeping previous 0
+[pse_warning] PSV 233-238, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Gmin (2b), (dist: 3 vs 3)
+global ton: NO: ( 7 was <music21.key.KeySignature of 5 flats> ), diff: 271
+
+
+BWV 868 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_868/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 260 notes, 19 bars, add_tons 25
+global ton: OK: ( 5 ), diff: 4
+
+xml_score.musicxml None part 2 / 2 180 notes, 19 bars, add_tons 25
+global ton: OK: ( 5 ), diff: 3
+
+
+BWV 868 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_868/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 466 notes, 34 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_warning] PSV 0-7: tie break fail (2 bests): [accid=1,dist=1,disj=2,color=0] accid=1,dist=1,disj=2,color=0 accid=1,dist=1,disj=2,color=0 
+[pse_warning] PSV 413-432: tie break fail (2 bests): [accid=1,dist=1,disj=0,color=0] accid=1,dist=1,disj=0,color=0 accid=1,dist=1,disj=0,color=0 
+global ton: OK: ( 5 ), diff: 3
+
+xml_score.musicxml None part 2 / 2 442 notes, 34 bars, add_tons 25
+[pse_warning] PSV 85-97: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+global ton: OK: ( 5 ), diff: 0
+
+
+BWV 870 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_870/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 584 notes, 34 bars, add_tons 25
+global ton: OK: ( 0 ), diff: 15
+
+xml_score.musicxml None part 2 / 2 410 notes, 34 bars, add_tons 25
+global ton: OK: ( 0 ), [pse_warning] PSV 210-230, estimation locals, tie break fail Gmaj (1#) vs Fmaj (1b), cost=[accid=2,dist=0,disj=2,color=0], prevton=Cmaj (0), (dist: 1 vs 1)
+diff: 4
+
+
+BWV 870 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_870/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 682 notes, 83 bars, add_tons 25
+[pse_warning] PSV 223-236, estimation locals, tie break fail Amin (0) vs Gmaj (1#), cost=[accid=1,dist=0,disj=0,color=0], prevton=Fmaj (1b), (dist: 2 vs 2)
+[pse_warning] PSV 279-292: tie break fail (2 bests): [accid=2,dist=5,disj=0,color=0] accid=2,dist=5,disj=0,color=0 accid=2,dist=5,disj=0,color=0 
+global ton: OK: ( 0 ), diff: 3
+
+xml_score.musicxml None part 2 / 2 415 notes, 83 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PST init: bar 25 EMPTY
+[pse_debug] PST init: bar 26 EMPTY
+[pse_debug] PST init: bar 27 EMPTY
+[pse_debug] PST init: bar 28 EMPTY
+[pse_debug] PST init: bar 29 EMPTY
+[pse_debug] PST init: bar 30 EMPTY
+[pse_debug] PST init: bar 31 EMPTY
+[pse_debug] PST init: bar 32 EMPTY
+[pse_debug] PST init: bar 33 EMPTY
+[pse_debug] PST init: bar 34 EMPTY
+[pse_debug] PST init: bar 35 EMPTY
+[pse_debug] PST init: bar 36 EMPTY
+[pse_debug] PST init: bar 37 EMPTY
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping prev ( 0 ), ious 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 99-99, keeping previous 4
+[pse_warning] PSV 46-54: tie break fail (2 bests): [accid=2,dist=11,disj=1,color=0] accid=2,dist=11,disj=1,color=0 accid=2,dist=11,disj=1,color=0 
+global ton: OK: diff: 0
+
+
+BWV 873 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_873/xml_score.musicxml
+Fugue No. 4 in 3 voices in C♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 862 notes, 71 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PSV: estimate local for 8: empty vector 0-0, keeping previous 8
+[pse_warning] PSV 135-147, estimation locals, tie break fail C#min (4#) vs Bmaj (5#), cost=[accid=1,dist=0,disj=1,color=0], prevton=Emaj (4#), (dist: 1 vs 1)
+[pse_warning] PSV 127-135: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+[pse_warning] PSV 135-147: tie break fail (2 bests): [accid=2,dist=9,disj=1,color=0] accid=2,dist=9,disj=1,color=0 accid=2,dist=9,disj=1,color=0 
+[pse_warning] PSV 160-178: tie break fail (2 bests): [accid=3,dist=126,disj=1,color=0] accid=3,dist=126,disj=1,color=0 accid=3,dist=126,disj=1,color=0 
+global ton: OK: ( 4 ), diff: 24
+
+Fugue No. 4 in 3 voices in C♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 603 notes, 71 bars, add_tons 25
+[pse_debug] PST init: bar 26 EMPTY
+[pse_debug] PSV: estimate local for 8: empty vector 207-207, keeping previous 8
+[pse_warning] PSV 219-231: tie break fail (2 bests): [accid=1,dist=1,disj=2,color=0] accid=1,dist=1,disj=2,color=0 accid=1,dist=1,disj=2,color=0 
+[pse_warning] PSV 263-278: tie break fail (2 bests): [accid=2,dist=8,disj=0,color=0] accid=2,dist=8,disj=0,color=0 accid=2,dist=8,disj=0,color=0 
+global ton: OK: ( 4 ), diff: 9
+
+
+BWV 874 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_874/xml_score.musicxml
+Prélude No. 5 in D Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 930 notes, 56 bars, add_tons 25
+[pse_warning] PSV 386-405, estimation locals, tie break fail Amaj (3#) vs Gmaj (1#), cost=[accid=3,dist=0,disj=1,color=0], prevton=Bmin (2#), (dist: 2 vs 2)
+[pse_warning] PSV 177-194: tie break fail (2 bests): [accid=3,dist=15,disj=1,color=0] accid=3,dist=15,disj=1,color=0 accid=3,dist=15,disj=1,color=0 
+[pse_warning] PSV 496-514: tie break fail (2 bests): [accid=1,dist=3,disj=0,color=0] accid=1,dist=3,disj=0,color=0 accid=1,dist=3,disj=0,color=0 
+[pse_warning] PSV 528-545: tie break fail (2 bests): [accid=1,dist=4,disj=2,color=0] accid=1,dist=4,disj=2,color=0 accid=1,dist=4,disj=2,color=0 
+[pse_warning] PSV 567-586: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+[pse_warning] PSV 869-888: tie break fail (2 bests): [accid=4,dist=29,disj=1,color=1] accid=4,dist=29,disj=1,color=1 accid=4,dist=29,disj=1,color=1 
+global ton: OK: ( 2 ), diff: 12
+
+Prélude No. 5 in D Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 620 notes, 56 bars, add_tons 25
+[pse_warning] PSV 397-416: tie break fail (2 bests): [accid=2,dist=16,disj=3,color=3] accid=2,dist=16,disj=3,color=3 accid=2,dist=16,disj=3,color=3 
+global ton: OK: ( 2 ), diff: 3
+
+
+BWV 874 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_874/xml_score.musicxml
+Fugue No. 5 in 4 voices in D Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 495 notes, 50 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_warning] PSV 62-71: tie break fail (2 bests): [accid=1,dist=3,disj=0,color=0] accid=1,dist=3,disj=0,color=0 accid=1,dist=3,disj=0,color=0 
+[pse_warning] PSV 264-275: tie break fail (2 bests): [accid=1,dist=2,disj=1,color=0] accid=1,dist=2,disj=1,color=0 accid=1,dist=2,disj=1,color=0 
+[pse_warning] PSV 314-325: tie break fail (2 bests): [accid=1,dist=1,disj=0,color=0] accid=1,dist=1,disj=0,color=0 accid=1,dist=1,disj=0,color=0 
+[pse_warning] PSV 394-404: tie break fail (2 bests): [accid=1,dist=2,disj=0,color=0] accid=1,dist=2,disj=0,color=0 accid=1,dist=2,disj=0,color=0 
+[pse_warning] PSV 451-460: tie break fail (2 bests): [accid=1,dist=5,disj=0,color=0] accid=1,dist=5,disj=0,color=0 accid=1,dist=5,disj=0,color=0 
+[pse_warning] PSV 469-477: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+global ton: OK: ( 2 ), diff: 4
+
+Fugue No. 5 in 4 voices in D Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 471 notes, 50 bars, add_tons 25
+[pse_warning] PSV 393-400, estimation locals, tie break fail Dmin (1b) vs Emaj (4#), cost=[accid=1,dist=0,disj=1,color=0], prevton=Dmaj (2#), (dist: 2 vs 2)
+[pse_warning] PSV 393-400: tie break fail (2 bests): [accid=2,dist=12,disj=1,color=0] accid=2,dist=12,disj=1,color=0 accid=2,dist=12,disj=1,color=0 
+global ton: OK: ( 2 ), diff: 4
+
+
+BWV 875 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_875/xml_score.musicxml
+Prélude No. 6 in D Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 581 notes, 61 bars, add_tons 25
+[pse_warning] PSV 419-425: tie break fail (2 bests): [accid=2,dist=6,disj=1,color=1] accid=2,dist=6,disj=1,color=1 accid=2,dist=6,disj=1,color=1 
+global ton: OK: ( -1 ), diff: 5
+
+Prélude No. 6 in D Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 510 notes, 61 bars, add_tons 25
+[pse_debug] PST init: bar 36 EMPTY
+[pse_warning] PSV 165-171, estimation locals, tie break fail Dmaj (2#) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Fmaj (1b), (dist: 3 vs 3)
+[pse_debug] PSV: estimate local for 3: empty vector 273-273, keeping previous 16
+[pse_warning] PSV 385-390, estimation locals, tie break fail Dmin (1b) vs Cmaj (0), cost=[accid=0,dist=0,disj=0,color=0], prevton=Dmaj (2#), (dist: 2 vs 2)
+[pse_warning] PSV 470-488, estimation locals, tie break fail Dmin (1b) vs Cmaj (0), cost=[accid=0,dist=0,disj=0,color=0], prevton=Bmin (2#), (dist: 3 vs 3)
+global ton: OK: ( -1 ), diff: 7
+
+
+BWV 875 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_875/xml_score.musicxml
+Fugue No. 6 in 3 voices in D Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 487 notes, 27 bars, add_tons 25
+[pse_warning] PSV 345-369: tie break fail (2 bests): [accid=5,dist=13,disj=1,color=1] accid=5,dist=13,disj=1,color=1 accid=5,dist=13,disj=1,color=1 
+global ton: OK: ( -1 ), diff: 28
+
+Fugue No. 6 in 3 voices in D Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 344 notes, 27 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+global ton: OK: ( -1 ), diff: 7
+
+
+BWV 876 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_876/xml_score.musicxml
+Prélude No. 7 in E♭ Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 561 notes, 71 bars, add_tons 25
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PSV: estimate local for 1: empty vector 29-29, keeping previous 1
+global ton: OK: ( -3 ), diff: 3
+
+Prélude No. 7 in E♭ Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 384 notes, 71 bars, add_tons 25
+[pse_debug] PST init: bar 42 EMPTY
+[pse_debug] PSV: estimate local for 1: empty vector 245-245, keeping previous 2
+[pse_warning] PSV 143-148: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+[pse_warning] PSV 236-241: tie break fail (2 bests): [accid=1,dist=6,disj=0,color=0] accid=1,dist=6,disj=0,color=0 accid=1,dist=6,disj=0,color=0 
+global ton: OK: ( -3 ), diff: 3
+
+
+BWV 876 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_876/xml_score.musicxml
+Fugue No. 7 in 4 voices in E♭ Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 377 notes, 70 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 12 EMPTY
+[pse_debug] PST init: bar 35 EMPTY
+[pse_debug] PSV: estimate local for 1: empty vector 0-0, keeping previous 1
+[pse_debug] PSV: estimate local for 1: empty vector 0-0, keeping previous 1
+[pse_debug] PSV: estimate local for 1: empty vector 0-0, keeping previous 1
+[pse_debug] PSV: estimate local for 1: empty vector 0-0, keeping previous 1
+[pse_debug] PSV: estimate local for 1: empty vector 0-0, keeping previous 1
+[pse_debug] PSV: estimate local for 1: empty vector 0-0, keeping previous 1
+[pse_debug] PSV: estimate local for 1: empty vector 19-19, keeping previous 1
+[pse_debug] PSV: estimate local for 1: empty vector 155-155, keeping previous 1
+[pse_warning] PSV 205-215, estimation locals, tie break fail Cmin (3b) vs Bbmaj (2b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Ebmaj (3b), (dist: 1 vs 1)
+global ton: OK: ( -3 ), diff: 0
+
+Fugue No. 7 in 4 voices in E♭ Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 373 notes, 70 bars, add_tons 25
+[pse_warning] PSV 125-130: tie break fail (2 bests): [accid=2,dist=4,disj=0,color=0] accid=2,dist=4,disj=0,color=0 accid=2,dist=4,disj=0,color=0 
+[pse_warning] PSV 184-190: tie break fail (2 bests): [accid=1,dist=1,disj=0,color=0] accid=1,dist=1,disj=0,color=0 accid=1,dist=1,disj=0,color=0 
+global ton: OK:  ( -3 ), diff: 2
+
+
+BWV 880 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_880/xml_score.musicxml
+Prélude No. 11 in F Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 799 notes, 72 bars, add_tons 25
+[pse_warning] PSV 234-250, estimation locals, tie break fail Dmin (1b) vs Cmaj (0), cost=[accid=2,dist=0,disj=0,color=0], prevton=Fmaj (1b), (dist: 1 vs 1)
+[pse_warning] PSV 313-328, estimation locals, tie break fail Dmin (1b) vs Cmaj (0), cost=[accid=1,dist=0,disj=1,color=0], prevton=Fmaj (1b), (dist: 1 vs 1)
+global ton: OK: ( -1 ), diff: 6
+
+Prélude No. 11 in F Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 677 notes, 72 bars, add_tons 25
+[pse_warning] PSV 10-25: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+[pse_warning] PSV 541-556: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+global ton: OK: ( -1 ), diff: 7
+
+
+BWV 880 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_880/xml_score.musicxml
+Fugue No. 11 in 3 voices in F Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 688 notes, 99 bars, add_tons 25
+[pse_warning] PSV 580-587, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Fmaj (1b), (dist: 3 vs 3)
+[pse_warning] PSV 550-556: tie break fail (2 bests): [accid=2,dist=15,disj=1,color=0] accid=2,dist=15,disj=1,color=0 accid=2,dist=15,disj=1,color=0 
+[pse_warning] PSV 562-570: tie break fail (2 bests): [accid=2,dist=10,disj=0,color=0] accid=2,dist=10,disj=0,color=0 accid=2,dist=10,disj=0,color=0 
+global ton: OK: ( -1 ), diff: 7
+
+Fugue No. 11 in 3 voices in F Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 416 notes, 99 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PST init: bar 8 EMPTY
+[pse_debug] PST init: bar 9 EMPTY
+[pse_debug] PST init: bar 10 EMPTY
+[pse_debug] PST init: bar 11 EMPTY
+[pse_debug] PST init: bar 12 EMPTY
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_debug] PSV: estimate local for 3: empty vector 0-0, keeping previous 3
+[pse_warning] PSV 309-311, estimation locals, tie break fail Amin (0) vs Fmin (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Fmaj (1b), (dist: 2 vs 2)
+[pse_warning] PSV 293-299: tie break fail (2 bests): [accid=3,dist=2,disj=0,color=0] accid=3,dist=2,disj=0,color=0 accid=3,dist=2,disj=0,color=0 
+global ton: OK: ( -1 ), diff: 7
+
+
+BWV 883 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_883/xml_score.musicxml
+Prélude No. 14 in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 524 notes, 43 bars, add_tons 25
+[pse_warning] PSV 508-522: tie break fail (2 bests): [accid=2,dist=6,disj=0,color=0] accid=2,dist=6,disj=0,color=0 accid=2,dist=6,disj=0,color=0 
+global ton: NO: ( 4 was <music21.key.KeySignature of 3 sharps> ), diff: 13
+
+Prélude No. 14 in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 414 notes, 43 bars, add_tons 25
+[pse_warning] PSV 33-38: tie break fail (2 bests): [accid=1,dist=1,disj=2,color=0] accid=1,dist=1,disj=2,color=0 accid=1,dist=1,disj=2,color=0 
+[pse_warning] PSV 38-53: tie break fail (2 bests): [accid=2,dist=2,disj=0,color=0] accid=2,dist=2,disj=0,color=0 accid=2,dist=2,disj=0,color=0 
+[pse_warning] PSV 53-62: tie break fail (2 bests): [accid=2,dist=8,disj=1,color=0] accid=2,dist=8,disj=1,color=0 accid=2,dist=8,disj=1,color=0 
+[pse_warning] PSV 184-193: tie break fail (2 bests): [accid=1,dist=1,disj=0,color=0] accid=1,dist=1,disj=0,color=0 accid=1,dist=1,disj=0,color=0 
+global ton: OK: ( 3 ), diff: 4
+
+
+BWV 883 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_883/xml_score.musicxml
+Fugue No. 14 in 3 voices in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 809 notes, 70 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PSV: estimate local for 7: empty vector 0-0, keeping previous 7
+[pse_debug] PSV: estimate local for 7: empty vector 0-0, keeping previous 7
+[pse_debug] PSV: estimate local for 7: empty vector 0-0, keeping previous 7
+[pse_warning] PSV 107-120, estimation locals, tie break fail F#min (3#) vs Emaj (4#), cost=[accid=2,dist=0,disj=0,color=0], prevton=Amaj (3#), (dist: 1 vs 1)
+[pse_warning] PSV 578-594, estimation locals, tie break fail Bmin (2#) vs Gmaj (1#), cost=[accid=2,dist=0,disj=1,color=0], prevton=Dmaj (2#), (dist: 1 vs 1)
+[pse_warning] PSV 28-33: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+[pse_warning] PSV 312-334: tie break fail (2 bests): [accid=2,dist=7,disj=0,color=0] accid=2,dist=7,disj=0,color=0 accid=2,dist=7,disj=0,color=0 
+global ton: OK: ( 3 ), diff: 5
+
+Fugue No. 14 in 3 voices in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 688 notes, 70 bars, add_tons 25
+[pse_warning] PSV 22-24, estimation locals, tie break fail Gmin (2b) vs C#maj (7#), cost=[accid=0,dist=0,disj=0,color=0], prevton=Amaj (3#), (dist: 4 vs 4)
+global ton: OK: ( 3 ), diff: 4
+
+
+BWV 884 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_884/xml_score.musicxml
+Prélude No. 15 in G Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 484 notes, 48 bars, add_tons 25
+[pse_warning] PSV 133-145: tie break fail (2 bests): [accid=3,dist=24,disj=2,color=0] accid=3,dist=24,disj=2,color=0 accid=3,dist=24,disj=2,color=0 
+global ton: OK: ( 1 ), diff: 1
+
+Prélude No. 15 in G Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 422 notes, 48 bars, add_tons 25
+global ton: OK: ( 1 ), diff: 0
+
+
+BWV 884 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_884/xml_score.musicxml
+Fugue No. 15 in 3 voices in G Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 421 notes, 72 bars, add_tons 25
+[pse_debug] PST init: bar 59 EMPTY
+[pse_debug] PST init: bar 60 EMPTY
+[pse_debug] PST init: bar 61 EMPTY
+[pse_debug] PST init: bar 62 EMPTY
+[pse_debug] PSV: estimate local for 5: empty vector 370-370, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 370-370, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 370-370, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 370-370, keeping previous 5
+[pse_warning] PSV 370-381: tie break fail (2 bests): [accid=2,dist=1,disj=1,color=0] accid=2,dist=1,disj=1,color=0 accid=2,dist=1,disj=1,color=0 
+global ton: OK: ( 1 ), diff: 0
+
+Fugue No. 15 in 3 voices in G Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 321 notes, 72 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PST init: bar 8 EMPTY
+[pse_debug] PST init: bar 9 EMPTY
+[pse_debug] PST init: bar 10 EMPTY
+[pse_debug] PST init: bar 11 EMPTY
+[pse_debug] PST init: bar 12 EMPTY
+[pse_debug] PST init: bar 13 EMPTY
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_debug] PSV: estimate local for 5: empty vector 0-0, keeping previous 5
+[pse_warning] PSV 89-95, estimation locals, tie break fail Emin (1#) vs Dmaj (2#), cost=[accid=0,dist=0,disj=0,color=0], prevton=Emaj (4#), (dist: 2 vs 2)
+[pse_warning] PSV 164-170, estimation locals, tie break fail Amin (0) vs Gmaj (1#), cost=[accid=0,dist=0,disj=0,color=0], prevton=Amaj (3#), (dist: 2 vs 2)
+global ton: OK: ( 1 ), diff: 0
+
+
+BWV 885 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_885/xml_score.musicxml
+Prélude No. 16 in G Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 355 notes, 21 bars, add_tons 25
+global ton: OK: ( -2 ), [pse_warning] PSV 237-254, estimation locals, tie break fail Fmaj (1b) vs Ebmaj (3b), cost=[accid=2,dist=0,disj=2,color=0], prevton=Bbmaj (2b), (dist: 1 vs 1)
+diff: 10
+Prélude No. 16 in G Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 237 notes, 21 bars, add_tons 25
+[pse_warning] PSV 15-27: tie break fail (2 bests): [accid=2,dist=16,disj=0,color=0] accid=2,dist=16,disj=0,color=0 accid=2,dist=16,disj=0,color=0 
+[pse_warning] PSV 27-33: tie break fail (2 bests): [accid=1,dist=7,disj=0,color=0] accid=1,dist=7,disj=0,color=0 accid=1,dist=7,disj=0,color=0 
+[pse_warning] PSV 106-114: tie break fail (2 bests): [accid=1,dist=1,disj=0,color=0] accid=1,dist=1,disj=0,color=0 accid=1,dist=1,disj=0,color=0 
+global ton: OK: ( -2 ), diff: 6
+
+
+BWV 885 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_885/xml_score.musicxml
+Fugue No. 16 in 4 voices in G Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 884 notes, 84 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PSV: estimate local for 2: empty vector 0-0, keeping previous 2
+[pse_debug] PSV: estimate local for 2: empty vector 0-0, keeping previous 2
+[pse_debug] PSV: estimate local for 2: empty vector 0-0, keeping previous 2
+[pse_debug] PSV: estimate local for 2: empty vector 0-0, keeping previous 2
+[pse_warning] PSV 394-406: tie break fail (2 bests): [accid=1,dist=2,disj=0,color=0] accid=1,dist=2,disj=0,color=0 accid=1,dist=2,disj=0,color=0 
+[pse_warning] PSV 646-657: tie break fail (2 bests): [accid=2,dist=8,disj=0,color=0] accid=2,dist=8,disj=0,color=0 accid=2,dist=8,disj=0,color=0 
+global ton: OK: ( -2 ), diff: 9
+
+Fugue No. 16 in 4 voices in G Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 851 notes, 84 bars, add_tons 25
+[pse_warning] PSV 205-221, estimation locals, tie break fail Gmin (2b) vs Fmaj (1b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmaj (2b), (dist: 1 vs 1)
+[pse_warning] PSV 662-680: tie break fail (2 bests): [accid=2,dist=15,disj=0,color=1] accid=2,dist=15,disj=0,color=1 accid=2,dist=15,disj=0,color=1 
+global ton: OK: ( -2 ), diff: 5
+
+
+BWV 887 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_887/xml_score.musicxml
+Prélude No. 18 in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 672 notes, 50 bars, add_tons 25
+[pse_warning] PSV 159-175: tie break fail (2 bests): [accid=3,dist=112,disj=2,color=0] accid=3,dist=112,disj=2,color=0 accid=3,dist=112,disj=2,color=0 
+global ton: NO: ( 6 was <music21.key.KeySignature of 5 sharps> ), diff: 55
+
+Prélude No. 18 in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 646 notes, 50 bars, add_tons 25
+[pse_warning] PSV 136-153, estimation locals, tie break fail Fmin (4b) vs Ebmaj (3b), cost=[accid=4,dist=0,disj=0,color=0], prevton=Abmaj (4b), (dist: 1 vs 1)
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+[pse_warning] PSV 493-509: tie break fail (2 bests): [accid=2,dist=16,disj=4,color=0] accid=2,dist=16,disj=4,color=0 accid=2,dist=16,disj=4,color=0 
+global ton: NO: ( -4 was <music21.key.KeySignature of 5 sharps> ), diff: 566
+
+
+BWV 887 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_887/xml_score.musicxml
+Fugue No. 18 in 3 voices in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 1045 notes, 143 bars, add_tons 25
+[pse_warning] PSV 174-184: tie break fail (2 bests): [accid=1,dist=2,disj=0,color=0] accid=1,dist=2,disj=0,color=0 accid=1,dist=2,disj=0,color=0 
+[pse_warning] PSV 699-711: tie break fail (2 bests): [accid=2,dist=3,disj=1,color=0] accid=2,dist=3,disj=1,color=0 accid=2,dist=3,disj=1,color=0 
+global ton: OK: ( 5 ), diff: 102
+
+Fugue No. 18 in 3 voices in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 647 notes, 143 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PST init: bar 8 EMPTY
+[pse_debug] PST init: bar 9 EMPTY
+[pse_debug] PST init: bar 10 EMPTY
+[pse_debug] PST init: bar 11 EMPTY
+[pse_debug] PST init: bar 31 EMPTY
+[pse_debug] PST init: bar 68 EMPTY
+[pse_debug] PST init: bar 69 EMPTY
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 72-72, keeping previous 10
+[pse_debug] PSV: estimate local for 9: empty vector 248-248, keeping previous 0
+[pse_debug] PSV: estimate local for 9: empty vector 248-248, keeping previous 0
+[pse_warning] PSV 258-260, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=0,color=0], prevton=Amin (0), (dist: 5 vs 5)
+[pse_warning] PSV 282-290: tie break fail (2 bests): [accid=1,dist=1,disj=0,color=0] accid=1,dist=1,disj=0,color=0 accid=1,dist=1,disj=0,color=0 
+[pse_warning] PSV 298-306: tie break fail (2 bests): [accid=1,dist=2,disj=1,color=0] accid=1,dist=2,disj=1,color=0 accid=1,dist=2,disj=1,color=0 
+[pse_warning] PSV 335-340: tie break fail (2 bests): [accid=1,dist=6,disj=1,color=0] accid=1,dist=6,disj=1,color=0 accid=1,dist=6,disj=1,color=0 
+[pse_warning] PSV 340-345: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+[pse_warning] PSV 451-455: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+global ton: OK: ( 5 ), diff: 73
+
+
+BWV 888 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_888/xml_score.musicxml
+Prélude No. 19 in A Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 502 notes, 33 bars, add_tons 25
+global ton: OK: ( 3 ), diff: 1
+
+Prélude No. 19 in A Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 276 notes, 33 bars, add_tons 25
+global ton: OK: ( 3 ), diff: 1
+
+
+BWV 888 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_888/xml_score.musicxml
+Fugue No. 19 in 3 voices in A Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 467 notes, 29 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PSV: estimate local for 7: empty vector 0-0, keeping previous 7
+global ton: OK: ( 3 ), diff: 2
+
+Fugue No. 19 in 3 voices in A Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 337 notes, 29 bars, add_tons 25
+global ton: OK: ( 3 ), diff: 2
+
+
+BWV 889 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_889/xml_score.musicxml
+Prélude No. 20 in A Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 441 notes, 32 bars, add_tons 25
+global ton: OK: ( 0 ), [pse_warning] PSV 299-313, estimation locals, tie break fail Gmaj (1#) vs Fmaj (1b), cost=[accid=5,dist=0,disj=3,color=0], prevton=Cmaj (0), (dist: 1 vs 1)
+[pse_warning] PSV 177-191: tie break fail (2 bests): [accid=2,dist=16,disj=2,color=0] accid=2,dist=16,disj=2,color=0 accid=2,dist=16,disj=2,color=0 
+diff: 35
+
+Prélude No. 20 in A Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 IOStream.flush timed out
+407 notes, 32 bars, add_tons 25
+global ton: OK: ( 0 ), [pse_warning] PSV 69-83: tie break fail (2 bests): [accid=2,dist=16,disj=2,color=0] accid=2,dist=16,disj=2,color=0 accid=2,dist=16,disj=2,color=0 
+diff: 41
+
+
+BWV 889 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_889/xml_score.musicxml
+Fugue No. 20 in 3 voices in A Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 396 notes, 28 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_debug] PSV: estimate local for 4: empty vector 0-0, keeping previous 4
+[pse_warning] PSV 158-182, estimation locals, tie break fail Emin (1#) vs Dmaj (2#), cost=[accid=1,dist=0,disj=4,color=0], prevton=Gmaj (1#), (dist: 1 vs 1)
+global ton: OK: ( 0 ), diff: 6
+
+Fugue No. 20 in 3 voices in A Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 IOStream.flush timed out
+366 notes, 28 bars, add_tons 25
+global ton: OK: ( 0 ), diff: 2
+
+
+BWV 891 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_891/xml_score.musicxml
+Prélude No. 22 in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 730 notes, 83 bars, add_tons 25
+[pse_warning] PSV 0-6, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=1,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 6-10, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 31-40, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=2,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 192-201, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 201-216, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 216-226, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=1,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 536-545, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Cmin (3b), (dist: 2 vs 2)
+[pse_warning] PSV 551-563, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 563-576, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 637-652, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 652-668, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 668-684, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+[pse_warning] PSV 684-693, estimation locals, tie break fail Ebmin (6b) vs Ebmaj (3b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Bbmin (5b), (dist: 3 vs 3)
+global ton: OK: ( -5 ), diff: 16
+
+Prélude No. 22 in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 498 notes, 83 bars, add_tons 25
+[pse_warning] PSV 372-380, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=1,color=0], prevton=F#maj (6#), (dist: 10 vs 10)
+global ton: NO: ( 7 was <music21.key.KeySignature of 5 flats> ), diff: 461
+
+
+BWV 891 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_891/xml_score.musicxml
+Fugue No. 22 in 4 voices in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 950 notes, 101 bars, add_tons 25
+[pse_warning] PSV 889-897, estimation locals, tie break fail Bbmin (5b) vs Bbmaj (2b), cost=[accid=1,dist=0,disj=0,color=0], prevton=Abmaj (4b), (dist: 2 vs 2)
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+[pse_warning] PSV 139-150: tie break fail (2 bests): [accid=2,dist=14,disj=0,color=0] accid=2,dist=14,disj=0,color=0 accid=2,dist=14,disj=0,color=0 
+[pse_warning] PSV 398-409: tie break fail (2 bests): [accid=4,dist=66,disj=0,color=2] accid=4,dist=66,disj=0,color=2 accid=4,dist=66,disj=0,color=2 
+[pse_warning] PSV 522-536: tie break fail (2 bests): [accid=5,dist=87,disj=0,color=1] accid=5,dist=87,disj=0,color=1 accid=5,dist=87,disj=0,color=1 
+global ton: NO: ( -4 was <music21.key.KeySignature of 5 flats> ), diff: 34
+
+Fugue No. 22 in 4 voices in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 879 notes, 101 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PST init: bar 8 EMPTY
+[pse_debug] PST init: bar 9 EMPTY
+[pse_debug] PSV: estimate local for 0: empty vector 0-0, keeping previous 0
+[pse_debug] PSV: estimate local for 0: empty vector 0-0, keeping previous 0
+[pse_debug] PSV: estimate local for 0: empty vector 0-0, keeping previous 0
+[pse_debug] PSV: estimate local for 0: empty vector 0-0, keeping previous 0
+[pse_debug] PSV: estimate local for 0: empty vector 4-4, keeping previous 2
+[pse_debug] PSV: estimate local for 0: empty vector 4-4, keeping previous 2
+[pse_debug] PSV: estimate local for 0: empty vector 4-4, keeping previous 2
+[pse_debug] PSV: estimate local for 0: empty vector 4-4, keeping previous 2
+[pse_debug] PSV: estimate local for 0: empty vector 4-4, keeping previous 2
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+[pse_warning] PSV 95-104: tie break fail (2 bests): [accid=2,dist=12,disj=0,color=0] accid=2,dist=12,disj=0,color=0 accid=2,dist=12,disj=0,color=0 
+[pse_warning] PSV 718-724: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+[pse_warning] PSV 803-814: tie break fail (2 bests): [accid=3,dist=9,disj=1,color=0] accid=3,dist=9,disj=1,color=0 accid=3,dist=9,disj=1,color=0 
+global ton: NO: ( -4 was <music21.key.KeySignature of 5 flats> ), diff: 11
+
+
+BWV 892 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_892/xml_score.musicxml
+Prélude No. 23 in B Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 589 notes, 46 bars, add_tons 25
+[pse_warning] PSV 138-151: tie break fail (2 bests): [accid=1,dist=5,disj=1,color=0] accid=1,dist=5,disj=1,color=0 accid=1,dist=5,disj=1,color=0 
+[pse_warning] PSV 176-186: tie break fail (2 bests): [accid=3,dist=20,disj=0,color=0] accid=3,dist=20,disj=0,color=0 accid=3,dist=20,disj=0,color=0 
+[pse_warning] PSV 360-373: tie break fail (2 bests): [accid=1,dist=5,disj=3,color=0] accid=1,dist=5,disj=3,color=0 accid=1,dist=5,disj=3,color=0 
+[pse_warning] PSV 480-492: tie break fail (2 bests): [accid=1,dist=2,disj=1,color=0] accid=1,dist=2,disj=1,color=0 accid=1,dist=2,disj=1,color=0 
+[pse_warning] PSV 492-508: tie break fail (2 bests): [accid=1,dist=1,disj=3,color=0] accid=1,dist=1,disj=3,color=0 accid=1,dist=1,disj=3,color=0 
+global ton: OK: ( 5 ), diff: 14
+
+Prélude No. 23 in B Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 476 notes, 46 bars, add_tons 25
+[pse_warning] PSV 399-411, estimation locals, tie break fail F#maj (6#) vs Emaj (4#), cost=[accid=2,dist=0,disj=1,color=0], prevton=Bmaj (5#), (dist: 1 vs 1)
+[pse_warning] PSV 290-306: tie break fail (2 bests): [accid=2,dist=18,disj=0,color=0] accid=2,dist=18,disj=0,color=0 accid=2,dist=18,disj=0,color=0 
+global ton: OK: ( 5 ), diff: 14
+
+
+BWV 892 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_892/xml_score.musicxml
+Fugue No. 23 in 4 voices in B Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 764 notes, 104 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 8 EMPTY
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 0-0, keeping previous 9
+[pse_debug] PSV: estimate local for 9: empty vector 4-4, keeping previous 10
+[pse_warning] PSV 620-625, estimation locals, tie break fail F#min (3#) vs Emaj (4#), cost=[accid=0,dist=0,disj=0,color=0], prevton=F#maj (6#), (dist: 2 vs 2)
+global ton: OK: ( 5 ), diff: 17
+
+Fugue No. 23 in 4 voices in B Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 702 notes, 104 bars, add_tons 25
+global ton: OK: ( 5 ), [pse_debug] PST init: bar 29 EMPTY
+[pse_debug] PST init: bar 45 EMPTY
+[pse_debug] PST init: bar 46 EMPTY
+[pse_debug] PSV: estimate local for 9: empty vector 177-177, keeping previous 10
+[pse_debug] PSV: estimate local for 9: empty vector 298-298, keeping previous 12
+[pse_debug] PSV: estimate local for 9: empty vector 298-298, keeping previous 12
+[pse_warning] PSV 90-96: tie break fail (2 bests): [accid=2,dist=42,disj=1,color=0] accid=2,dist=42,disj=1,color=0 accid=2,dist=42,disj=1,color=0 
+[pse_warning] PSV 688-697: tie break fail (2 bests): [accid=1,dist=9,disj=1,color=0] accid=1,dist=9,disj=1,color=0 accid=1,dist=9,disj=1,color=0 
+diff: 19
+
+
+BWV 893 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_893/xml_score.musicxml
+Prélude No. 24 in B Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 553 notes, 66 bars, add_tons 25
+[pse_warning] PSV 31-34, estimation locals, tie break fail Bmin (2#) vs Amaj (3#), cost=[accid=0,dist=0,disj=0,color=0], prevton=F#maj (6#), (dist: 3 vs 3)
+[pse_warning] PSV 188-196, estimation locals, tie break fail Emaj (4#) vs Dmaj (2#), cost=[accid=1,dist=0,disj=1,color=0], prevton=Amaj (3#), (dist: 1 vs 1)
+[pse_warning] PSV 359-363: tie break fail (2 bests): [accid=2,dist=5,disj=0,color=0] accid=2,dist=5,disj=0,color=0 accid=2,dist=5,disj=0,color=0 
+global ton: OK: ( 2 ), diff: 1
+
+Prélude No. 24 in B Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 364 notes, 66 bars, add_tons 25
+[pse_warning] PSV 175-178, estimation locals, tie break fail Emin (1#) vs Dmaj (2#), cost=[accid=0,dist=0,disj=0,color=0], prevton=Bmaj (5#), (dist: 3 vs 3)
+[pse_warning] PSV 359-363, estimation locals, tie break fail Bmin (2#) vs Amaj (3#), cost=[accid=0,dist=0,disj=0,color=0], prevton=Bmaj (5#), (dist: 2 vs 2)
+[pse_warning] PSV 0-7: tie break fail (2 bests): [accid=1,dist=1,disj=1,color=0] accid=1,dist=1,disj=1,color=0 accid=1,dist=1,disj=1,color=0 
+[pse_warning] PSV 11-18: tie break fail (2 bests): [accid=1,dist=8,disj=1,color=0] accid=1,dist=8,disj=1,color=0 accid=1,dist=8,disj=1,color=0 
+[pse_warning] PSV 204-210: tie break fail (2 bests): [accid=1,dist=3,disj=2,color=0] accid=1,dist=3,disj=2,color=0 accid=1,dist=3,disj=2,color=0 
+[pse_warning] PSV 219-226: tie break fail (2 bests): [accid=1,dist=15,disj=2,color=0] accid=1,dist=15,disj=2,color=0 accid=1,dist=15,disj=2,color=0 
+global ton: OK: ( 2 ), diff: 2
+
+
+BWV 893 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_893/xml_score.musicxml
+Fugue No. 24 in 3 voices in B Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 575 notes, 101 bars, add_tons 25
+[pse_warning] PSV 137-139, estimation locals, tie break fail Amaj (3#) vs Gmaj (1#), cost=[accid=0,dist=0,disj=0,color=0], prevton=Amin (0), (dist: 2 vs 2)
+[pse_warning] PSV 251-257: tie break fail (2 bests): [accid=1,dist=8,disj=0,color=0] accid=1,dist=8,disj=0,color=0 accid=1,dist=8,disj=0,color=0 
+[pse_warning] PSV 269-275: tie break fail (2 bests): [accid=2,dist=5,disj=0,color=0] accid=2,dist=5,disj=0,color=0 accid=2,dist=5,disj=0,color=0 
+[pse_warning] PSV 522-528: tie break fail (2 bests): [accid=1,dist=2,disj=0,color=0] accid=1,dist=2,disj=0,color=0 accid=1,dist=2,disj=0,color=0 
+[pse_warning] PSV 540-546: tie break fail (2 bests): [accid=2,dist=10,disj=0,color=0] accid=2,dist=10,disj=0,color=0 accid=2,dist=10,disj=0,color=0 
+global ton: OK: ( 2 ), diff: 7
+
+Fugue No. 24 in 3 voices in B Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 466 notes, 101 bars, add_tons 25
+[pse_debug] PST init: bar 0 EMPTY
+[pse_debug] PST init: bar 1 EMPTY
+[pse_debug] PST init: bar 2 EMPTY
+[pse_debug] PST init: bar 3 EMPTY
+[pse_debug] PST init: bar 4 EMPTY
+[pse_debug] PST init: bar 5 EMPTY
+[pse_debug] PST init: bar 6 EMPTY
+[pse_debug] PST init: bar 7 EMPTY
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_debug] PSV: estimate local for 6: empty vector 0-0, keeping previous 6
+[pse_warning] PSV 69-74, estimation locals, tie break fail Bbmin (5b) vs Abmaj (4b), cost=[accid=0,dist=0,disj=1,color=0], prevton=Amaj (3#), (dist: 7 vs 7)
+[pse_warning] PSV 80-85, estimation locals, tie break fail Cmin (3b) vs F#maj (6#), cost=[accid=0,dist=0,disj=1,color=0], prevton=Dmaj (2#), (dist: 4 vs 4)
+[pse_warning] PSV 246-252: tie break fail (2 bests): [accid=1,dist=2,disj=1,color=0] accid=1,dist=2,disj=1,color=0 accid=1,dist=2,disj=1,color=0 
+global ton: OK: ( 2 ), diff: 6
+
+
+parts spelled   : 112
+notes spelled   : 56953
+correct spelling: 94.74 %
+correct KS estim: 90.18 %
