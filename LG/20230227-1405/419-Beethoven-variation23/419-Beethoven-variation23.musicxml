@@ -11,7 +11,7 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     <creator type="composer">L. v. Beethoven</creator>
     <rights>©</rights>
     <encoding>
-      <encoding-date>2023-02-27</encoding-date>
+      <encoding-date>2023-02-28</encoding-date>
       <software>music21 v.7.3.3</software>
       <software>Finale v26.2.2 for Mac</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -76,7 +76,7 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
   <part-list>
     <score-part id="P1">
       <part-name print-object="no">MusicXML Part</part-name>
-      <score-instrument id="Ib925b8fbc9d0f136cd11c532f174b542">
+      <score-instrument id="Iffda28936327f88055dce35058311ddb">
         <instrument-name>SmartMusicSoftSynth</instrument-name>
       </score-instrument>
     </score-part>
@@ -110,6 +110,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
           <line>2</line>
         </clef>
       </attributes>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="121" default-y="-73">
@@ -152,6 +157,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2" width="145">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>D</step>
@@ -212,6 +222,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 3 ==========================-->
     <measure number="3" width="255">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="13" default-y="-80">
@@ -326,6 +341,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 4 ==========================-->
     <measure number="4" width="278">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>D</step>
@@ -448,6 +468,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
           <system-distance>114</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="90">
         <pitch>
           <step>A</step>
@@ -578,6 +603,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 6 ==========================-->
     <measure number="6" width="298">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <wedge number="3" spread="15" type="diminuendo" />
@@ -699,6 +729,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 7 ==========================-->
     <measure number="7" width="321">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <wedge number="4" spread="0" type="crescendo" />
@@ -877,6 +912,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
           <system-distance>114</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="89">
         <rest />
         <duration>5040</duration>
@@ -1182,6 +1222,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9" width="133">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>F</step>
@@ -1217,6 +1262,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10" width="403">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>D</step>
@@ -1423,6 +1473,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
           <system-distance>114</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="92" default-y="-73">
@@ -1698,6 +1753,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
           <system-distance>114</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="92">
         <pitch>
           <step>D</step>
@@ -1988,6 +2048,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13" width="255">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>F</step>
@@ -2135,6 +2200,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
     </measure>
     <!--========================= Measure 14 =========================-->
     <measure number="14" width="255">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>G</step>
@@ -2279,6 +2349,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
           <system-distance>114</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
       <note default-x="92">
         <pitch>
           <step>A</step>
@@ -2590,6 +2665,11 @@ sur l'ariette Venni Amore de V. Righini</movement-title>
           <system-distance>114</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="89" default-y="-73">

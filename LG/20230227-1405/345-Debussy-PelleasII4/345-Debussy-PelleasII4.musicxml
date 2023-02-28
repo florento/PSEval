@@ -9,7 +9,7 @@
     <creator type="composer">C. Debussy</creator>
     <rights>©LG dataset</rights>
     <encoding>
-      <encoding-date>2023-02-27</encoding-date>
+      <encoding-date>2023-02-28</encoding-date>
       <software>music21 v.7.3.3</software>
       <software>Finale v26.2.2 for Mac</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -73,7 +73,7 @@
   <part-list>
     <score-part id="P1">
       <part-name print-object="no">MusicXML Part</part-name>
-      <score-instrument id="I67775220d0383cbf20583c727128510f">
+      <score-instrument id="I8ef606240c29fbf9b32bcb5d5e1b9f18">
         <instrument-name>SmartMusicSoftSynth</instrument-name>
       </score-instrument>
     </score-part>
@@ -109,7 +109,12 @@
       </attributes>
       <direction placement="above">
         <direction-type>
-          <words color="#FF0000" enclosure="none">ks=2</words>
+          <words color="#FF0000" enclosure="none" font-weight="bold">est. global: D major (2)</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
         </direction-type>
       </direction>
       <note default-x="155">
@@ -247,6 +252,11 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2" width="395">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>B</step>
@@ -436,6 +446,11 @@
           <system-distance>80</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="112">
         <pitch>
           <step>C</step>
@@ -567,6 +582,11 @@
     </measure>
     <!--========================= Measure 4 ==========================-->
     <measure number="4" width="285">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>B</step>
@@ -721,6 +741,11 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5" width="284">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>B</step>
@@ -884,6 +909,11 @@
           <system-distance>80</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="115">
         <pitch>
           <step>C</step>
@@ -938,6 +968,11 @@
     </measure>
     <!--========================= Measure 7 ==========================-->
     <measure number="7" width="464">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <rest />
         <duration>7560</duration>

@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2023-02-27</encoding-date>
+      <encoding-date>2023-02-28</encoding-date>
       <software>music21 v.7.3.3</software>
       <software>MuseScore 3.4.2</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,11 +43,11 @@
     <score-part id="P1">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="I61ab6c6c0e57106fca22010e7120f086">
+      <score-instrument id="I9ae94a0d1499d8837ac27e794ef750e8">
         <instrument-name>Voice Oohs</instrument-name>
         <instrument-abbreviation>V</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I61ab6c6c0e57106fca22010e7120f086">
+      <midi-instrument id="I9ae94a0d1499d8837ac27e794ef750e8">
         <midi-channel>1</midi-channel>
         <midi-program>54</midi-program>
       </midi-instrument>
@@ -82,7 +82,12 @@
       </attributes>
       <direction placement="above">
         <direction-type>
-          <words color="#FF0000" enclosure="none">ks=2</words>
+          <words color="#FF0000" enclosure="none" font-weight="bold">est. global: D major (2)</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
         </direction-type>
       </direction>
       <note default-x="110.28" default-y="-25">
@@ -126,6 +131,11 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2" width="150.09">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-15">
         <pitch>
           <step>C</step>
@@ -184,6 +194,11 @@
     </measure>
     <!--========================= Measure 3 ==========================-->
     <measure number="3" width="179.54">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-5">
         <pitch>
           <step>E</step>
@@ -242,6 +257,11 @@
     </measure>
     <!--========================= Measure 4 ==========================-->
     <measure number="4" width="194.39">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest>
           <display-step>G</display-step>
@@ -321,6 +341,11 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5" width="167.32">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-5">
         <pitch>
           <step>E</step>
@@ -397,6 +422,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="99.19" default-y="-20">
         <pitch>
           <step>B</step>
@@ -442,6 +472,11 @@
     </measure>
     <!--========================= Measure 7 ==========================-->
     <measure number="7" width="174.81">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="0">
         <pitch>
           <step>F</step>
@@ -535,6 +570,11 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8" width="151.2">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-5">
         <pitch>
           <step>E</step>
@@ -610,6 +650,11 @@
     </measure>
     <!--========================= Measure 9 ==========================-->
     <measure number="9" width="89.87">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>10080</duration>
@@ -636,6 +681,11 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10" width="164.06">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-5">
         <pitch>
           <step>E</step>
@@ -710,6 +760,11 @@
     </measure>
     <!--========================= Measure 11 =========================-->
     <measure number="11" width="159.76">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-25">
         <pitch>
           <step>A</step>
@@ -780,6 +835,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="99.19" default-y="0">
         <pitch>
           <step>F</step>
@@ -853,6 +913,11 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13" width="163.06">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>5040</duration>
@@ -912,6 +977,11 @@
     </measure>
     <!--========================= Measure 14 =========================-->
     <measure number="14" width="167.93">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">g minor (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>2520</duration>
@@ -968,6 +1038,11 @@
     </measure>
     <!--========================= Measure 15 =========================-->
     <measure number="15" width="96.3">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>5040</duration>
@@ -995,6 +1070,11 @@
     </measure>
     <!--========================= Measure 16 =========================-->
     <measure number="16" width="130.29">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-15">
         <pitch>
           <step>C</step>
@@ -1042,6 +1122,11 @@
     </measure>
     <!--========================= Measure 17 =========================-->
     <measure number="17" width="127.98">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <note default-x="14.36" default-y="-15">
         <pitch>
           <step>C</step>
@@ -1091,6 +1176,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>10080</duration>
@@ -1117,6 +1207,11 @@
     </measure>
     <!--========================= Measure 19 =========================-->
     <measure number="19" width="183.65">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-5">
         <pitch>
           <step>E</step>
@@ -1191,6 +1286,11 @@
     </measure>
     <!--========================= Measure 20 =========================-->
     <measure number="20" width="195.69">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B major (5)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>2520</duration>
@@ -1254,6 +1354,11 @@
     </measure>
     <!--========================= Measure 21 =========================-->
     <measure number="21" width="202.43">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">b minor (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="0">
         <pitch>
           <step>F</step>
@@ -1344,6 +1449,11 @@
     </measure>
     <!--========================= Measure 22 =========================-->
     <measure number="22" width="154.62">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>5040</duration>
@@ -1412,6 +1522,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note default-x="99.19" default-y="-5">
         <pitch>
           <step>E</step>
@@ -1517,6 +1632,11 @@
     </measure>
     <!--========================= Measure 24 =========================-->
     <measure number="24" width="165.51">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">D major (2)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>5040</duration>
@@ -1571,6 +1691,11 @@
     </measure>
     <!--========================= Measure 25 =========================-->
     <measure number="25" width="199.22">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">F# major (6)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="0">
         <pitch>
           <step>F</step>
@@ -1668,6 +1793,11 @@
     </measure>
     <!--========================= Measure 26 =========================-->
     <measure number="26" width="147.8">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">f# minor (3)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="3.29" default-y="-40" relative-y="-40">
@@ -1735,6 +1865,11 @@
     </measure>
     <!--========================= Measure 27 =========================-->
     <measure number="27" width="117.44">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">f# minor (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-10">
         <pitch>
           <step>D</step>

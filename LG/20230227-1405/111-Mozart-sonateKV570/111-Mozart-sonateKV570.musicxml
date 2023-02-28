@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">W. A. Mozart</creator>
     <encoding>
-      <encoding-date>2023-02-27</encoding-date>
+      <encoding-date>2023-02-28</encoding-date>
       <software>music21 v.7.3.3</software>
       <software>MuseScore 4.0.1</software>
     </encoding>
@@ -23,11 +23,11 @@
     <score-part id="P1">
       <part-name>Piano</part-name>
       <part-abbreviation>Pno.</part-abbreviation>
-      <score-instrument id="I3f93b9cb5c01a8cb55a037400ee885b9">
+      <score-instrument id="Ib58678a715d66ac08348fba80fc4a61a">
         <instrument-name>Piano</instrument-name>
         <instrument-abbreviation>Pno</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="I3f93b9cb5c01a8cb55a037400ee885b9">
+      <midi-instrument id="Ib58678a715d66ac08348fba80fc4a61a">
         <midi-channel>1</midi-channel>
         <midi-program>1</midi-program>
       </midi-instrument>
@@ -56,6 +56,11 @@
           <words enclosure="none" font-weight="bold">Allegretto</words>
         </direction-type>
       </direction>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>B</step>
@@ -69,6 +74,11 @@
     </measure>
     <!--========================= Measure 1 ==========================-->
     <measure number="1">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>D</step>
@@ -143,6 +153,11 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <grace slash="yes" />
         <pitch>
@@ -259,6 +274,11 @@
     </measure>
     <!--========================= Measure 3 ==========================-->
     <measure number="3">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G- major (-6)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>B</step>
@@ -345,6 +365,11 @@
     </measure>
     <!--========================= Measure 4 ==========================-->
     <measure number="4">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E- major (-3)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>D</step>
@@ -464,6 +489,11 @@
     <!--========================= Measure 5 ==========================-->
     <measure number="5">
       <print new-system="yes" />
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E- major (-3)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>D</step>
@@ -533,6 +563,11 @@
     </measure>
     <!--========================= Measure 6 ==========================-->
     <measure number="6">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <grace slash="yes" />
         <pitch>
@@ -642,6 +677,11 @@
     </measure>
     <!--========================= Measure 7 ==========================-->
     <measure number="7">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>B</step>
@@ -761,6 +801,11 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>B</step>
@@ -898,6 +943,11 @@
     <!--========================= Measure 9 ==========================-->
     <measure number="9">
       <print new-system="yes" />
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>F</step>
@@ -967,6 +1017,11 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>5040</duration>
@@ -1070,6 +1125,11 @@
     </measure>
     <!--========================= Measure 11 =========================-->
     <measure number="11">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest />
         <duration>5040</duration>
@@ -1234,6 +1294,11 @@
     <!--========================= Measure 12 =========================-->
     <measure number="12">
       <print new-system="yes" />
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest>
           <display-step>G</display-step>
@@ -1429,6 +1494,11 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">F major (-1)</words>
+        </direction-type>
+      </direction>
       <note>
         <pitch>
           <step>D</step>

@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">Music21</creator>
     <encoding>
-      <encoding-date>2023-02-27</encoding-date>
+      <encoding-date>2023-02-28</encoding-date>
       <software>music21 v.7.3.3</software>
       <software>MuseScore 3.5.2</software>
       <supports attribute="new-system" element="print" type="yes" value="yes" />
@@ -43,11 +43,11 @@
     <score-part id="P1">
       <part-name>Voice</part-name>
       <part-abbreviation>V</part-abbreviation>
-      <score-instrument id="Ib3c4985774c4606035aa7d54867a2df0">
+      <score-instrument id="I248c0ebf39a44c358e3260102ee5155e">
         <instrument-name>Voice Oohs</instrument-name>
         <instrument-abbreviation>V</instrument-abbreviation>
       </score-instrument>
-      <midi-instrument id="Ib3c4985774c4606035aa7d54867a2df0">
+      <midi-instrument id="I248c0ebf39a44c358e3260102ee5155e">
         <midi-channel>1</midi-channel>
         <midi-program>54</midi-program>
       </midi-instrument>
@@ -83,6 +83,11 @@
       <direction placement="above">
         <direction-type>
           <words default-x="-26.96" enclosure="none" font-size="12" font-weight="bold" relative-y="20">Adagio</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
         </direction-type>
       </direction>
       <note>
@@ -279,6 +284,11 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2" width="518.97">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A- major (-4)</words>
+        </direction-type>
+      </direction>
       <note color="#FF0000" default-x="10" default-y="-15">
         <pitch>
           <step>D</step>
@@ -496,6 +506,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note default-x="87.28" default-y="-20">
         <pitch>
           <step>B</step>
@@ -665,6 +680,11 @@
     </measure>
     <!--========================= Measure 4 ==========================-->
     <measure number="4" width="179.67">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note default-x="10" default-y="-30">
         <pitch>
           <step>G</step>
@@ -728,6 +748,11 @@
     </measure>
     <!--========================= Measure 5 ==========================-->
     <measure number="5" width="440.87">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note>
         <rest>
           <display-step>G</display-step>
@@ -949,6 +974,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">B- major (-2)</words>
+        </direction-type>
+      </direction>
       <note default-x="87.28" default-y="-35">
         <pitch>
           <step>F</step>
@@ -1175,6 +1205,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">G major (1)</words>
+        </direction-type>
+      </direction>
       <note default-x="87.28" default-y="-30">
         <pitch>
           <step>G</step>
@@ -1537,6 +1572,11 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8" width="213.14">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">g minor (-2)</words>
+        </direction-type>
+      </direction>
       <note default-x="13.8" default-y="-50">
         <pitch>
           <step>C</step>

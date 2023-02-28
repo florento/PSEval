@@ -8,7 +8,7 @@
   <identification>
     <creator type="composer">D. F. Kuhlau</creator>
     <encoding>
-      <encoding-date>2023-02-27</encoding-date>
+      <encoding-date>2023-02-28</encoding-date>
       <software>music21 v.7.3.3</software>
       <software>Finale 2014 for Windows</software>
       <software>Dolet Light for Finale 2014</software>
@@ -70,7 +70,7 @@
   <part-list>
     <score-part id="P1">
       <part-name>Voice</part-name>
-      <score-instrument id="I2c27d05fce0c70cc91f47da3c8cfc78e">
+      <score-instrument id="If95161a44aac680ce8361faa79d4178a">
         <instrument-name>SmartMusic SoftSynth 1</instrument-name>
       </score-instrument>
     </score-part>
@@ -103,6 +103,11 @@
       <direction placement="above">
         <direction-type>
           <words default-y="40" enclosure="none" font-family="Times New Roman" font-size="13.4" font-weight="bold">Allegro con spirito</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
         </direction-type>
       </direction>
       <direction placement="below">
@@ -159,6 +164,11 @@
     </measure>
     <!--========================= Measure 2 ==========================-->
     <measure number="2" width="235">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="16">
         <pitch>
           <step>C</step>
@@ -209,6 +219,11 @@
     </measure>
     <!--========================= Measure 3 ==========================-->
     <measure number="3" width="151">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <wedge number="1" spread="15" type="diminuendo" />
@@ -243,6 +258,11 @@
     </measure>
     <!--========================= Measure 4 ==========================-->
     <measure number="4" width="242">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="-36" default-y="-72">
@@ -323,6 +343,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <wedge number="2" spread="15" type="diminuendo" />
@@ -357,6 +382,11 @@
     </measure>
     <!--========================= Measure 6 ==========================-->
     <measure number="6" width="244">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="-36" default-y="-75">
@@ -454,6 +484,11 @@
     </measure>
     <!--========================= Measure 7 ==========================-->
     <measure number="7" width="225">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="-36" default-y="-80">
@@ -523,6 +558,11 @@
     </measure>
     <!--========================= Measure 8 ==========================-->
     <measure number="8" width="241">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="-36" default-y="-80">
@@ -620,6 +660,11 @@
           <system-distance>172</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="-36" default-y="-80">
@@ -726,6 +771,11 @@
     </measure>
     <!--========================= Measure 10 =========================-->
     <measure number="10" width="240">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="13">
         <pitch>
           <step>G</step>
@@ -784,6 +834,11 @@
     </measure>
     <!--========================= Measure 11 =========================-->
     <measure number="11" width="306">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A- major (-4)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <dynamics default-x="-36" default-y="-80">
@@ -882,6 +937,11 @@
           <system-distance>150</system-distance>
         </system-layout>
       </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="102">
         <pitch>
           <step>C</step>
@@ -957,6 +1017,11 @@
     </measure>
     <!--========================= Measure 13 =========================-->
     <measure number="13" width="353">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">A major (3)</words>
+        </direction-type>
+      </direction>
       <note default-x="16">
         <grace slash="yes" />
         <pitch>
@@ -1122,6 +1187,11 @@
     </measure>
     <!--========================= Measure 14 =========================-->
     <measure number="14" width="215">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">E major (4)</words>
+        </direction-type>
+      </direction>
       <direction placement="below">
         <direction-type>
           <wedge number="4" spread="15" type="diminuendo" />
