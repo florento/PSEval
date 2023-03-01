@@ -1,6 +1,10 @@
 # 445-Beethoven-sonateop110
 évaluation détaillée
 
+```shell
+> eval_LGitem(445)
+```
+
 - `445-Beethoven-sonateop110.musicxml` 
 - 92 notes
 - 19 bars
@@ -58,14 +62,14 @@ c'est diff. de 16 mais on reste loin de accid=8 pour B maj.
 
 pas de bug apparent, on a plutôt là un contre-exemple de la méthode PSE...
 
-BUGS (mineurs):
+**BUGS** (mineurs):
 - [ ] d'où vient le `accid=16` (cf. rem. prec.)
 
 - [ ] dans le résultat exporté, cf. `445-Beethoven-sonateop110_eval.musicxml`, 
 il y a des altérations abhérentes (`Bb`, `Eb`), pourquoi?
 sans ces abbhérations, on a bien 8 accid.
 
-## recap
+## Recap
 
 - est. global ton: `B major (5)` 
 - g.t. global ton: `<music21.key.KeySignature of 6 flats>`

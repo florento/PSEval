@@ -35,9 +35,9 @@ in log file `LGeval26_20230301-1816.log`
 
 grosses catastrophe est. ton. global:
 examiner la table et les totaux pour estim. globals
-- [ ] 228 (+6 vs -5)
-- [ ] 405 (-6 vs 6)
-- [ ] 445 (5 vs -6)
+- [x] 228 (+6 vs -5)
+- [x] 405 (-6 vs 6)
+- [x] 445 (5 vs -6)
 
 autres cata:
 - [ ] 302 (-2 vs 0)  Ibert

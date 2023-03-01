@@ -1,7 +1,8 @@
 # eval 228-Schuman-myrthen7op25
+évaluation détaillée
 
-```
-eval_LGitem(228)
+```shell
+> eval_LGitem(228)
 ```
 
 `228-Schuman-myrthen7op25.musicxml` 
@@ -9,7 +10,9 @@ eval_LGitem(228)
 - 17 bars, 
 - add_tons 26
 
-PS Table:
+## PS Table
+calculée à l'initialisation (avant estimation des `Locals`)  
+les 2 composantes `dist` et `color` de `Cost` ne sont pas encore évaluées à ce state
 ```
 Gb maj (6b) accid=9, disj=9, dist=0,color=0:  0:0 1:1 2:0 3:0 4:0 5:1 6:0 7:1 8:0 9:2 10:1 11:2 12:0 13:1 14:0 15:0 16:0
 Eb min (6b) accid=13,disj=9, dist=0,color=0:  0:0 1:1 2:0 3:1 4:1 5:1 6:0 7:1 8:0 9:2 10:1 11:2 12:0 13:1 14:1 15:1 16:0
@@ -42,7 +45,7 @@ D# min (6#) accid=11,disj=9, dist=0,color=0:  0:0 1:1 2:0 3:1 4:1 5:1 6:0 7:1 8:
 PST: candidates global: 1
 - `F# major (6)` accid=7, disj=9
 
-BUG:
+**BUGS**:
 - [ ] pour `Db major (-5)` accid=8, disj=9  
   la diff. est 1/62 ~ 1.61% soit moins que les 3% de marge pour selection des cand. globals  
   pourquoi n'est-il pas sélectionné?
@@ -50,8 +53,7 @@ BUG:
 - [ ] pour 1Gbmaj (-6)` accid=9, disj=9  
   la diff. est 2/62 ? 3% 
 
----
-sum-up
+## Sum-up
 
 - est. global ton: `F# major (6)` 
 - g.t. global ton: `<music21.key.KeySignature of 5 flats>`
