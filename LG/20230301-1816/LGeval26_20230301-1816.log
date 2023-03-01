@@ -1,0 +1,1679 @@
+
+eval_LG()
+
+
+starting evaluation of LG dataset - 265 entries
+
+
+
+
+101-Beethoven-bagatelle4op33
+101-Beethoven-bagatelle4op33.musicxml None 70 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( E major was <music21.key.KeySignature of 3 sharps> ), diff: 0
+
+
+102-Beethoven-quatuor16op135
+Quatuor 16 op. 135 mvt 2 L.v. Beethoven 96 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D- major ), diff: 0
+
+
+103-SaintSaens-elephant
+Elephant C. Saint Saens 57 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( E- major ), diff: 0
+
+
+104-Haendel-concertogrosso4op6
+Concerto Grosso 4 op. 6 mvt 4 G. F. Haendel 81 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+105-Schubert-gloria
+Gloria, Messe 2 in G-Dur F. Schubert 67 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( A major was D major ), diff: 0
+
+
+106-Bach-polonaise
+Polonaise, Petit Livre d'Anna Magdalena J. S.  Bach 127 notes, 20 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( G major ), diff: 0
+
+
+107-Wolf-chantEspagnol8
+Chant espagnol No 8 H. Wolf 85 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 4
+global ton: OK: ( D major ), diff: 0
+
+
+108-Beethoven-quatuor13op130
+108-Beethoven-quatuor13op130.musicxml None 61 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+109-Kuhlau-sonatineop60n1
+Kuhlau Sonatina None 90 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( C major was F major ), diff: 1
+
+
+110-Haendel-concertogrosso3
+110-Haendel-concertogrosso3.musicxml None 86 notes, 26 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+111-Mozart-sonateKV570
+Sonate en Sib Majeur KV 570 W. A. Mozart 98 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 4
+
+
+112-Haydn-fantasia
+112-Haydn-fantasia.musicxml None 68 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 1
+
+
+113-Gretchaninoff-retour
+Retour à la maison avec un bouquet de fleurs des champs A. Gretchaninoff 89 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( G major ), diff: 0
+
+
+114-Clementi-rondoSonateop25
+Rondo Sonata 2 Op. 25 mvt 2 M. Clementi 86 notes, 22 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+115-Clementi-sonatineop36n1
+Sonatine Nr 1 op.36 M. Clementi 91 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( G major was <music21.key.KeySignature of no sharps or flats> ), diff: 0
+
+
+117-Schumann-trio2
+Trio F-Dur Nr 2 mvt 3 R. Schumann 72 notes, 32 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D- major ), diff: 0
+
+
+118-Greensleeves
+Greensleeves None 75 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( F major was B- major ), diff: 0
+
+
+119-Mendelssohn-romances31op67
+Mendelssohn Romance None 74 notes, 11 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E- major ), diff: 0
+
+
+120-Bach-gavotte
+Gavotte Suite française No 5 J. S. Bach 130 notes, 26 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 1
+
+
+121-Beethoven-adagioSonate1op2
+Adadgio Sonata 1 op. 2 L. v. Beethoven 51 notes, 9 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 1
+
+
+122-pop
+Chanson populaire américaine None 58 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( C major ), diff: 0
+
+
+123-Mozart-Canzonetta
+Canzonettam Don Juan II-3 W. A. Mozart 60 notes, 19 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 1
+
+
+124-Schubert-quatuor13op29
+Quatuor 13 op.29 mvt 2 F. Schubert 82 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+125-Wolf-melodie5
+Melodie 5 aus Spanisches Liederbuch H. Wolf 66 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( D major was A major ), diff: 1
+
+
+126-Milhaud-suiteProvencale
+Suite provençale  mvt 1 D. Milhaud 61 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( D major was C major ), diff: 0
+
+
+127-Lemoine-etude38
+Étude 38 H. Lemoine 93 notes, 28 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( G major was C major ), diff: 2
+
+
+128-Wolf-melodiesItalienne26
+Italienischen Liederbuches 26 H. Wolf 94 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( B- major was E- major ), diff: 5
+
+
+129-Mozart-sonateKV331
+Sonata KV 331 mvt 1 W. A. Mozart 60 notes, 12 bars, add_tons 26
+global ton: OK: ( A major ), diff: 0
+[pse_info] PST: candidates global: 2
+
+
+130-Haendel-concertogrosso10
+Concerto Grosso 10 G. F. Haendel 85 notes, 10 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 0
+
+
+131-negrospiritual
+Negro spiritual None 73 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( G major ), diff: 0
+
+
+132-Bach-Brandegourgeois4
+Concerto Brandebourgeois 4 sol Maj. J. S. Bach 108 notes, 34 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+133-Mozart-KV282
+Sonate en Mib Majeur KV282 W. A. Mozart 107 notes, 29 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 70-73, estimation locals, tie break fail Bbmaj (2b) vs Cmin (3b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Cmaj (0), (dist: 2 vs 2)
+[pse_warning] PSV 100-103, estimation locals, tie break fail Bbmaj (2b) vs Cmin (3b), cost=[accid=1,disj=0,dist=0,color=0], prevton=Cmaj (0), (dist: 2 vs 2)
+[pse_warning] PSV 76-77, estimation locals, tie break fail Fmaj (1b) vs Gmin (2b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 3 vs 3)
+[pse_warning] PSV 106-107, estimation locals, tie break fail Fmaj (1b) vs Gmin (2b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Emaj (4#), (dist: 5 vs 5)
+global ton: NO: ( B- major was E- major ), diff: 0
+
+
+134-Purcell-gigue
+Gigue la min. H. Purcell 81 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+135-Schumann-concertola
+Concerto piano A minor mvt 2 R. Schumann 66 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 49-50, estimation locals, tie break fail Cmaj (0) vs Dmin (1b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 2 vs 2)
+global ton: OK: ( F major ), diff: 1
+
+
+136-Schumann-Myrten25op25
+Myrten Nr 25 Aus den östlichen Rosen op.25 R. Schumann 77 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+[pse_warning] PSV 18-23, estimation locals, tie break fail Fmaj (1b) vs Ebmaj (3b), cost=[accid=0,disj=1,dist=0,color=0], prevton=Fmin (4b), (dist: 2 vs 2)
+[pse_warning] PSV 71-76, estimation locals, tie break fail Cmaj (0) vs Bbmaj (2b), cost=[accid=0,disj=1,dist=0,color=0], prevton=Cmin (3b), (dist: 2 vs 2)
+[pse_warning] PSV 46-47, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Bbmin (5b), (dist: 2 vs 2)
+global ton: OK: ( E- major ), diff: 2
+
+
+138-Wolf-melodie1
+138-Wolf-melodie1.musicxml None 90 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 3
+
+
+140-Clementi-sonate3op25
+Sonate op. 25 no. 3 mvt 1 M. Clementi 112 notes, 20 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( F major was B- major ), diff: 1
+
+
+141-Puig-Roget
+N... comme Naviguer H. Puig-Roget 67 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+global ton: OK: ( C major ), diff: 0
+
+
+142-Wolf-chantsitaliens35
+142-Wolf-chantsitaliens35.musicxml None 77 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 56-61, estimation locals, tie break fail Fmaj (1b) vs Ebmaj (3b), cost=[accid=0,disj=1,dist=0,color=0], prevton=Fmin (4b), (dist: 2 vs 2)
+global ton: NO: ( B- major was <music21.key.KeySignature of 3 flats> ), diff: 3
+
+
+143-Wolf-melodiesespagnoles1
+Spaniesches Lieder 1 H. Wolf 91 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 6
+
+
+144-Wolf-melodiesespagnoles13
+Spanisches Lieder n.13 H. Wolf 67 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 16-22: tie break fail (2 bests): [accid=1,disj=1,dist=2,color=0] accid=1,disj=1,dist=2,color=0 accid=1,disj=1,dist=2,color=0 
+global ton: OK: ( D major ), diff: 1
+
+
+145-Clementi-sonate3op25
+Sonata 3 op.25 M. Clementi 87 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( F major was B- major ), diff: 2
+
+
+146-Clementi-sonatine2op35
+Sonatine 2 op.36 M. Clementi 117 notes, 33 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( G major ), diff: 0
+
+
+147-Beethoven-rondosonateop28
+Rondo Sonata op.28 L. v. Beethoven 56 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 0
+
+
+148-Mozart-concertofluteKV314
+Concerto pour flute KV 314 mvt 1 W. A. Mozart 61 notes, 10 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 0
+
+
+149-Wolf-melodiesespagnoles2
+Spaniesches Lieder 2 H. Wolf 91 notes, 32 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 2
+
+
+151-Mozart-duettinoDonJuanI97
+Duettino, Don Giovanni e Zerlina W.A. Mozart 70 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( A major ), diff: 0
+
+
+152-Clementi-sonate5op36
+Air suisse, Sonata 5 op. 36 M. Clementi 89 notes, 20 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+153-Wolf-chansonsItaliennes21
+Sonatina Nr 1 op. 60 D. F. Kuhlau 90 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( C major was F major ), diff: 1
+
+
+154-Clementi-sonatine1op37
+Sonatine 1 op.37 M. Clementi 83 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( E- major ), diff: 0
+
+
+155-CPEBach-ariavar2
+Air varié, Variation II C.P.E. Bach 57 notes, 22 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 0
+
+
+156-Haendel-hornpipeconcertogrosso7
+Hornpipe, Concerto grosso 7 mvt 4 G.F. Haendel 79 notes, 10 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( F major was B- major ), diff: 0
+
+
+157-Wolf-melodiesitaliennes20
+Italieniesches Lied 20 H. Wolf 96 notes, 38 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 90-92, estimation locals, tie break fail Fmaj (1b) vs Gmin (2b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 3 vs 3)
+global ton: OK: ( B- major ), diff: 2
+
+
+158-Beethoven-quatuor1op18
+Quatuor 1 op.18 mvt 4 L. v. Beethoven 94 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( C major was F major ), diff: 1
+
+
+159-Dussek-rondo
+Rondo Les Adieux J.L. Dussek 141 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 0
+
+
+160-Beethoven-trio2op70
+Trio 2 op.70 mvt 2 L. v. Beethoven 49 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+161-Rimsky-Korsakov-Scheherazade
+Scheherazade mvt 3 N Rimsky-Korsakov 117 notes, 21 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+162-Chopin-nocturne1op32
+Nocturne 1 op.32 F. Chopin 53 notes, 8 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B major ), diff: 3
+
+
+163-Beethoven-septuorop20
+Septuor op.20 L.v. Beethoven 61 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E- major ), diff: 0
+
+
+164-Clementi-rondosonatine2op38
+Rondo Sonatine 2 op.38 M. Clementi 53 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( B- major ), diff: 0
+
+
+165-Balbastre-pastorale
+Pastorale C. Balbastre 57 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+global ton: OK: ( C major ), diff: 0
+
+
+168-Beethoven-quatuor1op18
+Quatuor 1 op.18 mvt 3 L. v. Beethoven 94 notes, 45 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 1-4, estimation locals, tie break fail Fmaj (1b) vs Dbmaj (5b), cost=[accid=1,disj=0,dist=0,color=0], prevton=Ebmaj (3b), (dist: 2 vs 2)
+[pse_warning] PSV 19-21, estimation locals, tie break fail Bbmaj (2b) vs Cmin (3b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Cmaj (0), (dist: 2 vs 2)
+global ton: NO: ( E- major was F major ), diff: 3
+
+
+169-Wolf-chantsitaliens29
+Italienisches Lieder 29 H. Wolf 93 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 9
+
+
+171-Mozart-concertobasson
+Bassoon Concerto in B-flat Major K.191 mvt 2 W. A. Mozart 79 notes, 10 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 0
+
+
+172-Beethoven-trio2op70
+Beethoven Trio None 65 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+173-Kuhlau-sonative1op60
+Sonatine N. 1 op.60 F. Kuhlau 132 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 1
+
+
+174-negrospiritual
+Spiritual None 69 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+global ton: OK: ( C major ), diff: 0
+
+
+177-Boulnois-berceuse
+Berceuse M. Boulnois 84 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( G major was C major ), diff: 2
+
+
+178-Poulenc
+Coda, extraite des danse villageoises F. Poulenc 85 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( A major was D major ), diff: 0
+
+
+179-Clementi-canone33
+Canone n.33 in Gradus ad Parnassum M. Clementi 83 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 1
+
+
+180-Haendel-concertogrosso9op6
+Concerto Grosso 9 op.6 mvt 3 G.F. Haendel 58 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( F major ), diff: 0
+
+
+201-Beethoven-variation1
+Variation I in 6 Varations for piano L.v. Beethoven 97 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+202-Bach-sarabande
+Sarabande suite anglaise 6 J. S. Bach 86 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( C major was F major ), diff: 1
+
+
+203-Listz-preludes
+Les Préludes F. Liszt 113 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 1
+
+
+205-Bach-credo
+205-Bach-credo.musicxml None 105 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( D major ), diff: 0
+
+
+206-Beethoven-sonateop26
+206-Beethoven-sonateop26.musicxml None 67 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A- major ), diff: 0
+
+
+207-Bach-aria
+207-Bach-aria.musicxml None 134 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 16-21: tie break fail (2 bests): [accid=1,disj=0,dist=1,color=0] accid=1,disj=0,dist=1,color=0 accid=1,disj=0,dist=1,color=0 
+global ton: OK: ( G major ), diff: 0
+
+
+208-Wolf-melodieitalienne30
+208-Wolf-melodieitalienne30.musicxml None 2 key changes cannot spell, skip
+
+
+209-Beethoven-rondoop13
+209-Beethoven-rondoop13.musicxml None 87 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 61-69: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+[pse_warning] PSV 72-80: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+[pse_warning] PSV 80-86: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+global ton: OK: ( E- major ), diff: 3
+
+
+210-Schubert-benedictus
+210-Schubert-benedictus.musicxml None 78 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 1
+
+
+211-Haydn
+Thème varié en Ut Majeur F. J. Haydn 132 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+213-Beethoven-sonate2op14
+Sonata Nr 2 op.14 L. V. Beethoven 85 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+214-Schumann-trio3
+214-Schumann-trio3.musicxml None 128 notes, 19 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E- major ), diff: 7
+
+
+215-Debussy-passepied
+Passepied, Suite Bergamesque C. Debussy 51 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( B major was A major ), diff: 2
+
+
+216-Haendel
+216-Haendel.musicxml None 147 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 0
+
+
+217-Beethoven-octuorop103
+217-Beethoven-octuorop103.musicxml None 84 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( F major was <music21.key.KeySignature of 2 flats> ), diff: 1
+
+
+218-Beethoven-sonateop28
+Sonate op.28 L. v. Beethoven 85 notes, 22 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 5
+
+
+219-Schubert-scherzo
+219-Schubert-scherzo.xml None 80 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 0
+
+
+220-Mozart-sonateKV281
+220-Mozart-sonateKV281.musicxml None 136 notes, 35 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( B- major was <music21.key.KeySignature of 3 flats> ), diff: 0
+
+
+221-Monteverdi-orfeo
+221-Monteverdi-orfeo.musicxml None 31 notes, 9 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( B- major was <music21.key.KeySignature of 1 flat> ), diff: 0
+
+
+222-Bartok-burlesque
+Burlesque rustique B. Bartok 66 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 39-45: tie break fail (2 bests): [accid=3,disj=0,dist=5,color=0] accid=3,disj=0,dist=5,color=0 accid=3,disj=0,dist=5,color=0 
+global ton: NO: ( B- major was C major ), diff: 1
+
+
+223-Monteverdi-Orfeo
+223-Monteverdi-Orfeo.xml None 43 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( G major was C major ), diff: 0
+
+
+224-Schumann-trio3op110
+224-Schumann-trio3op110.musicxml None 61 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 1
+
+
+225-Beethoven-variationsop24
+225-Beethoven-variationsop24.musicxml None 97 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 13-18: tie break fail (2 bests): [accid=1,disj=0,dist=1,color=0] accid=1,disj=0,dist=1,color=0 accid=1,disj=0,dist=1,color=0 
+[pse_warning] PSV 78-83: tie break fail (2 bests): [accid=1,disj=0,dist=1,color=0] accid=1,disj=0,dist=1,color=0 accid=1,disj=0,dist=1,color=0 
+global ton: OK: ( F major ), diff: 2
+
+
+226-Milhaud-Boeuf
+Le Boeuf sur le toit D. Milhaud 102 notes, 26 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+227-Mozart-quintetK407
+227-Mozart-quintetK407.musicxml None 105 notes, 31 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 46-50: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+[pse_warning] PSV 50-54: tie break fail (2 bests): [accid=1,disj=0,dist=1,color=0] accid=1,disj=0,dist=1,color=0 accid=1,disj=0,dist=1,color=0 
+global ton: OK: ( B- major ), diff: 1
+
+
+228-Schuman-myrthen7op25
+228-Schuman-myrthen7op25.musicxml None 62 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( F# major was <music21.key.KeySignature of 5 flats> ), diff: 42
+
+
+229-Liszt-melodie
+Melodie F. Liszt 81 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 68-71, estimation locals, tie break fail Gmaj (1#) vs Amin (0), cost=[accid=0,disj=0,dist=0,color=0], prevton=Bmaj (5#), (dist: 4 vs 4)
+global ton: NO: ( C major was G major ), diff: 10
+
+
+230-Schumann-trio2
+230-Schumann-trio2.musicxml None 74 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( C major was <music21.key.KeySignature of 1 flat> ), diff: 2
+
+
+231-Duparc-elegie
+231-Duparc-elegie.xml None 47 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 2
+
+
+232-Beethoven-sonateop22
+232-Beethoven-sonateop22.musicxml None 70 notes, 9 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 6-14: tie break fail (2 bests): [accid=2,disj=1,dist=1,color=0] accid=2,disj=1,dist=1,color=0 accid=2,disj=1,dist=1,color=0 
+global ton: OK: ( E- major ), diff: 0
+
+
+233-Debussy-cloches
+Les Cloches C. Debussy 64 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E major ), diff: 0
+
+
+234-Beethoven-symphonie2op36
+234-Beethoven-symphonie2op36.xml None 74 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( A major ), diff: 0
+
+
+235-Schumann-quatuor1op41
+234-Beethoven-symphonie2op36.xml None 142 notes, 29 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 1
+
+
+236-Schubert-scherzo
+Scherzo F. Schubert 82 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+237-Beethoven-symphonie6
+6 Symphonie, mvt 2, Szene am Bach M.v. Beethoven 122 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 0
+
+
+239-Beethoven-themavar
+239-Beethoven-themavar.musicxml None 71 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+240-Haydn-sonate5
+Sonata Nr 5 Ut Maj J. Haydn 124 notes, 26 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+241-Haendel-sicilianaconcertogrosso8
+241-Haendel-sicilianaconcertogrosso8.musicxml None 116 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E- major ), diff: 0
+
+
+242-Schumann-Myrthen4op25
+242-Schumann-Myrthen4op25.musicxml None 1 key changes cannot spell, skip
+
+
+243-Strauss-melodie1op56
+243-Strauss-melodie1op56.musicxml None 87 notes, 20 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 76-81: tie break fail (2 bests): [accid=1,disj=1,dist=6,color=0] accid=1,disj=1,dist=6,color=0 accid=1,disj=1,dist=6,color=0 
+global ton: NO: ( E- major was <music21.key.KeySignature of 1 flat> ), diff: 9
+
+
+244-Bach-concerto1violon
+Concerto N1 for Violin La minor mvt 2 J. S. Bach 129 notes, 8 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( G major was C major ), diff: 0
+
+
+245-Debussy-Arabesque2
+Arabesque No2 C. Debussy 184 notes, 21 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+246-Mozart-marcheflute
+246-Mozart-marcheflute.xml None 97 notes, 28 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 0
+
+
+247-Schubert-Benedictus
+Benedictus Mass G dur F. Schubert 41 notes, 9 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+248-Mozart-sonateKV280
+248-Mozart-sonateKV280.musicxml None 97 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A- major ), diff: 0
+
+
+249-Mozart-andateKV9b
+Andante KV9b W. A. Mozart 128 notes, 21 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 92-100: tie break fail (2 bests): [accid=2,disj=1,dist=2,color=0] accid=2,disj=1,dist=2,color=0 accid=2,disj=1,dist=2,color=0 
+global ton: OK: ( B- major ), diff: 4
+
+
+250-Cliquet-Pleyel
+250-Cliquet-Pleyel.xml None 99 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 2
+
+
+251-Schumann-Myrthen10op25
+251-Schumann-Myrthen10op25.musicxml None 67 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E- major ), diff: 0
+
+
+252-Kuhlau-sonatine2op60
+Sonatine N.2 op.60 D. F. Kuhlau 68 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( A major ), diff: 1
+
+
+253-Schubert-gloria
+253-Schubert-gloria.musicxml None 50 notes, 19 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 0
+
+
+254-Haydn-quatuor5op76
+254-Haydn-quatuor5op76.musicxml None 111 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 98-105: tie break fail (2 bests): [accid=1,disj=2,dist=1,color=0] accid=1,disj=2,dist=1,color=0 accid=1,disj=2,dist=1,color=0 
+global ton: OK: ( D major ), diff: 1
+
+
+255-Mozart-sonateDomKV457
+255-Mozart-sonateDomKV457.musicxml None 174 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E- major ), diff: 6
+
+
+256-Mozart-sonataKV309
+256-Mozart-sonataKV309.musicxml None 138 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 2
+
+
+257-Mozart-quintetteDomKV309
+Quintette Do m KV 309 mvt 2 W. A. Mozart 112 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( B- major was E- major ), diff: 1
+
+
+258-Schumann-quatuor2FaMop41
+String quintet 2 in F maj. op.41 n.2 R. Schumann 105 notes, 33 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 38-42, estimation locals, tie break fail Cmaj (0) vs Dmin (1b), cost=[accid=0,disj=1,dist=0,color=0], prevton=Amaj (3#), (dist: 3 vs 3)
+global ton: OK: ( F major ), diff: 5
+
+
+260-Monteverdi-Orfeo
+260-Monteverdi-Orfeo.musicxml None 84 notes, 29 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( D major was <music21.key.KeySignature of no sharps or flats> ), diff: 5
+
+
+262-Schumann-Myrthen23op25
+262-Schumann-Myrthen23op25.musicxml None 82 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 0
+
+
+263-Clergue-Tom
+Tom and Tom J. Clergue 70 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 0
+
+
+265-Mozart-Aria15
+Aria 15 Die Zauberflöte W. A. Mozart 119 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E major ), diff: 0
+
+
+266-Debussy-Berger
+Le Petit Berger C. Debussy 72 notes, 8 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 0
+
+
+267-Lalo-RoidYs
+Le Roi d'Ys E. Lalo 52 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 1
+
+
+268-Scarlatti-sonatepastorale
+268-Scarlatti-sonatepastorale.musicxml None 115 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+269-Beethoven-quatuor1op18
+269-Beethoven-quatuor1op18.musicxml None 132 notes, 37 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 98-99, estimation locals, tie break fail Cmaj (0) vs Dmin (1b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 2 vs 2)
+global ton: OK: ( F major ), diff: 0
+
+
+270-Chopin-polonaise1op40
+270-Chopin-polonaise1op40.musicxml None 2 key changes cannot spell, skip
+
+
+271-Duparc-elegie
+271-Duparc-elegie.musicxml None 64 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 4
+[pse_warning] PSV 47-52, estimation locals, tie break fail Cmaj (0) vs Dmin (1b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Amaj (3#), (dist: 3 vs 3)
+global ton: NO: ( C major was <music21.key.KeySignature of 1 flat> ), diff: 0
+
+
+272-Bach-cantate140duetto
+272-Bach-cantate140duetto.musicxml None 184 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 1-8: tie break fail (2 bests): [accid=1,disj=1,dist=4,color=0] accid=1,disj=1,dist=4,color=0 accid=1,disj=1,dist=4,color=0 
+global ton: OK: ( E- major ), diff: 9
+
+
+273-Haendel-concerto2
+273-Haendel-concerto2.musicxml None 115 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 0
+
+
+274-Wolf-melodieespagnole6
+274-Wolf-melodieespagnole6.musicxml None 123 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 118-122, estimation locals, tie break fail Amaj (3#) vs Bmin (2#), cost=[accid=0,disj=0,dist=0,color=0], prevton=F#maj (6#), (dist: 3 vs 3)
+global ton: NO: ( D major was <music21.key.KeySignature of 3 sharps> ), diff: 6
+
+
+275-Bartok-danceRoumaine1
+275-Bartok-danceRoumaine1.musicxml None 120 notes, 33 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 118-120, estimation locals, tie break fail Abmaj (4b) vs Bbmin (5b), cost=[accid=1,disj=0,dist=0,color=0], prevton=Cmaj (0), (dist: 4 vs 4)
+global ton: NO: ( G major was <music21.key.KeySignature of no sharps or flats> ), diff: 0
+
+
+276-Bach-AnnaMagdalena
+276-Bach-AnnaMagdalena.musicxml None 69 notes, 11 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( E- major ), diff: 0
+
+
+277-Debussy-quatuorSolmop10
+277-Debussy-quatuorSolmop10.musicxml None 77 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( E- major was <music21.key.KeySignature of 2 flats> ), diff: 1
+
+
+278-SaintSaens-Cygne
+278-SaintSaens-Cygne.musicxml None 122 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 1
+
+
+279-Schumann-Myrthen1op25
+279-Schumann-Myrthen1op25.musicxml None 4 key changes cannot spell, skip
+
+
+280-Debussy-mandoline
+280-Debussy-mandoline.musicxml None 1 key changes cannot spell, skip
+
+
+301-Milhaud-troubadour1
+301-Milhaud-troubadour1.musicxml None 1 key changes cannot spell, skip
+
+
+302-Chopin-nocturne3op9
+302-Chopin-nocturne3op9.musicxml None 60 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+global ton: OK: ( D major ), diff: 7
+
+
+303-Bach-partita2sinfonia
+303-Bach-partita2sinfonia.musicxml None 59 notes, 7 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 55-59, estimation locals, tie break fail Bbmaj (2b) vs Cmin (3b), cost=[accid=1,disj=0,dist=0,color=0], prevton=Cmaj (0), (dist: 2 vs 2)
+[pse_warning] PSV 19-26: tie break fail (2 bests): [accid=2,disj=1,dist=5,color=0] accid=2,disj=1,dist=5,color=0 accid=2,disj=1,dist=5,color=0 
+global ton: OK: ( E- major ), diff: 1
+
+
+304-Bach-polonaise
+304-Bach-polonaise.musicxml None 136 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 0
+
+
+306-Haendel-concertogrosso3-4mvt
+306-Haendel-concertogrosso3-4mvt.musicxml None 102 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+307-Mozart-fantaisiekv475
+307-Mozart-fantaisiekv475.xml None 78 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 0
+
+
+308-Beethoven-sonateop81
+Sonata op.81 L.v. Beethoven 109 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 32-38: tie break fail (2 bests): [accid=2,disj=1,dist=2,color=0] accid=2,disj=1,dist=2,color=0 accid=2,disj=1,dist=2,color=0 
+global ton: NO: ( B- major was E- major ), diff: 1
+
+
+309-Poulenc-improvisation6
+309-Poulenc-improvisation6.musicxml None 129 notes, 30 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( F major was <music21.key.KeySignature of 2 flats> ), diff: 5
+
+
+311-Mozart-ariaCosifantutte
+Aria Un' aura amorosa, Cosi fan tutte W. A. Mozart 91 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 2
+
+
+312-Kuhlau-sonatineop20
+Sonatine op.20 D.F. Kuhlau 105 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 3
+
+
+313-Schumann-trio1
+Trio 1 R. Schumann 72 notes, 11 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 2
+
+
+314-Couperin-intime
+314-Couperin-intime.musicxml None 60 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( G major ), diff: 2
+
+
+315-Ibert-symphonieconcertante
+Symphonie concertante pour haubois et orchestre à cordes, 1er mvt J. Ibert 147 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+global ton: NO: ( B- major was C major ), diff: 13
+
+
+316-Bach-courantesuite3
+316-Bach-courantesuite3.musicxml None 80 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( A major was <music21.key.KeySignature of 2 sharps> ), diff: 1
+
+
+317-Mozart-sonateKV333
+317-Mozart-sonateKV333.musicxml None 191 notes, 29 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 15-22: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+[pse_warning] PSV 65-72: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+global ton: OK: ( B- major ), diff: 3
+
+
+319-Haydn-symphonie88
+319-Haydn-symphonie88.musicxml None 101 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 9-15, estimation locals, tie break fail Dbmaj (5b) vs Ebmin (6b), cost=[accid=2,disj=0,dist=0,color=0], prevton=Gmaj (1#), (dist: 6 vs 6)
+[pse_warning] PSV 18-26, estimation locals, tie break fail Bbmaj (2b) vs Cmin (3b), cost=[accid=2,disj=2,dist=0,color=0], prevton=Gmaj (1#), (dist: 3 vs 3)
+[pse_warning] PSV 26-32, estimation locals, tie break fail Dbmaj (5b) vs Ebmin (6b), cost=[accid=2,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 7 vs 7)
+[pse_warning] PSV 58-64, estimation locals, tie break fail Dbmaj (5b) vs Ebmin (6b), cost=[accid=3,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 7 vs 7)
+[pse_warning] PSV 58-64, estimation locals, tie break fail Abmaj (4b) vs Bbmin (5b), cost=[accid=2,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 6 vs 6)
+[pse_warning] PSV 9-15, estimation locals, tie break fail Dbmaj (5b) vs Ebmin (6b), cost=[accid=2,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 7 vs 7)
+[pse_warning] PSV 18-26, estimation locals, tie break fail Bbmaj (2b) vs Cmin (3b), cost=[accid=2,disj=2,dist=0,color=0], prevton=Gmaj (1#), (dist: 3 vs 3)
+[pse_warning] PSV 26-32, estimation locals, tie break fail Dbmaj (5b) vs Ebmin (6b), cost=[accid=2,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 7 vs 7)
+[pse_warning] PSV 58-64, estimation locals, tie break fail Dbmaj (5b) vs Ebmin (6b), cost=[accid=3,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 7 vs 7)
+[pse_warning] PSV 58-64, estimation locals, tie break fail Abmaj (4b) vs Bbmin (5b), cost=[accid=2,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 6 vs 6)
+global ton: NO: ( D major was <music21.key.KeySignature of 1 sharp> ), diff: 2
+
+
+320-Kuhlau-sonatine2op60
+320-Kuhlau-sonatine2op60.musicxml None 135 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 1
+
+
+321-Debussy-Pelleas
+Air d'Arkel, Pelléas et Mélisandre C. Debussy 62 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 5
+[pse_warning] PSV 26-31, estimation locals, tie break fail Cmaj (0) vs Dmin (1b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Emaj (4#), (dist: 4 vs 4)
+[pse_warning] PSV 9-14, estimation locals, tie break fail Gmaj (1#) vs Amin (0), cost=[accid=0,disj=0,dist=0,color=0], prevton=Emaj (4#), (dist: 3 vs 3)
+[pse_warning] PSV 9-14, estimation locals, tie break fail Gmaj (1#) vs Amin (0), cost=[accid=0,disj=0,dist=0,color=0], prevton=Emaj (4#), (dist: 3 vs 3)
+[pse_warning] PST estimate global: tie break fail 12 - 13
+global ton: NO: ( C major was E major ), diff: 3
+
+
+323-Bartok-images
+Une soirée dans le village, des Images hongroises B. Bartok 55 notes, 9 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+global ton: NO: ( D major was A major ), diff: 0
+
+
+325-Chopin-concertoop21
+325-Chopin-concertoop21.musicxml None 238 notes, 45 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 14-19: tie break fail (2 bests): [accid=1,disj=1,dist=4,color=0] accid=1,disj=1,dist=4,color=0 accid=1,disj=1,dist=4,color=0 
+[pse_warning] PSV 19-25: tie break fail (2 bests): [accid=1,disj=2,dist=4,color=0] accid=1,disj=2,dist=4,color=0 accid=1,disj=2,dist=4,color=0 
+[pse_warning] PSV 128-133: tie break fail (2 bests): [accid=2,disj=1,dist=8,color=0] accid=2,disj=1,dist=8,color=0 accid=2,disj=1,dist=8,color=0 
+[pse_warning] PSV 210-216: tie break fail (2 bests): [accid=1,disj=2,dist=1,color=0] accid=1,disj=2,dist=1,color=0 accid=1,disj=2,dist=1,color=0 
+global ton: OK: ( A- major ), diff: 5
+
+
+326-Mozart-ariaflute
+326-Mozart-ariaflute.musicxml None 127 notes, 35 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( E- major ), diff: 0
+
+
+327-Mendelssohn-romancesp8op30
+327-Mendelssohn-romancesp8op30.musicxml None 75 notes, 20 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 14-20, estimation locals, tie break fail Abmaj (4b) vs Bbmin (5b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Bbmaj (2b), (dist: 2 vs 2)
+global ton: OK: ( D- major ), diff: 0
+
+
+328-Bartok-sonatine
+Sonatine mvt 1 B. Bartok 80 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( A major was D major ), diff: 0
+
+
+329-Debussy-sonateviolon
+329-Debussy-sonateviolon.xml None 78 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 4
+
+
+331-Beethoven-sonateop26
+331-Beethoven-sonateop26.musicxml None 89 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A- major ), diff: 0
+
+
+332-Milhaud-boeuf
+Le Boeuf sur le toit D. Milhaud 88 notes, 21 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( E major was C major ), diff: 48
+
+
+333-Mazas-romance1op36
+Romance, Études mélodiques pour violon no1 op.36 F. Mazas 150 notes, 20 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E major ), diff: 0
+
+
+334-Haydn-concertosol
+Concerto en sol Maj. F.J Haydn 166 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( G major was C major ), diff: 1
+
+
+335-Berlioz-BenvenutoCelliniop23
+335-Berlioz-BenvenutoCelliniop23.musicxml None 104 notes, 22 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 49-53, estimation locals, tie break fail Amaj (3#) vs Gmaj (1#), cost=[accid=1,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 1 vs 1)
+global ton: OK: ( G major ), diff: 4
+
+
+337-Beethoven-sonate2op10
+337-Beethoven-sonate2op10.musicxml None 93 notes, 28 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( C major was <music21.key.KeySignature of 1 flat> ), diff: 0
+
+
+338-Haendel-sonateV
+338-Haendel-sonateV.xml None 155 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 0
+
+
+339-Mozart-air17flute
+339-Mozart-air17flute.musicxml None 105 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 26-31, estimation locals, tie break fail Fmaj (1b) vs Gmin (2b), cost=[accid=1,disj=0,dist=0,color=0], prevton=Dmaj (2#), (dist: 3 vs 3)
+[pse_warning] PSV 39-43: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+global ton: OK: ( B- major ), diff: 2
+
+
+340-Kuhlau-sonatine4op88
+340-Kuhlau-sonatine4op88.musicxml None 119 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 1
+
+
+341-Mozart-concertolaKV219
+Concerto en La Majeur pour violon KV 219 W.A. Mozart 179 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 123-135: tie break fail (2 bests): [accid=2,disj=1,dist=4,color=0] accid=2,disj=1,dist=4,color=0 accid=2,disj=1,dist=4,color=0 
+global ton: OK: ( E major ), diff: 5
+
+
+343-Bach-allemandePartita6
+343-Bach-allemandePartita6.musicxml None 134 notes, 9 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( G major ), diff: 2
+
+
+344-Mozart-quintettemibK614
+344-Mozart-quintettemibK614.musicxml None 79 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( B- major ), diff: 1
+
+
+345-Debussy-PelleasII4
+Pelléas et Mélisande Acte II Scène IV C. Debussy 48 notes, 7 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PST estimate global: tie break fail 16 - 17
+global ton: NO: ( D major was E major ), diff: 1
+
+
+346-Chopin-fantaisie
+Fantaisie sur des airs nationaux polonais F. Chopin 60 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 0
+
+
+347-Haendel-concertogrosso7
+347-Haendel-concertogrosso7.musicxml None 111 notes, 10 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( B- major ), diff: 0
+
+
+348-Mozart-flutemarche
+March, Die Zauberflöte W. A. Mozart 102 notes, 10 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 67-76, estimation locals, tie break fail Gmaj (1#) vs Fmaj (1b), cost=[accid=1,disj=1,dist=0,color=0], prevton=Cmaj (0), (dist: 1 vs 1)
+global ton: OK: ( C major ), diff: 0
+
+
+349-Haydn-quatuor5op76
+349-Haydn-quatuor5op76.musicxml None 98 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F# major ), diff: 1
+
+
+351-Jones
+Lady Puleston's Delight E. Jones 145 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+352-Scarlatti-sonateutK502
+352-Scarlatti-sonateutK502.musicxml None 86 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( C major ), diff: 0
+
+
+353-Mendelssohn-romancesspop67
+Romance sans parole op.67 F. Mendelssohn 31 notes, 6 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 24-30: tie break fail (2 bests): [accid=1,disj=1,dist=5,color=0] accid=1,disj=1,dist=5,color=0 accid=1,disj=1,dist=5,color=0 
+global ton: OK: ( A major ), diff: 0
+
+
+354-Mozart-sonatefaKV332
+354-Mozart-sonatefaKV332.musicxml None 147 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( E- major was <music21.key.KeySignature of 2 flats> ), diff: 1
+
+
+355-Mozart-sonatereKV311
+Sonata D Maj KV 311 W. A. Mozart 144 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 2
+
+
+356-Chopin-nocturne1op27
+356-Chopin-nocturne1op27.musicxml None 68 notes, 22 bars, add_tons 26
+[pse_info] PST: candidates global: 4
+[pse_warning] PSV 5-10: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+[pse_warning] PSV 20-25: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+[pse_warning] PSV 62-67: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+global ton: NO: ( A major was <music21.key.KeySignature of 4 sharps> ), diff: 5
+
+
+357-Bach-ariaGoldbergBWV988
+Aria variations Goldberg BWV 988 J. S. Bach 137 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( D major was G major ), diff: 0
+
+
+359-Mozart-romance
+359-Mozart-romance.musicxml None 157 notes, 23 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+360-Soulage
+360-Soulage.musicxml None 115 notes, 26 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( A major was <music21.key.KeySignature of 2 sharps> ), diff: 0
+
+
+361-Beethoven-sonate2op14
+361-Beethoven-sonate2op14.musicxml None 144 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( D major was <music21.key.KeySignature of 1 sharp> ), diff: 2
+
+
+362-Beethovensonate3op2
+362-Beethovensonate3op2.musicxml None 1 key changes cannot spell, skip
+
+
+363-Debussy-clairdelune
+363-Debussy-clairdelune.musicxml None 149 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D- major ), diff: 0
+
+
+366-Bach-andante
+366-Bach-andante.musicxml None 137 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( C major was <music21.key.KeySignature of 1 flat> ), diff: 1
+
+
+367-Bach-suite5
+367-Bach-suite5.musicxml None 99 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 0
+
+
+369-Bach-solocembalo
+369-Bach-solocembalo.musicxml None 299 notes, 44 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( B- major was <music21.key.KeySignature of 3 flats> ), diff: 3
+
+
+370-Beethoven-quatuor3op59
+370-Beethoven-quatuor3op59.musicxml None 148 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 0
+
+
+371-Haydn-concertoreop21
+371-Haydn-concertoreop21.xml None 120 notes, 11 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 4
+
+
+374-Bizet-seguedille
+374-Bizet-seguedille.xml None 170 notes, 51 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 58-64, estimation locals, tie break fail Amaj (3#) vs Bmin (2#), cost=[accid=0,disj=0,dist=0,color=0], prevton=F#maj (6#), (dist: 3 vs 3)
+[pse_warning] PSV 77-83, estimation locals, tie break fail Amaj (3#) vs Bmin (2#), cost=[accid=0,disj=0,dist=0,color=0], prevton=F#maj (6#), (dist: 3 vs 3)
+global ton: OK: ( D major ), diff: 3
+
+
+375-Beethoven-sonate21op53
+375-Beethoven-sonate21op53.musicxml None 70 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( F major ), diff: 8
+
+
+376-Clementi-sonate2op26
+376-Clementi-sonate2op26.xml None 65 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+[pse_warning] PSV 46-52: tie break fail (2 bests): [accid=2,disj=0,dist=7,color=0] accid=2,disj=0,dist=7,color=0 accid=2,disj=0,dist=7,color=0 
+global ton: OK: ( D major ), diff: 3
+
+
+378-Beethoven-quintetteop29
+378-Beethoven-quintetteop29.musicxml None 168 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 54-67: tie break fail (2 bests): [accid=1,disj=2,dist=1,color=0] accid=1,disj=2,dist=1,color=0 accid=1,disj=2,dist=1,color=0 
+[pse_warning] PSV 100-113: tie break fail (2 bests): [accid=1,disj=2,dist=1,color=0] accid=1,disj=2,dist=1,color=0 accid=1,disj=2,dist=1,color=0 
+global ton: OK: ( F major ), diff: 1
+
+
+379-Monteverdi-OrfeoII2
+379-Monteverdi-OrfeoII2.musicxml None 1 key changes cannot spell, skip
+
+
+380-Bartok-Bulgare
+Rythme Bulgare B. Bartok 59 notes, 20 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 1
+
+
+401-Mozart-sonateKV282
+401-Mozart-sonateKV282.musicxml None 180 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( B- major was <music21.key.KeySignature of 3 flats> ), diff: 1
+
+
+403-Bach-allemandePartita4
+403-Bach-allemandePartita4.musicxml None 394 notes, 25 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 173-188: tie break fail (2 bests): [accid=2,disj=3,dist=5,color=0] accid=2,disj=3,dist=5,color=0 accid=2,disj=3,dist=5,color=0 
+global ton: NO: ( A major was <music21.key.KeySignature of 2 sharps> ), diff: 12
+
+
+404-Rode-caprice6
+404-Rode-caprice6.musicxml None 188 notes, 21 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 119-124: tie break fail (2 bests): [accid=1,disj=0,dist=1,color=0] accid=1,disj=0,dist=1,color=0 accid=1,disj=0,dist=1,color=0 
+[pse_warning] PSV 160-172: tie break fail (2 bests): [accid=1,disj=1,dist=14,color=0] accid=1,disj=1,dist=14,color=0 accid=1,disj=1,dist=14,color=0 
+global ton: OK: ( D major ), diff: 2
+
+
+405-Bach-prelude13
+405-Bach-prelude13.musicxml None 102 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+global ton: NO: ( G- major was <music21.key.KeySignature of 6 sharps> ), diff: 101
+
+
+407-Beethoven-sonate1op10
+407-Beethoven-sonate1op10.xml None 121 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 112-115: tie break fail (2 bests): [accid=1,disj=0,dist=4,color=0] accid=1,disj=0,dist=4,color=0 accid=1,disj=0,dist=4,color=0 
+global ton: OK: ( A- major ), diff: 4
+
+
+408-Bach-sarabande-Partita4
+408-Bach-sarabande-Partita4 .musicxml None 153 notes, 12 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( A major was <music21.key.KeySignature of 2 sharps> ), diff: 0
+
+
+409-Beethoven-quatuor1op18
+409-Beethoven-quatuor1op18.musicxml None 153 notes, 20 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( D major was <music21.key.KeySignature of 1 flat> ), diff: 3
+
+
+410-Mozart-sonateKV309
+Sonata in Do M KV 309 mvt 2 W.A. Mozart 187 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 3
+
+
+411-Granados-goyescas1
+411-Granados-goyescas1.musicxml None 2 key changes cannot spell, skip
+
+
+413-Beethoven-quintetteop16
+413-Beethoven-quintetteop16.musicxml None 131 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 31-38: tie break fail (2 bests): [accid=1,disj=2,dist=1,color=0] accid=1,disj=2,dist=1,color=0 accid=1,disj=2,dist=1,color=0 
+global ton: OK: ( E- major ), diff: 6
+
+
+414-Bach-laudamus-te
+414-Bach-laudamus-te.musicxml None 220 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 155-174: tie break fail (2 bests): [accid=2,disj=5,dist=10,color=0] accid=2,disj=5,dist=10,color=0 accid=2,disj=5,dist=10,color=0 
+global ton: OK: ( A major ), diff: 1
+
+
+415-Mozart-donGiovaniI2
+415-Mozart-donGiovaniI2.musicxml None 132 notes, 31 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 4
+
+
+416-Bach-aria-Goldberg
+416-Bach-aria-Goldberg.musicxml None 98 notes, 11 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 1
+
+
+418-Bach-courante-partita4
+418-Bach-courante-partita4.musicxml None 174 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( D major ), diff: 0
+
+
+419-Beethoven-variation23
+Variation XXIII in 24 variations 
+sur l'ariette Venni Amore de V. Righini L. v. Beethoven 158 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 6
+
+
+420-Bach-prelude6
+420-Bach-prelude6.musicxml None 167 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 1
+
+
+423-Bach-adagio-Goldberg25
+423-Bach-adagio-Goldberg25.musicxml None 98 notes, 8 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 60-76: tie break fail (2 bests): [accid=1,disj=2,dist=2,color=0] accid=1,disj=2,dist=2,color=0 accid=1,disj=2,dist=2,color=0 
+global ton: OK: ( B- major ), diff: 5
+
+
+424-Bach-prelude4
+424-Bach-prelude4.musicxml None 125 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 31-36: tie break fail (2 bests): [accid=1,disj=1,dist=1,color=0] accid=1,disj=1,dist=1,color=0 accid=1,disj=1,dist=1,color=0 
+global ton: OK: ( E major ), diff: 1
+
+
+425-Beethoven-sonateop7
+425-Beethoven-sonateop7.musicxml None 133 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 123-132: tie break fail (2 bests): [accid=2,disj=1,dist=3,color=0] accid=2,disj=1,dist=3,color=0 accid=2,disj=1,dist=3,color=0 
+global ton: OK: ( C major ), diff: 2
+
+
+426-Bach-suiteanglaise1
+426-Bach-suiteanglaise1.musicxml None 94 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( A major ), diff: 0
+
+
+427-Bach-rondo-partita2
+427-Bach-rondo-partita2.musicxml None 69 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 23-25, estimation locals, tie break fail Bbmaj (2b) vs Cmin (3b), cost=[accid=0,disj=0,dist=0,color=0], prevton=Cmaj (0), (dist: 2 vs 2)
+global ton: OK: ( E- major ), diff: 0
+
+
+428-Beethoven-sonate3op10
+428-Beethoven-sonate3op10.musicxml None 97 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( C major was <music21.key.KeySignature of 1 flat> ), diff: 2
+
+
+429-Mozart-sonateKV283
+429-Mozart-sonateKV283.musicxml None 161 notes, 14 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( C major ), diff: 1
+
+
+431-Bach-sinfonia-partita2
+431-Bach-sinfonia-partita2.musicxml None 342 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 56-78: tie break fail (2 bests): [accid=1,disj=5,dist=1,color=0] accid=1,disj=5,dist=1,color=0 accid=1,disj=5,dist=1,color=0 
+global ton: OK: ( E- major ), diff: 4
+
+
+432-Mozart-fantaisieKV475
+432-Mozart-fantaisieKV475.musicxml None 2 key changes cannot spell, skip
+
+
+434-Bach-concertoitalien
+434-Bach-concertoitalien.musicxml None 340 notes, 22 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 5
+
+
+435-Wolf-nein
+435-Wolf-nein.musicxml None 71 notes, 29 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 4
+
+
+436-Bach-ouverture-partita4
+436-Bach-ouverture-partita4.musicxml None 171 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 2
+
+
+437-Bach-courante-partita2
+437-Bach-courante-partita2.musicxml None 112 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: NO: ( B- major was <music21.key.KeySignature of 3 flats> ), diff: 0
+
+
+438-Mozart-sonateKV457
+438-Mozart-sonateKV457.musicxml None 214 notes, 11 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( E- major ), diff: 14
+
+
+440-Bach-prelude10
+440-Bach-prelude10.musicxml None 176 notes, 21 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 1
+
+
+442-Mozart-dongiovaniII7
+442-Mozart-dongiovaniII7.musicxml None 114 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( E- major ), diff: 0
+
+
+443-Ibert-escales
+443-Ibert-escales.musicxml None 172 notes, 17 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 142-158: tie break fail (2 bests): [accid=3,disj=3,dist=112,color=0] accid=3,disj=3,dist=112,color=0 accid=3,disj=3,dist=112,color=0 
+global ton: OK: ( F# major ), diff: 46
+
+
+444-Bach-invention
+444-Bach-invention.musicxml None 320 notes, 62 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+global ton: OK: ( E major ), diff: 13
+
+
+445-Beethoven-sonateop110
+445-Beethoven-sonateop110.musicxml None 92 notes, 19 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( B major was <music21.key.KeySignature of 6 flats> ), diff: 86
+
+
+446-Mozart-sonateKV330
+446-Mozart-sonateKV330.musicxml None 268 notes, 34 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 4
+
+
+448-Bach-concertoclavecin1
+448-Bach-concertoclavecin1.musicxml None 203 notes, 18 bars, add_tons 26
+[pse_info] PST: candidates global: 4
+global ton: OK: ( B- major ), diff: 3
+
+
+449-Clementi-gradus
+Gradus ad parnassum M. Clementi 150 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 58-70: tie break fail (2 bests): [accid=1,disj=2,dist=1,color=0] accid=1,disj=2,dist=1,color=0 accid=1,disj=2,dist=1,color=0 
+global ton: NO: ( G major was F major ), diff: 1
+
+
+450-Bach-toccata-solm
+450-Bach-toccata-solm.musicxml None 101 notes, 13 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: NO: ( C major was <music21.key.KeySignature of 2 flats> ), diff: 2
+
+
+451-Bach-sarabande
+451-Bach-sarabande.musicxml None 221 notes, 24 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 208-219, estimation locals, tie break fail Bbmaj (2b) vs Abmaj (4b), cost=[accid=2,disj=2,dist=0,color=0], prevton=Ebmaj (3b), (dist: 1 vs 1)
+[pse_warning] PSV 75-87: tie break fail (2 bests): [accid=2,disj=2,dist=15,color=0] accid=2,disj=2,dist=15,color=0 accid=2,disj=2,dist=15,color=0 
+[pse_warning] PSV 182-192: tie break fail (2 bests): [accid=2,disj=1,dist=13,color=0] accid=2,disj=1,dist=13,color=0 accid=2,disj=1,dist=13,color=0 
+global ton: OK: ( B- major ), diff: 4
+
+
+453-Mozart-sonateKV310
+453-Mozart-sonateKV310.musicxml None 192 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( F major ), diff: 0
+
+
+456-Haendel-sonate4
+456-Haendel-sonate4.musicxml None 156 notes, 15 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( D major ), diff: 0
+
+
+457-Bach-prelude8
+457-Bach-prelude8.musicxml None 109 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+[pse_warning] PST estimate global: tie break fail 0 - 0
+global ton: OK: ( G- major ), diff: 0
+
+
+458-Liszt-rhapsodiehongroise12
+458-Liszt-rhapsodiehongroise12.musicxml None 83 notes, 10 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 38-45: tie break fail (2 bests): [accid=1,disj=2,dist=1,color=0] accid=1,disj=2,dist=1,color=0 accid=1,disj=2,dist=1,color=0 
+[pse_warning] PSV 45-57: tie break fail (2 bests): [accid=2,disj=3,dist=13,color=0] accid=2,disj=3,dist=13,color=0 accid=2,disj=3,dist=13,color=0 
+global ton: OK: ( E major ), diff: 2
+
+
+459-Bach-courantepartita6
+459-Bach-courantepartita6.musicxml None 153 notes, 29 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( G major ), diff: 2
+
+
+460-Spohr-duoconcertant1op3
+460-Spohr-duoconcertant1op3.musicxml None 127 notes, 16 bars, add_tons 26
+[pse_info] PST: candidates global: 2
+[pse_warning] PSV 15-28: tie break fail (2 bests): [accid=1,disj=2,dist=1,color=0] accid=1,disj=2,dist=1,color=0 accid=1,disj=2,dist=1,color=0 
+global ton: OK: ( E- major ), diff: 2
+
+
+461-Bach-allemande-partita1
+461-Bach-allemande-partita1.musicxml None 511 notes, 27 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+[pse_warning] PSV 57-82, estimation locals, tie break fail Ebmaj (3b) vs Fmin (4b), cost=[accid=5,disj=2,dist=0,color=0], prevton=Dmaj (2#), (dist: 5 vs 5)
+[pse_warning] PSV 57-82, estimation locals, tie break fail Fmaj (1b) vs Gmin (2b), cost=[accid=3,disj=2,dist=0,color=0], prevton=Dmaj (2#), (dist: 3 vs 3)
+[pse_warning] PSV 57-82, estimation locals, tie break fail Cmaj (0) vs Dmin (1b), cost=[accid=2,disj=2,dist=0,color=0], prevton=Dmaj (2#), (dist: 2 vs 2)
+[pse_warning] PSV 142-162, estimation locals, tie break fail Cmaj (0) vs Dmin (1b), cost=[accid=4,disj=4,dist=0,color=0], prevton=Bmin (2#), (dist: 3 vs 3)
+[pse_warning] PSV 162-184, estimation locals, tie break fail Fmaj (1b) vs Gmin (2b), cost=[accid=5,disj=3,dist=0,color=0], prevton=Amaj (3#), (dist: 4 vs 4)
+[pse_warning] PSV 227-238: tie break fail (2 bests): [accid=1,disj=1,dist=11,color=0] accid=1,disj=1,dist=11,color=0 accid=1,disj=1,dist=11,color=0 
+[pse_warning] PSV 291-317: tie break fail (2 bests): [accid=6,disj=3,dist=37,color=6] accid=6,disj=3,dist=37,color=6 accid=6,disj=3,dist=37,color=6 
+[pse_warning] PSV 336-359: tie break fail (2 bests): [accid=3,disj=3,dist=36,color=1] accid=3,disj=3,dist=36,color=1 accid=3,disj=3,dist=36,color=1 
+global ton: OK: ( D major ), diff: 18
+
+
+465-Clementi-sonateop12
+465-Clementi-sonateop12.musicxml None 231 notes, 26 bars, add_tons 26
+[pse_info] PST: candidates global: 3
+[pse_warning] PSV 218-230, estimation locals, tie break fail Cmaj (0) vs Dmin (1b), cost=[accid=0,disj=2,dist=0,color=0], prevton=Dmaj (2#), (dist: 2 vs 2)
+[pse_warning] PSV 159-171: tie break fail (2 bests): [accid=2,disj=2,dist=5,color=1] accid=2,disj=2,dist=5,color=1 accid=2,disj=2,dist=5,color=1 
+global ton: OK: ( F major ), diff: 8
+
+
+467-Schubert-MatchenTod
+467-Schubert-MatchenTod.musicxml None 167 notes, 26 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( B- major ), diff: 4
+
+
+468-Scarlatti-sonateK502
+468-Scarlatti-sonateK502.musicxml None 260 notes, 59 bars, add_tons 26
+[pse_info] PST: candidates global: 1
+global ton: OK: ( C major ), diff: 1
+
+
+parts spelled   : 249
+notes spelled   : 27687
+correct spelling: 97.35 %
+correct KS estim: 73.49 %
