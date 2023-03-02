@@ -1,4 +1,5 @@
 # eval 405-Bach-prelude13
+
 évaluation détaillée
 
 ```shell
@@ -12,8 +13,10 @@
 - add_tons 26
 
 ## PS Table
+
 calculée à l'initialisation (avant estimation des `Locals`)  
 les 2 composantes `dist` et `color` de `Cost` ne sont pas encore évaluées à ce state
+
 ```
 Gb maj (6b) accid=9, disj=15:  0:0 1:0 2:0 3:1 4:1 5:1 6:0 7:2 8:1 9:2 10:1 11:0
 Eb min (6b) accid=16,disj=14:  0:1 1:2 2:1 3:2 4:2 5:2 6:0 7:2 8:1 9:2 10:1 11:0
@@ -43,38 +46,41 @@ F# maj (6#) accid=8, disj=16:  0:0 1:0 2:0 3:1 4:1 5:1 6:0 7:1 8:1 9:2 10:1 11:0
 D# min (6#) accid=19,disj=14:  0:1 1:2 2:1 3:2 4:3 5:3 6:0 7:2 8:1 9:3 10:1 11:0
 ```
 
-
-
 PST: candidates global: 3 
 cf. `405-Bach-prelude13.musicxml`
+
 - `G- major (-6)` accid=9, disj=15
 - `G- major (-6)` (?!?)
 - `5- major (-5)` accid=11,disj=15
 
 **BUGS**:
+
 - [ ] pourquoi 2 fois le même dans la liste des candidates global?
+
 - [ ] pourquoi pas `F# major (6)` dans cette liste alors qu'il est meilleur?? accid=8, disj=16
 
 - [ ] voir aussi la cause des warnings suivants:
-```
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-[pse_warning] PSV: re-estimation of local tonality for 0. ignored.
-```
+  
+  ```
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  [pse_warning] PSV: re-estimation of local tonality for 0. ignored.
+  ```
 
 - [ ] et vérifier le tie br. fail:
-```
-[pse_warning] PST estimate global: tie break fail 0 - 0
-```
+  
+  ```
+  [pse_warning] PST estimate global: tie break fail 0 - 0
+  ```
 
 ## Recap
 
@@ -83,6 +89,7 @@ cf. `405-Bach-prelude13.musicxml`
 - diff: 101
 
 stats:
+
 - parts spelled   : 1
 - notes spelled   : 102
 - correct spelling: 0.98 %
