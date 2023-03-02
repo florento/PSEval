@@ -14,14 +14,19 @@ PSeval
 
 dist. ton = Weber
 
-## table
+## stats
 
 `LGeval26_20230301-1726.csv`
 
-parts spelled   : 249
-notes spelled   : 27687
-correct spelling: 96.61 %
-correct KS estim: 72.69 %
+- parts spelled   : 249
+- notes spelled   : 27687
+- correct spelling: 96.61 %
+- correct KS estim: 72.69 %
+
+résultats moins bons que version précédente.
+bugs.
+cf. eval 18:16 pour corrections.
+
 
 ## TODO
 
