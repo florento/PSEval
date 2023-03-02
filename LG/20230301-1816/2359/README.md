@@ -33,7 +33,7 @@ correct KS estim: 73.09 %
 in log file `LGeval26_20230301-2359.log`
 
 349 devient incorrect alors qu'il était bon dans l'éval. 18:16
-cf. `349-Haydn-quatuor5op76-2359/`
+- cf. `349-Haydn-quatuor5op76-2359/`
 
 examiner la table et les totaux pour estim. globals
 - [ ] 349 (66 vs 6)
