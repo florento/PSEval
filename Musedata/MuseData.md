@@ -7,28 +7,30 @@
 - http://www.titanmusic.com/data.php
 
 - 216 pieces (movements) 
+
 - 195972 notes
+
 - from 8 baroque and classical composers
-	- Corelli
-	- Vivaldi
-	- Telemann
-	- J. S. Bach
-	- Handel
-	- Haydn
-	- Mozart
-	- Beethoven
+  
+  - Corelli
+  - Vivaldi
+  - Telemann
+  - J. S. Bach
+  - Handel
+  - Haydn
+  - Mozart
+  - Beethoven
+
 - contains almost exactly 24500 notes for each of the eight composers
 
-
-
-
 ---
+
 scripts de PKspell
 
 https://github.com/fosfrancesco/pkspell/tree/main/tests/test_scores
 
-
 ---
+
 **MuseData**
 
 it is extracted from MuseData (digital library of orchestral and piano classical music from CCARH)
@@ -51,9 +53,11 @@ it is extracted from MuseData (digital library of orchestral and piano classical
   Humdrum files
 
 humdrum & M21 
+
 - https://web.mit.edu/music21/doc/moduleReference/moduleHumdrumSpineParser.html
 
 voir aussi
+
 - KernScores
   http://kern.humdrum.org
 
@@ -66,12 +70,8 @@ voir aussi
 - Museinfo (Symbolic music processing programs in C++ created by Craig Sapp)
   http://museinfo.sapp.org
 
-
-
 ----
+
 **Music 21**
 
 - https://web.mit.edu/music21/doc/moduleReference/moduleMusedata.html
-
-
-
