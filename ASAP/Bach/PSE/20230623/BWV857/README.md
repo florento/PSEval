@@ -1,5 +1,8 @@
 
-# ASAP Bach BWV 857 prélude et fugue
+# ASAP Bach BWV 857 prélude
+Fa mineur (-4)
+
+
 
 
 ## analyse des TBF
@@ -18,9 +21,4 @@
 - [ ] essayer avec un CostADC 
       avec C = color / gton (ou lton ?)
       et cumul A+D
-
-
-
-
- 
 

@@ -1,0 +1,93 @@
+
+version 7e7ec461767d1c737237f3e43b309e4f52869be5
+24/06/2023
+
+
+quick_eval_Bach(bwv=857)
+BWV 857 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_857/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 394 notes, 22 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:13(254-274): tie break fail (2 bests) cost[accid=1 dist=1 color=0 a+d=2]
+[pse_warning] spelling 0: C(n) F(n) B(b) G(n) En C(n) E(n) F(n) F(n) Bn C(n) F(n) E(n) E(n) G(n) Bb E(n) D(b) C(n) B(b) 
+[pse_warning] spelling 1: C(n) F(n) B(b) G(n) En C(n) E(n) F(n) F(n) Cb Cn F(n) E(n) E(n) G(n) B(b) E(n) D(b) C(n) B(b) 
+[pse_warning] PSV rename bar:17(332-349): tie break fail (2 bests) cost[accid=2 dist=3 color=0 a+d=5]
+[pse_warning] spelling 0: A(b) F(n) E(b) Dn F(n) A(b) Bn A(b) G(n) F(n) En C(n) Bb Db D(b) C(n) B(b) 
+[pse_warning] spelling 1: A(b) F(n) E(b) Dn F(n) A(b) Cb A(b) G(n) F(n) En Cn B(b) Db D(b) C(n) B(b) 
+[pse_warning] PSV rename bar:18(349-364): tie break fail (2 bests) cost[accid=1 dist=1 color=0 a+d=2]
+[pse_warning] spelling 0: C(n) B(b) D(b) En D(b) C(n) B(b) A(b) G(n) F(n) A(b) Bn A(b) G(n) F(n) 
+[pse_warning] spelling 1: C(n) B(b) D(b) En D(b) C(n) B(b) A(b) G(n) F(n) A(b) Cb A(b) G(n) F(n) 
+[pse_warning] PSV rename bar:20(380-391): tie break fail (2 bests) cost[accid=2 dist=1 color=0 a+d=3]
+[pse_warning] spelling 0: En C(n) F(n) Dn Bn C(n) Bb B(b) C(n) C(n) E(n) 
+[pse_warning] spelling 1: En C(n) F(n) Dn Cb Cn B(b) B(b) C(n) C(n) E(n) 
+diff: 1
+diff: 1
+global ton: OK: ( f minor )
+
+
+xml_score.musicxml None part 2 / 2 249 notes, 22 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:15(199-207): tie break fail (2 bests) cost[accid=1 dist=1 color=0 a+d=2]
+[pse_warning] spelling 0: C(n) G(n) A(b) Bn C(n) C(n) D(b) Bb 
+[pse_warning] spelling 1: C(n) G(n) A(b) Cb Cn C(n) D(b) B(b) 
+[pse_warning] PSV rename bar:19(227-235): tie break fail (2 bests) cost[accid=1 dist=1 color=0 a+d=2]
+[pse_warning] spelling 0: G(n) B(b) C(n) En G(n) C(n) F(n) Bn 
+[pse_warning] spelling 1: G(n) B(b) C(n) En G(n) C(n) F(n) Cb 
+diff: 4
+diff: 4
+global ton: OK: ( f minor )
+
+
+
+BWV 857 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_857/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 735 notes, 58 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:5(13-16): tie break fail (2 bests) cost[accid=1 dist=1 color=0 a+d=2]
+[pse_warning] spelling 0: En Eb D(n) 
+[pse_warning] spelling 1: Fb E(b) D(n) 
+[pse_warning] PSV rename bar:6(16-26): tie break fail (2 bests) cost[accid=1 dist=2 color=0 a+d=3]
+[pse_warning] spelling 0: C(n) C(n) C(n) D(n) Fb D(n) F(b) Fn F(n) E(b) 
+[pse_warning] spelling 1: C(n) C(n) C(n) D(n) En D(n) E(n) F(n) F(n) Eb 
+[pse_warning] PSV rename bar:13(93-106): tie break fail (2 bests) cost[accid=2 dist=4 color=0 a+d=6]
+[pse_warning] spelling 0: Bn D(n) E(b) F(n) En G(n) F(n) E(n) D(n) F(n) C(n) Bb B(b) 
+[pse_warning] spelling 1: Cb D(n) E(b) F(n) En G(n) F(n) E(n) D(n) F(n) Cn B(b) B(b) 
+[pse_warning] PSV rename bar:16(125-135): tie break fail (2 bests) cost[accid=1 dist=4 color=0 a+d=5]
+[pse_warning] spelling 0: A(b) B(b) G(n) A(b) B(b) G(n) F(n) Fb F(b) D(n) 
+[pse_warning] spelling 1: A(b) B(b) G(n) A(b) B(b) G(n) F(n) En E(n) D(n) 
+[pse_warning] PSV rename bar:35(392-403): tie break fail (2 bests) cost[accid=1 dist=2 color=0 a+d=3]
+[pse_warning] spelling 0: C(n) E(b) F(n) G(n) A(b) Bn A(b) Bb G(n) F(n) G(n) 
+[pse_warning] spelling 1: C(n) E(b) F(n) G(n) A(b) Cb A(b) B(b) G(n) F(n) G(n) 
+diff: 7
+diff: 7
+global ton: NO: ( c minor was <music21.key.KeySignature of 4 flats> )
+
+
+xml_score.musicxml None part 2 / 2 688 notes, 58 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:7(44-55): tie break fail (2 bests) cost[accid=1 dist=1 color=0 a+d=2]
+[pse_warning] spelling 0: Bn F(n) G(n) A(b) Bb En F(n) A(b) B(b) C(n) B(b) 
+[pse_warning] spelling 1: Cb F(n) G(n) A(b) B(b) En F(n) A(b) B(b) Cn B(b) 
+[pse_warning] PSV rename bar:20(185-188): tie break fail (2 bests) cost[accid=2 dist=1 color=0 a+d=3]
+[pse_warning] spelling 0: En Eb Dn 
+[pse_warning] spelling 1: Fb E(b) Dn 
+[pse_warning] PSV rename bar:27(253-266): tie break fail (2 bests) cost[accid=1 dist=1 color=0 a+d=2]
+[pse_warning] spelling 0: F(n) D(b) En F(n) G(n) A(b) C(n) Bn F(n) G(n) A(b) Bb E(n) 
+[pse_warning] spelling 1: F(n) D(b) En F(n) G(n) A(b) C(n) Cb F(n) G(n) A(b) B(b) E(n) 
+[pse_warning] PSV rename bar:50(590-602): tie break fail (2 bests) cost[accid=3 dist=4 color=0 a+d=7]
+[pse_warning] spelling 0: B(b) F(n) E(b) Dn D(n) C(n) Cb C(b) An G(n) A(n) C(b) 
+[pse_warning] spelling 1: B(b) F(n) E(b) Dn D(n) C(n) Bn B(n) An G(n) A(n) B(n) 
+[pse_warning] PSV rename bar:53(625-643): tie break fail (2 bests) cost[accid=2 dist=2 color=0 a+d=4]
+[pse_warning] spelling 0: A(b) Bn G(n) F(n) G(n) En Bb A(b) G(n) F(n) F(n) G(n) A(b) B(b) B(b) F(n) Eb D(b) 
+[pse_warning] spelling 1: A(b) Cb G(n) F(n) G(n) En B(b) A(b) G(n) F(n) F(n) G(n) A(b) B(b) B(b) F(n) Eb D(b) 
+diff: 5
+diff: 5
+global ton: OK: ( f minor )
+
+
