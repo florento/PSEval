@@ -1,0 +1,1251 @@
+
+PSE version 82ffa3ae326e5501fa5b9e9bb54f0862e31f7614
+24/06/2023
+
+eval_Bach()
+eval ASAP/Bach with algo Algo.Algo_PSE
+
+
+BWV 846 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_846/xml_score.musicxml
+Das Wohltemperierte Klavier I None part 1 / 2 408 notes, 35 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 2 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 4
+diff: 4
+global ton: OK: ( C major ), Das Wohltemperierte Klavier I None part 2 / 2 211 notes, 35 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 10
+diff: 10
+global ton: OK: ( a minor ), 
+
+
+BWV 846 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_846/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 487 notes, 27 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 2
+diff: 2
+global ton: OK: ( a minor ), 
+
+
+xml_score.musicxml None part 2 / 2 315 notes, 27 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 3
+diff: 3
+global ton: OK: ( a minor ), 
+
+
+BWV 848 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_848/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 397 notes, 104 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 365
+diff: 365
+global ton: NO: ( b- minor was <music21.key.KeySignature of 7 sharps> ), 
+
+
+xml_score.musicxml None part 2 / 2 425 notes, 104 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 358
+diff: 358
+global ton: NO: ( b- minor was <music21.key.KeySignature of 7 sharps> ), 
+
+
+BWV 848 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_848/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 866 notes, 55 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 649
+diff: 649
+global ton: NO: ( b- minor was <music21.key.KeySignature of 7 sharps> ), 
+
+
+xml_score.musicxml None part 2 / 2 623 notes, 55 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 370
+diff: 370
+global ton: NO: ( b- minor was <music21.key.KeySignature of 7 sharps> ), 
+
+
+BWV 854 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_854/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 287 notes, 24 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:20(254-266): tie break fail (2 bests) cost[accid=3 dist=3 color=0 cflat=0 a+d=6]
+[pse_warning] spelling 0: Gn A(n) G(n) F(#) G(n) E(n) D(#) C(#) B(n) B# Bn A# 
+[pse_warning] spelling 1: Gn A(n) G(n) F(#) G(n) E(n) D(#) C(#) B(n) Cn B(n) A# 
+diff: 3
+diff: 3
+global ton: OK: ( c# minor ), 
+
+
+xml_score.musicxml None part 2 / 2 221 notes, 24 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( c# minor ), 
+
+
+BWV 854 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_854/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 475 notes, 29 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( c# minor ), 
+
+
+xml_score.musicxml None part 2 / 2 287 notes, 29 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:12(108-118): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: G(#) E(n) D(#) C(#) E(n) A# G(#) A(#) Gn D(#) 
+[pse_warning] spelling 1: G(#) E(n) D(#) C(#) E(n) A# G(#) A(#) F## D(#) 
+diff: 1
+diff: 1
+global ton: OK: ( c# minor ), 
+
+
+BWV 856 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_856/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 481 notes, 73 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( d minor ), 
+
+
+xml_score.musicxml None part 2 / 2 313 notes, 73 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( d minor ), 
+
+
+BWV 857 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_857/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 394 notes, 22 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( f minor ), 
+
+
+xml_score.musicxml None part 2 / 2 249 notes, 22 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 4
+diff: 4
+global ton: OK: ( f minor ), 
+
+
+BWV 858 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_858/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 293 notes, 30 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:8(81-90): tie break fail (2 bests) cost[accid=6 dist=0 color=7 cflat=0 a+d=6]
+[pse_warning] spelling 0: A# D# G# A(#) F# Bn En F(#) D(#) 
+[pse_warning] spelling 1: A# D# G# A(#) F# C(b) En F(#) D(#) 
+[pse_warning] PSV rename bar:9(90-99): tie break fail (2 bests) cost[accid=3 dist=3 color=5 cflat=1 a+d=6]
+[pse_warning] spelling 0: G# Dn E(b) D(n) G(#) E# Bn G(#) E(#) 
+[pse_warning] spelling 1: G# Dn E(b) D(n) G(#) E# C(b) G(#) E(#) 
+[pse_warning] PSV rename bar:15(159-166): tie break fail (2 bests) cost[accid=4 dist=2 color=4 cflat=0 a+d=6]
+[pse_warning] spelling 0: F## F(##) A# E(b) D(b) Bn A(#) 
+[pse_warning] spelling 1: F## F(##) A# E(b) D(b) C(b) A(#) 
+[pse_warning] PSV rename bar:20(209-219): tie break fail (2 bests) cost[accid=5 dist=1 color=8 cflat=1 a+d=6]
+[pse_warning] spelling 0: G# E# F# G(#) E(#) F(#) A# Bn D(b) A(#) 
+[pse_warning] spelling 1: G# E# F# G(#) E(#) F(#) A# C(b) D(b) A(#) 
+[pse_warning] PSV rename bar:21(219-228): tie break fail (2 bests) cost[accid=5 dist=1 color=7 cflat=0 a+d=6]
+[pse_warning] spelling 0: A# D# G# A(#) F# Fn Bn G(#) D(#) 
+[pse_warning] spelling 1: A# D# G# A(#) F# Fn C(b) G(#) D(#) 
+[pse_warning] PSV rename bar:23(237-243): tie break fail (2 bests) cost[accid=2 dist=3 color=3 cflat=1 a+d=5]
+[pse_warning] spelling 0: F# E(b) C(b) A(b) E# F(#) 
+[pse_warning] spelling 1: F# E(b) Bn A(b) E# F(#) 
+diff: 159
+diff: 159
+global ton: NO: ( e- minor was F# major ), 
+
+
+xml_score.musicxml None part 2 / 2 169 notes, 30 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:16(90-94): tie break fail (2 bests) cost[accid=1 dist=3 color=0 cflat=0 a+d=4]
+[pse_warning] spelling 0: A(b) E(b) En C(b) 
+[pse_warning] spelling 1: A(b) E(b) En Bn 
+[pse_warning] PSV rename bar:19(107-115): tie break fail (2 bests) cost[accid=3 dist=2 color=5 cflat=1 a+d=5]
+[pse_warning] spelling 0: E# A(b) E(#) C# E(#) C(#) G(b) Bn 
+[pse_warning] spelling 1: E# A(b) E(#) C# E(#) C(#) G(b) Cb 
+[pse_warning] PSV rename bar:21(119-123): tie break fail (2 bests) cost[accid=0 dist=4 color=0 cflat=0 a+d=4]
+[pse_warning] spelling 0: C(b) B(b) A(b) G(b) 
+[pse_warning] spelling 1: Bn Bb A(b) G(b) 
+[pse_warning] PSV rename bar:23(127-135): tie break fail (2 bests) cost[accid=3 dist=2 color=6 cflat=0 a+d=5]
+[pse_warning] spelling 0: C(b) C# F# A# C(#) A(#) F(#) E(b) 
+[pse_warning] spelling 1: Bn C# F# A# C(#) A(#) F(#) E(b) 
+[pse_warning] PSV rename bar:29(166-169): tie break fail (2 bests) cost[accid=1 dist=2 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: Bn D(b) G(b) 
+[pse_warning] spelling 1: C(b) D(b) G(b) 
+diff: 121
+diff: 121
+global ton: NO: ( e- minor was F# major ), 
+
+
+BWV 858 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_858/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 583 notes, 35 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:29(500-510): tie break fail (2 bests) cost[accid=5 dist=1 color=8 cflat=0 a+d=6]
+[pse_warning] spelling 0: Bn D# D(#) G# F## G(#) D(#) G(#) F(##) Bb 
+[pse_warning] spelling 1: C(b) D# D(#) G# F## G(#) D(#) G(#) F(##) B(b) 
+[pse_warning] PSV rename bar:32(549-567): tie break fail (2 bests) cost[accid=4 dist=6 color=12 cflat=1 a+d=10]
+[pse_warning] spelling 0: C(b) F# E# A# F(#) G# D(b) E(#) A(#) F(#) D(b) D(b) A(#) G(#) D(b) D(b) E(#) G(#) 
+[pse_warning] spelling 1: Bn F# E# A# F(#) G# D(b) E(#) A(#) F(#) D(b) D(b) A(#) G(#) D(b) D(b) E(#) G(#) 
+diff: 436
+diff: 436
+global ton: NO: ( e- minor was <music21.key.KeySignature of 6 sharps> ), 
+
+
+xml_score.musicxml None part 2 / 2 370 notes, 35 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:32(348-357): tie break fail (2 bests) cost[accid=3 dist=4 color=4 cflat=0 a+d=7]
+[pse_warning] spelling 0: A(b) B(b) Bn C# C(#) F# F(#) Fn E(b) 
+[pse_warning] spelling 1: A(b) B(b) C(b) C# C(#) F# F(#) Fn E(b) 
+[pse_warning] PSV rename bar:33(357-369): tie break fail (2 bests) cost[accid=5 dist=1 color=10 cflat=0 a+d=6]
+[pse_warning] spelling 0: F# A# A(#) F(#) D# F(#) F(#) D(#) Bn Ab C# C(#) 
+[pse_warning] spelling 1: F# A# A(#) F(#) D# F(#) F(#) D(#) C(b) Ab C# C(#) 
+diff: 309
+diff: 309
+global ton: NO: ( e- minor was <music21.key.KeySignature of 6 sharps> ), 
+
+
+BWV 860 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_860/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 335 notes, 19 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: NO: ( e minor was G major ), xml_score.musicxml None part 2 / 2 275 notes, 19 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 8
+diff: 8
+global ton: NO: ( e minor was G major ), 
+
+
+BWV 860 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_860/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 1124 notes, 86 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 2
+diff: 2
+global ton: OK: ( e minor ), xml_score.musicxml None part 2 / 2 705 notes, 86 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( e minor ), 
+
+
+BWV 862 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_862/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 381 notes, 44 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 2 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( A- major ), xml_score.musicxml None part 2 / 2 314 notes, 44 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 2 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( A- major ), 
+
+
+BWV 862 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_862/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 477 notes, 35 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( f minor ), xml_score.musicxml None part 2 / 2 455 notes, 35 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( f minor ), 
+
+
+BWV 863 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_863/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 344 notes, 29 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:9(121-132): tie break fail (4 bests) cost[accid=3 dist=2 color=0 cflat=1 a+d=5]
+[pse_warning] spelling 0: A(#) B(n) G(#) F## A(#) G(#) E# C## A(#) D(#) E(#) 
+[pse_warning] spelling 1: A(#) B(n) G(#) F## A(#) G(#) E# Dn A(#) D# E(#) 
+[pse_warning] spelling 2: A(#) B(n) G(#) Gn A(#) G# E# C## A(#) D(#) E(#) 
+[pse_warning] spelling 3: A(#) B(n) G(#) Gn A(#) G# E# Dn A(#) D# E(#) 
+[pse_warning] PSV rename bar:11(136-144): tie break fail (2 bests) cost[accid=3 dist=0 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: D(#) D(#) E# F(#) G(#) C## E(#) G(#) 
+[pse_warning] spelling 1: D(#) D(#) E# F(#) G(#) Dn E(#) G(#) 
+[pse_warning] PSV rename bar:12(144-168): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: F(#) D(#) F(#) G(#) B(n) E# Dn F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) E(#) 
+[pse_warning] spelling 1: F(#) D(#) F(#) G(#) B(n) E# C## F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) F(#) E(#) E(#) 
+diff: 1
+diff: 1
+global ton: OK: ( g# minor ), 
+
+
+xml_score.musicxml None part 2 / 2 267 notes, 29 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:9(73-80): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: G(#) G(#) G(#) F(#) E# D(#) Dn 
+[pse_warning] spelling 1: G(#) G(#) G(#) F(#) E# D(#) C## 
+diff: 6
+diff: 6
+global ton: OK: ( g# minor ), 
+
+
+BWV 863 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_863/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 473 notes, 41 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:20(217-226): tie break fail (2 bests) cost[accid=4 dist=5 color=2 cflat=0 a+d=9]
+[pse_warning] spelling 0: G(#) Gn G# G(#) Gb Fn G(b) D(#) An 
+[pse_warning] spelling 1: G(#) F## G(#) G(#) Gb Fn G(b) D(#) An 
+[pse_warning] PSV rename bar:23(252-266): tie break fail (2 bests) cost[accid=7 dist=4 color=6 cflat=0 a+d=11]
+[pse_warning] spelling 0: C(#) Cn Bb Eb An B(b) F## A(n) Dn B(b) E(b) Fn Gb F(n) 
+[pse_warning] spelling 1: C(#) Cn Bb Eb An B(b) Gn A(n) Dn B(b) E(b) Fn Gb F(n) 
+[pse_warning] PSV rename bar:36(413-431): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: C(#) F(#) D(#) E(n) F(#) G(#) C(#) F(#) E(n) B# D(#) C(#) G(#) D(#) E(n) D(#) Gn G# 
+[pse_warning] spelling 1: C(#) F(#) D(#) E(n) F(#) G(#) C(#) F(#) E(n) B# D(#) C(#) G(#) D(#) E(n) D(#) F## G(#) 
+diff: 88
+diff: 88
+global ton: OK: ( g# minor ), 
+
+
+xml_score.musicxml None part 2 / 2 374 notes, 41 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:1(6-14): tie break fail (2 bests) cost[accid=2 dist=0 color=0 cflat=0 a+d=2]
+[pse_warning] spelling 0: G(#) C## D(#) F(#) G(#) G(#) A(#) A(#) 
+[pse_warning] spelling 1: G(#) Dn D# F(#) G(#) G(#) A(#) A(#) 
+[pse_warning] PSV rename bar:20(170-183): tie break fail (2 bests) cost[accid=3 dist=2 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: G(#) C(#) B(n) A(#) B(n) G(#) B(n) C## A(#) D(#) G(#) A(#) Cn 
+[pse_warning] spelling 1: G(#) C(#) B(n) A(#) B(n) G(#) B(n) Dn A(#) D# G(#) A(#) Cn 
+diff: 44
+diff: 44
+global ton: OK: ( g# minor ), 
+
+
+BWV 864 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_864/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 361 notes, 24 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( f# minor ), xml_score.musicxml None part 2 / 2 280 notes, 24 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( f# minor ), 
+
+
+BWV 864 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_864/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 813 notes, 54 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( f# minor ), xml_score.musicxml None part 2 / 2 487 notes, 54 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( f# minor ), 
+
+
+BWV 865 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_865/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 402 notes, 28 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( a minor ), 
+
+
+xml_score.musicxml None part 2 / 2 246 notes, 28 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 9
+diff: 9
+global ton: OK: ( a minor ), 
+
+
+BWV 865 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_865/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 1408 notes, 87 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Aminor (0))=2)
+[pse_info] PST: 1 candidates global: 
+diff: 5
+diff: 5
+global ton: OK: ( a minor ), 
+
+
+xml_score.musicxml None part 2 / 2 1140 notes, 87 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 2
+diff: 2
+global ton: OK: ( a minor ), 
+
+
+BWV 866 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_866/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 317 notes, 20 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( g minor ), xml_score.musicxml None part 2 / 2 321 notes, 20 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 2
+diff: 2
+global ton: OK: ( g minor ), 
+
+
+BWV 866 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_866/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 573 notes, 48 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( g minor ), 
+
+
+xml_score.musicxml None part 2 / 2 395 notes, 48 bars, add_tons 25
+start Spelling part
+diff: 0
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+global ton: OK: ( g minor ), 
+
+
+BWV 867 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_867/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 528 notes, 24 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 3
+diff: 3
+global ton: OK: ( b- minor ), 
+
+
+xml_score.musicxml None part 2 / 2 279 notes, 24 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( b- minor ), 
+
+
+BWV 867 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_867/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 536 notes, 75 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 53
+diff: 53
+global ton: OK: ( b- minor ), 
+
+
+xml_score.musicxml None part 2 / 2 291 notes, 75 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 48
+diff: 48
+global ton: OK: ( b- minor ), 
+
+
+BWV 868 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_868/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 260 notes, 19 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( g# minor ), 
+
+
+xml_score.musicxml None part 2 / 2 180 notes, 19 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( g# minor ), 
+
+
+BWV 868 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_868/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 466 notes, 34 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 4
+diff: 4
+global ton: OK: ( g# minor ), 
+
+
+xml_score.musicxml None part 2 / 2 442 notes, 34 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 4
+diff: 4
+global ton: OK: ( B major ), 
+
+
+BWV 870 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_870/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 584 notes, 34 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 11
+diff: 11
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ), 
+
+
+xml_score.musicxml None part 2 / 2 410 notes, 34 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 3
+diff: 3
+global ton: OK: ( a minor ), 
+
+
+BWV 870 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_870/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 682 notes, 83 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 3
+diff: 3
+global ton: OK: ( a minor ), 
+
+
+xml_score.musicxml None part 2 / 2 415 notes, 83 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( a minor ), 
+
+
+BWV 873 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_873/xml_score.musicxml
+Fugue No. 4 in 3 voices in C♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 862 notes, 71 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:1(0-6): tie break fail (2 bests) cost[accid=3 dist=0 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: G(#) F## G(#) A# G(#) A(#) 
+[pse_warning] spelling 1: G(#) Gn G# A# G(#) A(#) 
+[pse_warning] PSV rename bar:2(6-18): tie break fail (2 bests) cost[accid=4 dist=1 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: D(#) Fn F## G(#) A# B(n) C(#) B(n) C(#) A(#) D(#) C(#) 
+[pse_warning] spelling 1: D(#) Fn Gn G# A# B(n) C(#) B(n) C(#) A(#) D(#) C(#) 
+[pse_warning] PSV rename bar:16(160-178): tie break fail (2 bests) cost[accid=3 dist=3 color=0 cflat=0 a+d=6]
+[pse_warning] spelling 0: F(#) E(n) F(#) D(#) G(#) F(#) E(n) G(#) D(#) F## E(n) G(#) C(#) A# B(n) G(#) C(#) A(#) 
+[pse_warning] spelling 1: F(#) E(n) F(#) D(#) G(#) F(#) E(n) G(#) D(#) Gn E(n) G# C(#) A# B(n) G(#) C(#) A(#) 
+[pse_warning] PSV rename bar:40(475-485): tie break fail (2 bests) cost[accid=2 dist=2 color=0 cflat=0 a+d=4]
+[pse_warning] spelling 0: B# F(#) A# G(#) C(#) E(n) D(#) C(#) D(#) Bn 
+[pse_warning] spelling 1: Cn F(#) A# G(#) C# E(n) D(#) C(#) D(#) B(n) 
+[pse_warning] PSV rename bar:51(615-631): tie break fail (2 bests) cost[accid=2 dist=3 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: G(#) Dn F(#) G(#) E(n) C(#) A(n) G(#) F(#) B# E(n) F(#) G(#) Bn F(#) G(#) 
+[pse_warning] spelling 1: G(#) Dn F(#) G(#) E(n) C(#) A(n) G(#) F(#) Cn E(n) F(#) G(#) B(n) F(#) G(#) 
+[pse_warning] PSV rename bar:54(653-663): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: C(#) A(n) Cn A(n) G(#) F(#) B(n) E# F(#) G(#) 
+[pse_warning] spelling 1: C(#) A(n) B# A(n) G(#) F(#) Bn E# F(#) G(#) 
+[pse_warning] PSV rename bar:61(753-769): tie break fail (2 bests) cost[accid=2 dist=5 color=0 cflat=0 a+d=7]
+[pse_warning] spelling 0: G(#) C(#) B(n) C(#) F(#) A# D(#) C(#) F(#) B# E(n) F(#) D(#) Bn G(#) F(#) 
+[pse_warning] spelling 1: G(#) C(#) B(n) C(#) F(#) A# D(#) C(#) F(#) Cn E(n) F(#) D(#) B(n) G(#) F(#) 
+diff: 38
+diff: 38
+global ton: OK: ( c# minor ), 
+
+
+Fugue No. 4 in 3 voices in C♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 603 notes, 71 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:2(22-26): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: C(#) B(n) A# Gn 
+[pse_warning] spelling 1: C(#) B(n) A# F## 
+[pse_warning] PSV rename bar:69(595-602): tie break fail (2 bests) cost[accid=3 dist=0 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: E(n) D(#) E(n) F## G(#) A# G(#) 
+[pse_warning] spelling 1: E(n) D(#) E(n) Gn G# A# G(#) 
+diff: 31
+diff: 31
+global ton: OK: ( c# minor ), 
+
+
+BWV 874 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_874/xml_score.musicxml
+Prélude No. 5 in D Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 930 notes, 56 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: NO: ( b minor was D major ), 
+
+
+Prélude No. 5 in D Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 620 notes, 56 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: NO: ( b minor was D major ), 
+
+
+BWV 874 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_874/xml_score.musicxml
+Fugue No. 5 in 4 voices in D Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 495 notes, 50 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( b minor ), 
+
+
+Fugue No. 5 in 4 voices in D Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 471 notes, 50 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 2
+diff: 2
+global ton: OK: ( b minor ), 
+
+
+BWV 875 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_875/xml_score.musicxml
+Prélude No. 6 in D Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 581 notes, 61 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 3
+diff: 3
+global ton: OK: ( d minor ), 
+
+
+Invalid argument[pse_error] Speller1Pass local: no bar 57
+Invalid argument
+Invalid argument
+Invalid argument
+
+
+Prélude No. 6 in D Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 [pse_error] Speller1Pass local: no bar 58
+[pse_error] Speller1Pass local: no bar 59
+[pse_error] Speller1Pass local: no bar 60
+510 notes, 61 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_info] PST: 1 candidates global: 
+diff: 17
+diff: 17
+global ton: OK: ( d minor ), 
+
+
+BWV 875 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_875/xml_score.musicxml
+Fugue No. 6 in 3 voices in D Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 487 notes, 27 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_info] PST: 1 candidates global: 
+diff: 7
+diff: 7
+global ton: OK: ( d minor ), Fugue No. 6 in 3 voices in D Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 344 notes, 27 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Dmajor (2#) dist prev(Dminor (1b))=1, dist global(Dminor (1b))=1)
+[pse_info] PST: 1 candidates global: 
+diff: 4
+diff: 4
+global ton: OK: ( d minor ), 
+
+
+BWV 876 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_876/xml_score.musicxml
+Prélude No. 7 in E♭ Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 561 notes, 71 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 4
+diff: 4
+global ton: OK: ( c minor ), Invalid argument
+[pse_error] Speller1Pass local: no bar 70
+Prélude No. 7 in E♭ Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 384 notes, 71 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( c minor ), 
+
+
+BWV 876 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_876/xml_score.musicxml
+Fugue No. 7 in 4 voices in E♭ Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 377 notes, 70 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( c minor ), Fugue No. 7 in 4 voices in E♭ Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 373 notes, 70 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 2 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( E- major ), 
+
+
+BWV 880 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_880/xml_score.musicxml
+Prélude No. 11 in F Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 799 notes, 72 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( d minor ), Prélude No. 11 in F Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 677 notes, 72 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 5
+diff: 5
+global ton: OK: ( d minor ), 
+
+
+BWV 880 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_880/xml_score.musicxml
+Fugue No. 11 in 3 voices in F Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 688 notes, 99 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSGrid, estimation local, tie break fail Eminor (1#) vs Dminor (1b) dist prev(Aminor (0))=1, dist global(Dminor (1b))=2)
+[pse_info] PST: 1 candidates global: 
+diff: 5
+diff: 5
+global ton: OK: ( d minor ), Fugue No. 11 in 3 voices in F Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 416 notes, 99 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 8
+diff: 8
+global ton: OK: ( d minor ), 
+
+
+BWV 883 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_883/xml_score.musicxml
+Prélude No. 14 in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 524 notes, 43 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:7(96-113): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: A(n) G(#) F(#) A(n) C(#) F(#) C(#) D# E# F(#) G(#) A(n) G(#) F(#) G(#) F(#) En 
+[pse_warning] spelling 1: A(n) G(#) F(#) A(n) C(#) F(#) C(#) D# Fn F# G(#) A(n) G(#) F(#) G(#) F(#) E(n) 
+[pse_warning] PSV rename bar:24(301-312): tie break fail (2 bests) cost[accid=3 dist=1 color=0 cflat=0 a+d=4]
+[pse_warning] spelling 0: E(n) D# C(#) C(#) G(#) C(#) D(#) E(n) C(#) A# Gn 
+[pse_warning] spelling 1: E(n) D# C(#) C(#) G(#) C(#) D(#) E(n) C(#) A# F## 
+diff: 4
+diff: 4
+global ton: OK: ( f# minor ), 
+
+
+Prélude No. 14 in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 414 notes, 43 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 8
+diff: 8
+global ton: OK: ( f# minor ), 
+
+
+BWV 883 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_883/xml_score.musicxml
+Fugue No. 14 in 3 voices in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 809 notes, 70 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:17(107-120): tie break fail (2 bests) cost[accid=2 dist=2 color=0 cflat=0 a+d=4]
+[pse_warning] spelling 0: B(n) G(#) A(n) Fn G(#) A(n) F# F(#) G(#) F(#) E(n) D# E(n) 
+[pse_warning] spelling 1: B(n) G(#) A(n) E# G(#) A(n) F(#) F(#) G(#) F(#) En D# E(n) 
+[pse_warning] PSV rename bar:41(394-413): tie break fail (2 bests) cost[accid=4 dist=5 color=0 cflat=0 a+d=9]
+[pse_warning] spelling 0: F(#) A(n) Cn G(#) F(#) C# G(#) A# C(#) D# E(n) Gn D(#) C(#) G# D(#) C(#) B(n) D(#) 
+[pse_warning] spelling 1: F(#) A(n) Cn G(#) F(#) C# G(#) A# C(#) D# E(n) F## D(#) C(#) G(#) D(#) C(#) B(n) D(#) 
+[pse_warning] PSV rename bar:42(413-434): tie break fail (2 bests) cost[accid=3 dist=2 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: G(#) C(#) D# A# C(#) B(n) D(#) C(#) B(n) Gn A(#) C(#) G# B(n) C(#) D(#) B(n) E(n) An B(n) G(#) 
+[pse_warning] spelling 1: G(#) C(#) D# A# C(#) B(n) D(#) C(#) B(n) F## A(#) C(#) G(#) B(n) C(#) D(#) B(n) E(n) An B(n) G(#) 
+[pse_warning] PSV rename bar:47(508-530): tie break fail (2 bests) cost[accid=3 dist=2 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: B(n) D(n) A# B(n) D# C(#) B(n) E(n) C(#) Dn B(n) C(#) E(n) B(n) C(#) E# D(n) C(#) F(#) D(n) En C(#) 
+[pse_warning] spelling 1: B(n) D(n) A# B(n) D# C(#) B(n) E(n) C(#) Dn B(n) C(#) E(n) B(n) C(#) Fn D(n) C(#) F# D(n) E(n) C(#) 
+[pse_warning] PSV rename bar:62(719-730): tie break fail (2 bests) cost[accid=2 dist=2 color=0 cflat=0 a+d=4]
+[pse_warning] spelling 0: E(n) C(#) G(#) C(#) E(n) A# Gn F(#) B(n) E(n) C(#) 
+[pse_warning] spelling 1: E(n) C(#) G(#) C(#) E(n) A# F## F# B(n) E(n) C(#) 
+diff: 4
+diff: 4
+global ton: OK: ( f# minor ), 
+
+
+Fugue No. 14 in 3 voices in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 688 notes, 70 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:26(181-187): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: G(#) A# B(n) C(#) Gn B(n) 
+[pse_warning] spelling 1: G(#) A# B(n) C(#) F## B(n) 
+[pse_warning] PSV rename bar:41(315-327): tie break fail (2 bests) cost[accid=3 dist=2 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: E(n) F(#) E(n) D# E(n) D(#) C(#) E(n) Gn A# B(n) E(n) 
+[pse_warning] spelling 1: E(n) F(#) E(n) D# E(n) D(#) C(#) E(n) F## A# B(n) E(n) 
+diff: 2
+diff: 2
+global ton: OK: ( f# minor ), 
+
+
+BWV 884 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_884/xml_score.musicxml
+Prélude No. 15 in G Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 484 notes, 48 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 2
+diff: 2
+global ton: OK: ( e minor ), Prélude No. 15 in G Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 422 notes, 48 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( e minor ), 
+
+
+BWV 884 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_884/xml_score.musicxml
+Fugue No. 15 in 3 voices in G Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 421 notes, 72 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSGrid, estimation local, tie break fail Dminor (1b) vs Gmajor (1#) dist prev(Bminor (2#))=2, dist global(Eminor (1#))=2)
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( e minor ), Fugue No. 15 in 3 voices in G Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 321 notes, 72 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 8
+diff: 8
+global ton: OK: ( e minor ), 
+
+
+BWV 885 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_885/xml_score.musicxml
+Prélude No. 16 in G Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 355 notes, 21 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 3
+diff: 3
+global ton: OK: ( g minor ), Prélude No. 16 in G Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 237 notes, 21 bars, add_tons 25
+start Spelling part
+diff: 0
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+global ton: OK: ( g minor ), 
+
+
+BWV 885 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_885/xml_score.musicxml
+Fugue No. 16 in 4 voices in G Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 884 notes, 84 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 3
+diff: 3
+global ton: OK: ( g minor ), Fugue No. 16 in 4 voices in G Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 851 notes, 84 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 7
+diff: 7
+global ton: OK: ( g minor ), 
+
+
+BWV 887 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_887/xml_score.musicxml
+Prélude No. 18 in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 672 notes, 50 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:6(76-89): tie break fail (2 bests) cost[accid=3 dist=0 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: C## G(#) D(#) F(#) E# G(#) G(#) E(#) E(#) G(#) F(#) D(#) E(#) 
+[pse_warning] spelling 1: Dn G(#) D# F(#) E# G(#) G(#) E(#) E(#) G(#) F(#) D(#) E(#) 
+[pse_warning] PSV rename bar:13(159-175): tie break fail (2 bests) cost[accid=4 dist=1 color=0 cflat=1 a+d=5]
+[pse_warning] spelling 0: C## B(n) A(#) G(#) E# G(#) E(#) G(#) F(#) A(#) D(#) E(#) F(#) D(#) Cn D(#) 
+[pse_warning] spelling 1: Dn B(n) A(#) G(#) E# G(#) E(#) G(#) F(#) A(#) D# E(#) F(#) D(#) Cn D(#) 
+[pse_warning] PSV rename bar:21(269-282): tie break fail (2 bests) cost[accid=2 dist=2 color=0 cflat=1 a+d=4]
+[pse_warning] spelling 0: G(#) E# F(#) D(#) G(#) E(#) E(#) G(#) C(#) E(#) A(#) D(#) Dn 
+[pse_warning] spelling 1: G(#) E# F(#) D(#) G(#) E(#) E(#) G(#) C(#) E(#) A(#) D(#) C## 
+[pse_warning] PSV rename bar:28(375-391): tie break fail (2 bests) cost[accid=2 dist=5 color=0 cflat=1 a+d=7]
+[pse_warning] spelling 0: E# F(#) G(#) A(#) B(n) Dn C(#) B(n) A(#) B(n) C(#) G(#) F(#) En D# C(#) 
+[pse_warning] spelling 1: E# F(#) G(#) A(#) B(n) C## C# B(n) A(#) B(n) C(#) G(#) F(#) En D(#) C(#) 
+diff: 86
+diff: 86
+global ton: OK: ( g# minor ), 
+
+
+Prélude No. 18 in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 646 notes, 50 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:31(391-407): tie break fail (2 bests) cost[accid=5 dist=5 color=9 cflat=0 a+d=10]
+[pse_warning] spelling 0: G(b) C# G(b) C(#) En C(#) E(n) C(#) Eb F## A# C(#) Cb A(#) Ab F(##) 
+[pse_warning] spelling 1: G(b) C# G(b) C(#) En C(#) E(n) C(#) Eb F## A# C(#) Bn A(#) Ab F(##) 
+diff: 423
+diff: 423
+global ton: NO: ( e- minor was <music21.key.KeySignature of 5 sharps> ), 
+
+
+BWV 887 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_887/xml_score.musicxml
+Fugue No. 18 in 3 voices in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 1045 notes, 143 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:6(41-50): tie break fail (2 bests) cost[accid=2 dist=2 color=0 cflat=1 a+d=4]
+[pse_warning] spelling 0: C(#) E# F(#) Dn G(#) D# F(#) B(n) D(#) 
+[pse_warning] spelling 1: C(#) E# F(#) C## G(#) D(#) F(#) B(n) D(#) 
+[pse_warning] PSV rename bar:7(50-58): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: D(#) E# G(#) F(#) Dn G(#) F(#) E(#) 
+[pse_warning] spelling 1: D(#) E# G(#) F(#) C## G(#) F(#) E(#) 
+[pse_warning] PSV rename bar:19(149-158): tie break fail (2 bests) cost[accid=2 dist=0 color=0 cflat=0 a+d=2]
+[pse_warning] spelling 0: G(#) B(n) D(#) A(#) D(#) B(n) A(#) C## G(#) 
+[pse_warning] spelling 1: G(#) B(n) D(#) A(#) D(#) B(n) A(#) Dn G(#) 
+[pse_warning] PSV rename bar:25(195-203): tie break fail (2 bests) cost[accid=1 dist=2 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: D(#) E(n) C(#) An A(n) D(#) F## G(#) 
+[pse_warning] spelling 1: D(#) E(n) C(#) An A(n) D(#) Gn G# 
+[pse_warning] PSV rename bar:42(314-324): tie break fail (2 bests) cost[accid=3 dist=0 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: B(n) D(#) D(#) F(#) C## F(#) D(#) D(#) E# G(#) 
+[pse_warning] spelling 1: B(n) D(#) D(#) F(#) Dn F(#) D# D(#) E# G(#) 
+[pse_warning] PSV rename bar:43(324-332): tie break fail (2 bests) cost[accid=4 dist=1 color=0 cflat=1 a+d=5]
+[pse_warning] spelling 0: E# F(#) A(#) D(#) D(#) E(#) Cn C## 
+[pse_warning] spelling 1: E# F(#) A(#) D(#) D(#) E(#) Cn Dn 
+[pse_warning] PSV rename bar:45(343-354): tie break fail (2 bests) cost[accid=3 dist=0 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: D(#) F(#) F(#) D(#) E# C## F(#) D(#) E(#) G(#) D(#) 
+[pse_warning] spelling 1: D(#) F(#) F(#) D(#) E# Dn F(#) D# E(#) G(#) D(#) 
+[pse_warning] PSV rename bar:59(451-459): tie break fail (2 bests) cost[accid=2 dist=0 color=0 cflat=0 a+d=2]
+[pse_warning] spelling 0: D(#) G(#) A(#) B(n) C## B(n) A(#) G(#) 
+[pse_warning] spelling 1: D(#) G(#) A(#) B(n) Dn B(n) A(#) G(#) 
+[pse_warning] PSV rename bar:62(469-472): tie break fail (2 bests) cost[accid=1 dist=2 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: C(#) Dn D# 
+[pse_warning] spelling 1: C(#) C## D(#) 
+[pse_warning] PSV rename bar:63(472-474): tie break fail (2 bests) cost[accid=2 dist=0 color=0 cflat=0 a+d=2]
+[pse_warning] spelling 0: D(#) C## 
+[pse_warning] spelling 1: D(#) Dn 
+[pse_warning] PSV rename bar:102(744-754): tie break fail (2 bests) cost[accid=3 dist=1 color=0 cflat=1 a+d=4]
+[pse_warning] spelling 0: D(#) F(#) E# F(#) D(#) E(#) C## A(#) A(#) C# 
+[pse_warning] spelling 1: D(#) F(#) E# F(#) D(#) E(#) Dn A(#) A(#) C(#) 
+[pse_warning] PSV rename bar:107(781-791): tie break fail (2 bests) cost[accid=1 dist=3 color=0 cflat=0 a+d=4]
+[pse_warning] spelling 0: D(#) C(#) F(#) B(n) Dn B(n) A(#) G(#) C(#) A(#) 
+[pse_warning] spelling 1: D(#) C(#) F(#) B(n) C## B(n) A(#) G(#) C# A(#) 
+[pse_warning] PSV rename bar:118(880-888): tie break fail (2 bests) cost[accid=2 dist=3 color=0 cflat=1 a+d=5]
+[pse_warning] spelling 0: B(n) F(#) A(#) Cn C# F(#) E# F## 
+[pse_warning] spelling 1: B(n) F(#) A(#) Cn C# F(#) E# Gn 
+[pse_warning] PSV rename bar:119(888-896): tie break fail (2 bests) cost[accid=3 dist=3 color=0 cflat=1 a+d=6]
+[pse_warning] spelling 0: C(#) G(#) B# Dn D# G(#) F## An 
+[pse_warning] spelling 1: C(#) G(#) B# Dn D# G(#) Gn An 
+[pse_warning] PSV rename bar:120(896-903): tie break fail (2 bests) cost[accid=3 dist=0 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: D(#) A(#) C## D(#) E# A(#) G(#) 
+[pse_warning] spelling 1: D(#) A(#) Dn D# E# A(#) G(#) 
+[pse_warning] PSV rename bar:121(903-913): tie break fail (2 bests) cost[accid=3 dist=2 color=0 cflat=1 a+d=5]
+[pse_warning] spelling 0: E# F(#) D(#) C## D(#) D(#) C# B(n) C(#) A(#) 
+[pse_warning] spelling 1: E# F(#) D(#) Dn D# D(#) C(#) B(n) C(#) A(#) 
+diff: 121
+diff: 121
+global ton: OK: ( g# minor ), 
+
+
+Fugue No. 18 in 3 voices in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 647 notes, 143 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:84(330-335): tie break fail (2 bests) cost[accid=1 dist=2 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: F(#) D(#) E# F(#) F## 
+[pse_warning] spelling 1: F(#) D(#) E# F(#) Gn 
+diff: 111
+diff: 111
+global ton: OK: ( g# minor ), 
+
+
+BWV 888 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_888/xml_score.musicxml
+Prélude No. 19 in A Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 502 notes, 33 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( f# minor ), Prélude No. 19 in A Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 276 notes, 33 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( f# minor ), 
+
+
+BWV 888 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_888/xml_score.musicxml
+Fugue No. 19 in 3 voices in A Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 467 notes, 29 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:8(109-125): tie break fail (2 bests) cost[accid=4 dist=4 color=0 cflat=0 a+d=8]
+[pse_warning] spelling 0: C(#) D# A# B(n) D(#) C## B(n) C# E# F(#) G(#) An G(#) F(#) D(#) A(n) 
+[pse_warning] spelling 1: C(#) D# A# B(n) D(#) Dn B(n) C(#) E# F(#) G(#) An G(#) F(#) D# A(n) 
+[pse_warning] PSV rename bar:10(144-161): tie break fail (2 bests) cost[accid=2 dist=3 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: A(n) G(#) F(#) Fn F# C(#) D# E(n) A(n) D(#) C(#) B(n) A(n) B(n) F(#) G(#) A(n) 
+[pse_warning] spelling 1: A(n) G(#) F(#) E# F(#) C(#) D# En A(n) D(#) C(#) B(n) A(n) B(n) F(#) G(#) A(n) 
+[pse_warning] PSV rename bar:22(335-356): tie break fail (2 bests) cost[accid=4 dist=8 color=0 cflat=0 a+d=12]
+[pse_warning] spelling 0: C(#) F(#) Cn B(n) A# B(n) F(#) G(#) An G(#) F(#) B(n) E(n) A(n) F(#) B(n) G(#) F(#) E(n) C# F## 
+[pse_warning] spelling 1: C(#) F(#) Cn B(n) A# B(n) F(#) G(#) An G(#) F(#) B(n) E(n) A(n) F(#) B(n) G(#) F(#) E(n) C# Gn 
+diff: 3
+diff: 3
+global ton: OK: ( f# minor ), 
+
+
+Fugue No. 19 in 3 voices in A Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 337 notes, 29 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:23(273-281): tie break fail (2 bests) cost[accid=1 dist=4 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: B(n) B(n) C(#) C(#) D(n) D(n) D# D(#) 
+[pse_warning] spelling 1: B(n) B(n) C(#) C(#) C## C(##) D# D(#) 
+diff: 0
+diff: 0
+global ton: OK: ( f# minor ), 
+
+
+BWV 889 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_889/xml_score.musicxml
+Prélude No. 20 in A Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 441 notes, 32 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 13
+diff: 13
+global ton: OK: ( a minor ), Prélude No. 20 in A Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 407 notes, 32 bars, add_tons 25
+start Spelling part
+diff:[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+ 12
+diff: 12
+global ton: OK: ( a minor ), 
+
+
+BWV 889 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_889/xml_score.musicxml
+Fugue No. 20 in 3 voices in A Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 396 notes, 28 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 3
+diff: 3
+global ton: OK: ( a minor ), Fugue No. 20 in 3 voices in A Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 366 notes, 28 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( a minor ), 
+
+
+BWV 891 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_891/xml_score.musicxml
+Prélude No. 22 in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 730 notes, 83 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 1
+diff: 1
+global ton: OK: ( b- minor ), Prélude No. 22 in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 498 notes, 83 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 14
+diff: 14
+global ton: OK: ( b- minor ), 
+
+
+BWV 891 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_891/xml_score.musicxml
+Fugue No. 22 in 4 voices in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 950 notes, 101 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 65
+diff: 65
+global ton: OK: ( b- minor ), Fugue No. 22 in 4 voices in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 879 notes, 101 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 44
+diff: 44
+global ton: OK: ( b- minor ), 
+
+
+BWV 892 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_892/xml_score.musicxml
+Prélude No. 23 in B Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 589 notes, 46 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:13(186-196): tie break fail (2 bests) cost[accid=2 dist=4 color=0 cflat=2 a+d=6]
+[pse_warning] spelling 0: F(#) B(n) A(#) B(n) B# F(#) C(#) E# F(#) F## 
+[pse_warning] spelling 1: F(#) B(n) A(#) B(n) B# F(#) C(#) E# F(#) Gn 
+[pse_warning] PSV rename bar:25(302-318): tie break fail (2 bests) cost[accid=1 dist=5 color=0 cflat=1 a+d=6]
+[pse_warning] spelling 0: E# F(#) G(#) B(n) A(#) B(n) C(#) F## G(#) A(#) C(#) A(#) G(#) A(#) A(#) C(#) 
+[pse_warning] spelling 1: E# F(#) G(#) B(n) A(#) B(n) C(#) Gn G# A(#) C(#) A(#) G(#) A(#) A(#) C(#) 
+diff: 37
+diff: 37
+global ton: OK: ( g# minor ), Prélude No. 23 in B Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 476 notes, 46 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 29
+diff: 29
+global ton: OK: ( g# minor ), 
+
+
+BWV 892 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_892/xml_score.musicxml
+Fugue No. 23 in 4 voices in B Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 764 notes, 104 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:43(228-237): tie break fail (2 bests) cost[accid=3 dist=0 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: G(#) E# F(#) G(#) E(#) E(#) C## D(#) E(#) 
+[pse_warning] spelling 1: G(#) E# F(#) G(#) E(#) E(#) Dn D# E(#) 
+[pse_warning] PSV rename bar:52(320-330): tie break fail (2 bests) cost[accid=4 dist=2 color=0 cflat=0 a+d=6]
+[pse_warning] spelling 0: An B(n) Gn G# Cn G(#) E(n) C(n) C# Fn 
+[pse_warning] spelling 1: An B(n) F## G(#) Cn G(#) E(n) C(n) C# Fn 
+[pse_warning] PSV rename bar:83(594-603): tie break fail (2 bests) cost[accid=4 dist=1 color=0 cflat=1 a+d=5]
+[pse_warning] spelling 0: D(#) E# Cn C## E(#) G(#) B(n) A(#) G(#) 
+[pse_warning] spelling 1: D(#) E# Cn Dn E(#) G(#) B(n) A(#) G(#) 
+[pse_warning] PSV rename bar:84(603-609): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=1 a+d=3]
+[pse_warning] spelling 0: F(#) E# E(#) D(#) Dn D# 
+[pse_warning] spelling 1: F(#) E# E(#) D(#) C## D(#) 
+diff: 9
+diff: 9
+global ton: OK: ( g# minor ), 
+
+
+Fugue No. 23 in 4 voices in B Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 702 notes, 104 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:23(148-157): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: D(#) G(#) B(n) C(#) A(#) B(n) G(#) C## F(#) 
+[pse_warning] spelling 1: D(#) G(#) B(n) C(#) A(#) B(n) G(#) Dn F(#) 
+[pse_warning] PSV rename bar:38(241-251): tie break fail (2 bests) cost[accid=2 dist=3 color=0 cflat=0 a+d=5]
+[pse_warning] spelling 0: D(#) C(#) C(#) F(#) B(n) G(#) C(#) A(#) C## B(n) 
+[pse_warning] spelling 1: D(#) C(#) C(#) F(#) B(n) G(#) C(#) A(#) Dn B(n) 
+diff: 29
+diff: 29
+global ton: OK: ( g# minor ), 
+
+
+BWV 893 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_893/xml_score.musicxml
+Prélude No. 24 in B Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 553 notes, 66 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+[pse_warning] PSV rename bar:24(188-196): tie break fail (2 bests) cost[accid=1 dist=2 color=0 cflat=0 a+d=3]
+[pse_warning] spelling 0: E(n) G(n) B(n) D# E(n) G(n) B(n) E(n) 
+[pse_warning] spelling 1: E(n) F## B(n) D# E(n) F(##) B(n) E(n) 
+diff: 5
+diff: 5
+global ton: OK: ( b minor ), 
+
+
+Prélude No. 24 in B Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 364 notes, 66 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 6
+diff: 6
+global ton: OK: ( b minor ), 
+
+
+BWV 893 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_893/xml_score.musicxml
+Fugue No. 24 in 3 voices in B Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 575 notes, 101 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 2
+diff: 2
+global ton: OK: ( b minor ), 
+
+
+Fugue No. 24 in 3 voices in B Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 466 notes, 101 bars, add_tons 25
+start Spelling part
+[pse_info] PST: 1 candidates global: 
+[pse_info] PST: 1 candidates global: 
+diff: 0
+diff: 0
+global ton: OK: ( b minor ), 
+
+
+parts spelled   : 110
+notes spelled   : 55530
+correct spelling: 92.42 %
+correct KS estim: 87.27 %
+
