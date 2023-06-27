@@ -1,0 +1,250 @@
+id,title,composer,KSgt,KSest,notes,err,time
+101,101-Beethoven-bagatelle4op33,,(3),E major (4),70,0,0.063
+102,102-Beethoven-quatuor16op135,,D- major (-5),b- minor (-5),96,0,0.054
+103,103-SaintSaens-elephant,,,E- major (-3),57,0,0.029
+104,104-Haendel-concertogrosso4op6,,,a minor (0),81,2,0.058
+105,105-Schubert-gloria,,D major (2),A major (3),67,4,0.021
+106,106-Bach-polonaise,,,G major (1),127,2,0.132
+107,107-Wolf-chantEspagnol8,,D major (2),e minor (1),85,3,0.058
+108,108-Beethoven-quatuor13op130,,,G major (1),61,1,0.025
+109,109-Kuhlau-sonatineop60n1,,F major (-1),a minor (0),90,0,0.101
+110,110-Haendel-concertogrosso3,,,e minor (1),86,2,0.039
+111,111-Mozart-sonateKV570,,,g minor (-2),98,4,0.743
+112,112-Haydn-fantasia,,,C major (0),68,0,0.061
+113,113-Gretchaninoff-retour,,,G major (1),89,0,0.049
+114,114-Clementi-rondoSonateop25,,,G major (1),86,0,0.059
+115,115-Clementi-sonatineop36n1,,(0),G major (1),91,0,0.081
+117,117-Schumann-trio2,,D- major (-5),b- minor (-5),72,0,0.031
+118,118-Greensleeves,,B- major (-2),g minor (-2),75,2,0.042
+119,119-Mendelssohn-romances31op67,,,E- major (-3),74,0,0.123
+120,120-Bach-gavotte,,G major (1),e minor (1),130,1,0.093
+121,121-Beethoven-adagioSonate1op2,,,F major (-1),51,0,0.073
+122,122-pop,,,C major (0),58,0,0.025
+123,123-Mozart-Canzonetta,,D major (2),b minor (2),60,0,0.028
+124,124-Schubert-quatuor13op29,,,C major (0),82,0,0.052
+125,125-Wolf-melodie5,,A major (3),b minor (2),66,3,0.036
+126,126-Milhaud-suiteProvencale,,C major (0),D major (2),61,0,0.030
+127,127-Lemoine-etude38,,C major (0),e minor (1),93,6,0.051
+128,128-Wolf-melodiesItalienne26,,E- major (-3),g minor (-2),94,8,0.079
+129,129-Mozart-sonateKV331,,,A major (3),60,0,0.040
+130,130-Haendel-concertogrosso10,,F major (-1),d minor (-1),85,0,0.105
+131,131-negrospiritual,,,G major (1),73,0,0.065
+132,132-Bach-Brandegourgeois4,,,G major (1),108,4,0.047
+133,133-Mozart-KV282,,E- major (-3),c minor (-3),107,0,0.085
+134,134-Purcell-gigue,,C major (0),a minor (0),81,1,0.059
+135,135-Schumann-concertola,,F major (-1),d minor (-1),66,3,0.065
+136,136-Schumann-Myrten25op25,,E- major (-3),c minor (-3),77,2,0.034
+138,138-Wolf-melodie1,,,A major (3),90,2,0.060
+140,140-Clementi-sonate3op25,,B- major (-2),d minor (-1),112,2,0.126
+141,141-Puig-Roget,,,C major (0),67,0,0.042
+142,142-Wolf-chantsitaliens35,,(-3),g minor (-2),77,3,0.055
+143,143-Wolf-melodiesespagnoles1,,F major (-1),d minor (-1),91,5,0.063
+144,144-Wolf-melodiesespagnoles13,,D major (2),b minor (2),67,3,0.028
+145,145-Clementi-sonate3op25,,B- major (-2),g minor (-2),87,0,0.114
+146,146-Clementi-sonatine2op35,,G major (1),e minor (1),117,1,0.075
+147,147-Beethoven-rondosonateop28,,,D major (2),56,0,0.036
+148,148-Mozart-concertofluteKV314,,D major (2),b minor (2),61,0,0.061
+149,149-Wolf-melodiesespagnoles2,,C major (0),a minor (0),91,3,0.038
+151,151-Mozart-duettinoDonJuanI97,,,A major (3),70,0,0.035
+152,152-Clementi-sonate5op36,,,C major (0),89,0,0.051
+153,153-Wolf-chansonsItaliennes21,,F major (-1),a minor (0),90,0,0.103
+154,154-Clementi-sonatine1op37,,E- major (-3),c minor (-3),83,0,0.177
+155,155-CPEBach-ariavar2,,,A major (3),57,0,0.023
+156,156-Haendel-hornpipeconcertogrosso7,,,B- major (-2),79,3,0.189
+157,157-Wolf-melodiesitaliennes20,,B- major (-2),g minor (-2),96,5,0.038
+158,158-Beethoven-quatuor1op18,,F major (-1),C major (0),94,1,0.209
+159,159-Dussek-rondo,,,B- major (-2),141,0,0.100
+160,160-Beethoven-trio2op70,,,C major (0),49,0,0.023
+161,161-Rimsky-Korsakov-Scheherazade,,,G major (1),117,0,0.139
+162,162-Chopin-nocturne1op32,,,B major (5),53,1,0.093
+163,163-Beethoven-septuorop20,,E- major (-3),c minor (-3),61,0,0.068
+164,164-Clementi-rondosonatine2op38,,,B- major (-2),53,2,0.033
+165,165-Balbastre-pastorale,,C major (0),a minor (0),57,0,0.044
+168,168-Beethoven-quatuor1op18,,F major (-1),a minor (0),94,11,0.035
+169,169-Wolf-chantsitaliens29,,C major (0),a minor (0),93,8,0.084
+171,171-Mozart-concertobasson,,F major (-1),d minor (-1),79,1,0.207
+172,172-Beethoven-trio2op70,,,C major (0),65,2,0.042
+173,173-Kuhlau-sonative1op60,,F major (-1),d minor (-1),132,0,0.143
+174,174-negrospiritual,,C major (0),B- major (-2),69,0,0.052
+177,177-Boulnois-berceuse,,C major (0),e minor (1),84,1,0.073
+178,178-Poulenc,,D major (2),A major (3),85,0,0.044
+179,179-Clementi-canone33,,C major (0),a minor (0),83,2,0.043
+180,180-Haendel-concertogrosso9op6,,,F major (-1),58,2,0.029
+201,201-Beethoven-variation1,,G major (1),e minor (1),97,0,0.068
+202,202-Bach-sarabande,,F major (-1),d minor (-1),86,5,0.043
+203,203-Listz-preludes,,C major (0),a minor (0),113,5,0.112
+205,205-Bach-credo,,,D major (2),105,0,0.095
+206,206-Beethoven-sonateop26,,(-4),b- minor (-5),67,0,0.038
+207,207-Bach-aria,,,e minor (1),134,1,0.150
+209,209-Beethoven-rondoop13,,,c minor (-3),87,0,0.075
+210,210-Schubert-benedictus,,,e minor (1),78,1,0.077
+211,211-Haydn,,,C major (0),132,0,0.193
+213,213-Beethoven-sonate2op14,,,G major (1),85,5,0.048
+214,214-Schumann-trio3,,,c minor (-3),128,5,1.293
+215,215-Debussy-passepied,,A major (3),c# minor (4),51,1,0.027
+216,216-Haendel,,,D major (2),147,0,0.082
+217,217-Beethoven-octuorop103,,(-2),d minor (-1),84,0,0.085
+218,218-Beethoven-sonateop28,,F major (-1),d minor (-1),85,2,0.049
+219,219-Schubert-scherzo,,B- major (-2),g minor (-2),80,0,0.052
+220,220-Mozart-sonateKV281,,,c minor (-3),136,0,0.126
+221,221-Monteverdi-orfeo,,(-1),B- major (-2),31,1,0.014
+222,222-Bartok-burlesque,,C major (0),g minor (-2),66,4,0.049
+223,223-Monteverdi-Orfeo,,C major (0),e minor (1),43,8,0.017
+224,224-Schumann-trio3op110,,,g minor (-2),61,2,0.050
+225,225-Beethoven-variationsop24,,,F major (-1),97,3,0.065
+226,226-Milhaud-Boeuf,,C major (0),a minor (0),102,3,0.062
+227,227-Mozart-quintetK407,,,g minor (-2),105,3,0.068
+228,228-Schuman-myrthen7op25,,,b- minor (-5),62,14,0.039
+229,229-Liszt-melodie,,G major (1),c minor (-3),81,5,0.068
+230,230-Schumann-trio2,,(-1),a minor (0),74,2,0.037
+231,231-Duparc-elegie,,F major (-1),d minor (-1),47,7,0.018
+232,232-Beethoven-sonateop22,,,c minor (-3),70,0,0.122
+233,233-Debussy-cloches,,,E major (4),64,1,0.038
+234,234-Beethoven-symphonie2op36,,,A major (3),74,0,0.030
+235,235-Schumann-quatuor1op41,,C major (0),a minor (0),142,0,0.126
+236,236-Schubert-scherzo,,,G major (1),82,0,0.078
+237,237-Beethoven-symphonie6,,,B- major (-2),122,0,0.187
+239,239-Beethoven-themavar,,,G major (1),71,0,0.037
+240,240-Haydn-sonate5,,,C major (0),124,0,0.068
+241,241-Haendel-sicilianaconcertogrosso8,,,c minor (-3),116,0,0.160
+243,243-Strauss-melodie1op56,,(-1),f minor (-4),87,8,0.063
+244,244-Bach-concerto1violon,,C major (0),G major (1),129,0,0.749
+245,245-Debussy-Arabesque2,,,G major (1),184,6,0.228
+246,246-Mozart-marcheflute,,,F major (-1),97,1,0.057
+247,247-Schubert-Benedictus,,,G major (1),41,1,0.025
+248,248-Mozart-sonateKV280,,,A- major (-4),97,0,0.067
+249,249-Mozart-andateKV9b,,B- major (-2),d minor (-1),128,8,0.141
+250,250-Cliquet-Pleyel,,C major (0),a minor (0),99,0,0.057
+251,251-Schumann-Myrthen10op25,,,c minor (-3),67,0,0.024
+252,252-Kuhlau-sonatine2op60,,,A major (3),68,1,0.047
+253,253-Schubert-gloria,,,D major (2),50,0,0.018
+254,254-Haydn-quatuor5op76,,,b minor (2),111,1,0.164
+255,255-Mozart-sonateDomKV457,,,c minor (-3),174,3,5.022
+256,256-Mozart-sonataKV309,,,F major (-1),138,2,0.243
+257,257-Mozart-quintetteDomKV309,,E- major (-3),g minor (-2),112,1,0.224
+258,258-Schumann-quatuor2FaMop41,,F major (-1),d minor (-1),105,5,0.056
+260,260-Monteverdi-Orfeo,,(0),e minor (1),84,9,0.035
+262,262-Schumann-Myrthen23op25,,,D major (2),82,1,0.049
+263,263-Clergue-Tom,,,F major (-1),70,0,0.039
+265,265-Mozart-Aria15,,E major (4),c# minor (4),119,0,0.111
+266,266-Debussy-Berger,,A major (3),f# minor (3),72,6,0.095
+267,267-Lalo-RoidYs,,F major (-1),d minor (-1),52,3,0.030
+268,268-Scarlatti-sonatepastorale,,,e minor (1),115,0,0.115
+269,269-Beethoven-quatuor1op18,,,d minor (-1),132,0,0.071
+271,271-Duparc-elegie,,,d minor (-1),64,8,0.022
+272,272-Bach-cantate140duetto,,,c minor (-3),184,7,6.374
+273,273-Haendel-concerto2,,,F major (-1),115,0,0.190
+274,274-Wolf-melodieespagnole6,,(3),b minor (2),123,9,0.112
+275,275-Bartok-danceRoumaine1,,(0),G major (1),120,0,0.055
+276,276-Bach-AnnaMagdalena,,,E- major (-3),69,0,0.080
+277,277-Debussy-quatuorSolmop10,,(-2),c minor (-3),77,0,0.064
+278,278-SaintSaens-Cygne,,,G major (1),122,2,0.115
+302,302-Chopin-nocturne3op9,,,b minor (2),60,6,0.037
+303,303-Bach-partita2sinfonia,,,c minor (-3),59,3,0.125
+304,304-Bach-polonaise,,,d minor (-1),136,0,0.143
+306,306-Haendel-concertogrosso3-4mvt,,,e minor (1),102,0,0.084
+307,307-Mozart-fantaisiekv475,,B- major (-2),g minor (-2),78,0,0.087
+308,308-Beethoven-sonateop81,,E- major (-3),g minor (-2),109,1,0.208
+309,309-Poulenc-improvisation6,,,g minor (-2),129,16,0.083
+311,311-Mozart-ariaCosifantutte,,,A major (3),91,4,0.055
+312,312-Kuhlau-sonatineop20,,F major (-1),d minor (-1),105,5,0.254
+313,313-Schumann-trio1,,C major (0),a minor (0),72,1,0.202
+314,314-Couperin-intime,,,e minor (1),60,3,0.034
+315,315-Ibert-symphonieconcertante,,C major (0),d minor (-1),147,13,0.181
+316,316-Bach-courantesuite3,,(2),f# minor (3),80,0,0.094
+317,317-Mozart-sonateKV333,,,g minor (-2),191,6,0.309
+319,319-Haydn-symphonie88,,,e minor (1),101,2,0.126
+320,320-Kuhlau-sonatine2op60,,,a minor (0),135,1,0.135
+321,321-Debussy-Pelleas,,E major (4),g minor (-2),62,10,0.035
+323,323-Bartok-images,,A major (3),D major (2),55,0,0.091
+325,325-Chopin-concertoop21,,,f minor (-4),238,3,0.215
+326,326-Mozart-ariaflute,,,c minor (-3),127,2,0.118
+327,327-Mendelssohn-romancesp8op30,,,b- minor (-5),75,0,0.030
+328,328-Bartok-sonatine,,D major (2),G major (1),80,0,0.075
+329,329-Debussy-sonateviolon,,B- major (-2),g minor (-2),78,1,0.038
+331,331-Beethoven-sonateop26,,(-4),b- minor (-5),89,0,0.059
+332,332-Milhaud-boeuf,,C major (0),g# minor (5),88,48,0.067
+333,333-Mazas-romance1op36,,,E major (4),150,2,0.299
+334,334-Haydn-concertosol,,C major (0),e minor (1),166,10,0.234
+335,335-Berlioz-BenvenutoCelliniop23,,,e minor (1),104,6,0.075
+337,337-Beethoven-sonate2op10,,(-1),C major (0),93,0,0.052
+338,338-Haendel-sonateV,,A major (3),f# minor (3),155,5,0.687
+339,339-Mozart-air17flute,,,g minor (-2),105,3,0.467
+340,340-Kuhlau-sonatine4op88,,,A major (3),119,1,0.125
+341,341-Mozart-concertolaKV219,,E major (4),c# minor (4),179,0,0.631
+343,343-Bach-allemandePartita6,,G major (1),e minor (1),134,4,2.785
+344,344-Mozart-quintettemibK614,,,B- major (-2),79,1,0.060
+345,345-Debussy-PelleasII4,,E major (4),e- minor (-6),48,34,0.042
+346,346-Chopin-fantaisie,,,A major (3),60,0,0.043
+347,347-Haendel-concertogrosso7,,,B- major (-2),111,0,0.187
+348,348-Mozart-flutemarche,,,C major (0),102,0,0.267
+349,349-Haydn-quatuor5op76,,(6),e- minor (-6),98,98,0.075
+351,351-Jones,,C major (0),a minor (0),145,0,0.198
+352,352-Scarlatti-sonateutK502,,,C major (0),86,1,0.053
+353,353-Mendelssohn-romancesspop67,,A major (3),f# minor (3),31,0,0.026
+354,354-Mozart-sonatefaKV332,,(-2),f minor (-4),147,6,0.728
+355,355-Mozart-sonatereKV311,,G major (1),e minor (1),144,2,0.138
+356,356-Chopin-nocturne1op27,,(4),f# minor (3),68,1,0.050
+357,357-Bach-ariaGoldbergBWV988,,G major (1),D major (2),137,0,0.130
+359,359-Mozart-romance,,,a minor (0),157,2,0.293
+360,360-Soulage,,(2),A major (3),115,0,0.062
+361,361-Beethoven-sonate2op14,,(1),b minor (2),144,2,0.295
+363,363-Debussy-clairdelune,,,D- major (-5),149,0,0.117
+366,366-Bach-andante,,(-1),a minor (0),137,5,0.224
+367,367-Bach-suite5,,,G major (1),99,1,0.091
+369,369-Bach-solocembalo,,(-3),g minor (-2),299,0,0.341
+370,370-Beethoven-quatuor3op59,,,a minor (0),148,1,0.147
+371,371-Haydn-concertoreop21,,A major (3),f# minor (3),120,9,0.528
+374,374-Bizet-seguedille,,D major (2),b minor (2),170,12,0.085
+375,375-Beethoven-sonate21op53,,,d minor (-1),70,10,0.072
+376,376-Clementi-sonate2op26,,D major (2),b minor (2),65,7,0.044
+378,378-Beethoven-quintetteop29,,,d minor (-1),168,9,0.443
+380,380-Bartok-Bulgare,,(0),d minor (-1),59,4,0.024
+401,401-Mozart-sonateKV282,,(-3),g minor (-2),180,3,9.395
+403,403-Bach-allemandePartita4,,(2),f# minor (3),394,32,3.558
+404,404-Rode-caprice6,,,b minor (2),188,1,1.199
+405,405-Bach-prelude13,,(6),e- minor (-6),102,102,0.196
+407,407-Beethoven-sonate1op10,,A- major (-4),f minor (-4),121,3,0.089
+408,408-Bach-sarabande-Partita4,,(2),A major (3),153,0,0.521
+409,409-Beethoven-quatuor1op18,,(-1),b minor (2),153,0,1.909
+410,410-Mozart-sonateKV309,,F major (-1),d minor (-1),187,4,0.937
+413,413-Beethoven-quintetteop16,,,c minor (-3),131,2,0.256
+414,414-Bach-laudamus-te,,,A major (3),220,0,3.746
+415,415-Mozart-donGiovaniI2,,,g minor (-2),132,4,0.097
+416,416-Bach-aria-Goldberg,,,e minor (1),98,0,0.386
+418,418-Bach-courante-partita4,,,b minor (2),174,0,0.578
+419,419-Beethoven-variation23,,D major (2),b minor (2),158,6,1.722
+420,420-Bach-prelude6,,,b minor (2),167,4,0.554
+423,423-Bach-adagio-Goldberg25,,,g minor (-2),98,4,3.798
+424,424-Bach-prelude4,,,c# minor (4),125,0,0.126
+425,425-Beethoven-sonateop7,,(0),G major (1),133,1,0.317
+426,426-Bach-suiteanglaise1,,,A major (3),94,0,0.206
+427,427-Bach-rondo-partita2,,,c minor (-3),69,1,0.033
+428,428-Beethoven-sonate3op10,,(-1),a minor (0),97,3,0.235
+429,429-Mozart-sonateKV283,,,C major (0),161,6,1.554
+431,431-Bach-sinfonia-partita2,,,c minor (-3),342,2,6.023
+434,434-Bach-concertoitalien,,,d minor (-1),340,5,3.007
+435,435-Wolf-nein,,(1),b minor (2),71,7,0.029
+436,436-Bach-ouverture-partita4,,(2),f# minor (3),171,2,2.051
+437,437-Bach-courante-partita2,,,c minor (-3),112,2,0.296
+438,438-Mozart-sonateKV457,,,c minor (-3),214,7,7.890
+440,440-Bach-prelude10,,,e minor (1),176,1,0.276
+442,442-Mozart-dongiovaniII7,,,E- major (-3),114,0,0.063
+443,443-Ibert-escales,,(6),g# minor (5),172,39,2.088
+444,444-Bach-invention,,(4),g# minor (5),320,1,0.349
+445,445-Beethoven-sonateop110,,(-6),g# minor (5),92,92,0.106
+446,446-Mozart-sonateKV330,,,a minor (0),268,8,0.437
+448,448-Bach-concertoclavecin1,,,g minor (-2),203,6,0.999
+449,449-Clementi-gradus,,F major (-1),e minor (1),150,0,0.501
+450,450-Bach-toccata-solm,,,g minor (-2),101,7,0.512
+451,451-Bach-sarabande,,,g minor (-2),221,5,0.537
+453,453-Mozart-sonateKV310,,,d minor (-1),192,0,0.674
+456,456-Haendel-sonate4,,,b minor (2),156,1,0.740
+457,457-Bach-prelude8,,,e- minor (-6),109,0,0.165
+458,458-Liszt-rhapsodiehongroise12,,,c# minor (4),83,1,0.130
+459,459-Bach-courantepartita6,,,e minor (1),153,4,0.152
+460,460-Spohr-duoconcertant1op3,,,E- major (-3),127,2,2.902
+461,461-Bach-allemande-partita1,,,b minor (2),511,11,16.311
+465,465-Clementi-sonateop12,,,d minor (-1),231,9,2.008
+467,467-Schubert-MatchenTod,,,g minor (-2),167,2,0.197
+468,468-Scarlatti-sonateK502,,,C major (0),260,1,0.161
