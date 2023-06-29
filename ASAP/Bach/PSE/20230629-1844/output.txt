@@ -1,0 +1,1202 @@
+
+eval_Bach()
+eval ASAP/Bach with algo Algo.Algo_PSE
+
+
+BWV 846 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_846/xml_score.musicxml
+Das Wohltemperierte Klavier I None part 1 / 2 408 notes, 35 bars, add_tons 30
+start Spelling part
+[pse_debug] 2 candidates in first global list: Cmajor (0) Aminor (0) 
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Bbmajor (2b) dist prev(Cmajor (0))=2, dist global(Cmajor (0))=2)
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Bbmajor (2b) dist prev(Cmajor (0))=2, dist global(Cmajor (0))=2)
+[pse_warning] PSGrid, estimation local, tie break fail Gminor (2b) vs Bbmajor (2b) dist prev(Cmajor (0))=2, dist global(Cmajor (0))=2)
+[pse_debug] 2 candidates in second global list: Cmajor (0) Aminor (0) 
+2
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C major
+good index :  0
+possible tone :  a minor
+good index :  1
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 0
+diff: 0
+Das Wohltemperierte Klavier I None part 2 / 2 211 notes, 35 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 6
+diff: 6
+
+
+BWV 846 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_846/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 487 notes, 27 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 3
+diff: 3
+xml_score.musicxml None part 2 / 2 315 notes, 27 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> [pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+diff: 3
+diff: 3
+
+
+BWV 848 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_848/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 397 notes, 104 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+2
+real global tone : <music21.key.KeySignature of 7 sharps>
+possible tone :  b- minor
+possible tone :  a# minor
+good index :  1
+global ton: NO: ( b- minor was <music21.key.KeySignature of 7 sharps> ), diff: 20
+diff: 20
+xml_score.musicxml None part 2 / 2 425 notes, 104 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton Bbminor (5b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: A#minor (7#) Bbminor (5b) 
+[pse_warning] PSGrid, estimation local, tie break fail Cminor (3b) vs Ebmajor (3b) dist prev(Fmajor (1b))=2, dist global(Bbminor (5b))=2)
+[pse_warning] PSGrid, estimation local, tie break fail Cminor (3b) vs Ebmajor (3b) dist prev(Bbminor (5b))=2, dist global(Bbminor (5b))=2)
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+2
+real global tone : <music21.key.KeySignature of 7 sharps>
+possible tone :  a# minor
+good index :  0
+possible tone :  b- minor
+global ton: NO: ( b- minor was <music21.key.KeySignature of 7 sharps> ), diff: 28
+diff: 28
+
+
+BWV 848 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_848/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 866 notes, 55 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton C#major (7#) currently not a global candidate, added
+[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 4 candidates in first global list: Dbmajor (5b) Bbminor (5b) C#major (7#) A#minor (7#) 
+[pse_debug] 2 candidates in second global list: Dbmajor (5b) Bbminor (5b) 
+4
+real global tone : <music21.key.KeySignature of 7 sharps>
+possible tone :  D- major
+possible tone :  b- minor
+possible tone :  C# major
+good index :  2
+possible tone :  a# minor
+good index :  3
+global ton: NO: ( D- major was <music21.key.KeySignature of 7 sharps> ), [pse_warning] PSV rename bar:37(558-585): tie break fail (2 bests) cost[accid=2 dist=2 color=0 cflat=0]
+[pse_debug] bar 37, ton A#minor (7#), spell 0: C(#) D(#) E(#) D(#) F(#) E(#) D(#) C(#) G(#) A(#) G(#) Gn G# A(#) G(#) A(#) G(#) A(#) G(#) A(#) G(#) A(#) D(#) G(#) A(#) E(#) G(#)  accid=2 dist=2 color=0 cflat=0
+[pse_debug] bar 37, ton A#minor (7#), spell 1: C(#) D(#) E(#) D(#) F(#) E(#) D(#) C(#) G(#) A(#) G(#) F## G(#) A(#) G(#) A(#) G(#) A(#) G(#) A(#) G(#) A(#) D(#) G(#) A(#) E(#) G(#)  accid=2 dist=2 color=0 cflat=0
+diff: 50
+diff: 50
+xml_score.musicxml None part 2 / 2 623 notes, 55 bars, add_tons 30
+start Spelling part
+2[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+
+real global tone : <music21.key.KeySignature of 7 sharps>
+possible tone :  b- minor
+possible tone :  a# minor
+good index :  1
+global ton: NO: ( b- minor was <music21.key.KeySignature of 7 sharps> ), diff: 54
+diff: 54
+
+
+BWV 854 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_854/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 287 notes, 24 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> [pse_debug] 1 candidates in first global list: C#minor (4#) 
+[pse_debug] 1 candidates in second global list: C#minor (4#) 
+diff: 2
+diff: 2
+xml_score.musicxml None part 2 / 2 221 notes, 24 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: C#minor (4#) 
+[pse_debug] 1 candidates in second global list: C#minor (4#) 
+1
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 1
+[pse_warning] PSV rename bar:20(183-195): tie break fail (2 bests) cost[accid=2 dist=2 color=0 cflat=0]
+[pse_debug] bar 20, ton C#minor (4#), spell 0: E(n) Cn F(#) Gn A(n) B(n) A(n) B(n) G# C# F(#) D(#)  accid=2 dist=2 color=0 cflat=0
+[pse_debug] bar 20, ton C#minor (4#), spell 1: E(n) B# F(#) Gn A(n) Bn A(n) B(n) G# C(#) F(#) D(#)  accid=2 dist=2 color=0 cflat=0
+diff: 1
+
+
+BWV 854 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_854/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 475 notes, 29 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: C#minor (4#) 
+[pse_debug] 1 candidates in second global list: C#minor (4#) 
+1
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 287 notes, 29 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> [pse_debug] 1 candidates in first global list: C#minor (4#) 
+[pse_debug] 1 candidates in second global list: C#minor (4#) 
+diff: 1
+diff: 1
+
+
+BWV 856 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_856/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 481 notes, 73 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 313 notes, 73 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> [pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+diff: 1
+diff: 1
+
+
+BWV 857 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_857/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 394 notes, 22 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+1
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 1
+diff: 1
+xml_score.musicxml None part 2 / 2 249 notes, 22 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+1
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 1
+diff: 1
+
+
+BWV 858 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_858/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 293 notes, 30 bars, add_tons 30
+start Spelling part
+2
+real global tone : F# major
+possible tone :  e- minor
+[pse_debug] enharmonic ton D#minor (6#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Ebminor (6b) D#minor (6#) 
+[pse_debug] 1 candidates in second global list: Ebminor (6b) 
+possible tone :  d# minor
+good index :  1
+global ton: NO: ( e- minor was F# major ), diff: 10
+diff: 10
+xml_score.musicxml None part 2 / 2 169 notes, 30 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton D#minor (6#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Ebminor (6b) D#minor (6#) 
+[pse_debug] 1 candidates in second global list: Ebminor (6b) 
+2
+real global tone : F# major
+possible tone :  e- minor
+possible tone :  d# minor
+good index :  1
+global ton: NO: ( e- minor was F# major ), diff: 3
+diff: 3
+
+
+BWV 858 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_858/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 583 notes, 35 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton D#minor (6#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Ebminor (6b) D#minor (6#) 
+[pse_debug] 1 candidates in second global list: Ebminor (6b) 
+2
+real global tone : <music21.key.KeySignature of 6 sharps>
+possible tone :  e- minor
+possible tone :  d# minor
+good index :  1
+global ton: NO: ( e- minor was <music21.key.KeySignature of 6 sharps> ), diff: 1
+diff: 1
+xml_score.musicxml None part 2 / 2 370 notes, 35 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton D#minor (6#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Ebminor (6b) D#minor (6#) 
+[pse_debug] 1 candidates in second global list: Ebminor (6b) 
+2
+real global tone : <music21.key.KeySignature of 6 sharps>
+possible tone :  e- minor
+possible tone :  d# minor
+good index :  1
+global ton: NO: ( e- minor was <music21.key.KeySignature of 6 sharps> ), diff: 2
+diff: 2
+
+
+BWV 860 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_860/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 335 notes, 19 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+1
+global ton: OK: ( e minor ), has the same signature as G major diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 275 notes, 19 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+1
+global ton: OK: ( e minor ), has the same signature as G major diff: 0
+diff: 0
+
+
+BWV 860 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_860/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 1124 notes, 86 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+1
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 2
+diff: 2
+xml_score.musicxml None part 2 / 2 705 notes, 86 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+1
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 3
+diff: 3
+
+
+BWV 862 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_862/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 381 notes, 44 bars, add_tons 30
+start Spelling part
+2
+real global tone : <music21.key.KeySignature of 4 flats>
+possible tone :  A- major
+good index :  0
+possible tone :  f minor
+good index :  1
+global ton: OK: ( A- major ), has the same signature as <music21.key.KeySignature of 4 flats> [pse_debug] 2 candidates in first global list: Abmajor (4b) Fminor (4b) 
+[pse_warning] PSGrid, estimation local, tie break fail Ebminor (6b) vs Gbmajor (6b) dist prev(Abmajor (4b))=2, dist global(Abmajor (4b))=2)
+[pse_debug] 2 candidates in second global list: Abmajor (4b) Fminor (4b) 
+diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 314 notes, 44 bars, add_tons 30
+start Spelling part
+[pse_debug] 2 candidates in first global list: Abmajor (4b) Fminor (4b) 
+[pse_warning] PSGrid, estimation local, tie break fail Ebminor (6b) vs Gbmajor (6b) dist prev(Abmajor (4b))=2, dist global(Abmajor (4b))=2)
+[pse_debug] 2 candidates in second global list: Abmajor (4b) Fminor (4b) 
+2
+real global tone : <music21.key.KeySignature of 4 flats>
+possible tone :  A- major
+good index :  0
+possible tone :  f minor
+good index :  1
+global ton: OK: ( A- major ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 0
+diff: 0
+
+
+BWV 862 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_862/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 477 notes, 35 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+1
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 455 notes, 35 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> [pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+diff: 0
+diff: 0
+
+
+BWV 863 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_863/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 344 notes, 29 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton G#minor (5#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Abminor (7b) G#minor (5#) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  a- minor
+possible tone :  g# minor
+good index :  1
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 3
+diff: 3
+xml_score.musicxml None part 2 / 2 267 notes, 29 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton G#minor (5#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Abminor (7b) G#minor (5#) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  a- minor
+possible tone :  g# minor
+good index :  1
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 8
+diff: 8
+
+
+BWV 863 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_863/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 473 notes, 41 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton G#minor (5#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Abminor (7b) G#minor (5#) 
+[pse_debug] 1 candidates in second global list: Abminor (7b) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  a- minor
+possible tone :  g# minor
+good index :  1
+global ton: NO: ( a- minor was <music21.key.KeySignature of 5 sharps> ), diff: 32
+diff: 32
+xml_score.musicxml None part 2 / 2 374 notes, 41 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton G#minor (5#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Abminor (7b) G#minor (5#) 
+[pse_debug] 1 candidates in second global list: Abminor (7b) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  a- minor
+possible tone :  g# minor
+good index :  1
+global ton: NO: ( a- minor was <music21.key.KeySignature of 5 sharps> ), diff: 22
+diff: 22
+
+
+BWV 864 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_864/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 361 notes, 24 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> diff: 1
+diff: 1
+xml_score.musicxml None part 2 / 2 280 notes, 24 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> [pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+diff: 0
+diff: 0
+
+
+BWV 864 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_864/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 813 notes, 54 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 487 notes, 54 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> [pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+diff: 0
+diff: 0
+
+
+BWV 865 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_865/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 402 notes, 28 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] PSGrid, estimation local, tie break fail Bminor (2#) vs Dmajor (2#) dist prev(Aminor (0))=2, dist global(Aminor (0))=2)
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 246 notes, 28 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 0
+diff: 0
+
+
+BWV 865 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_865/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 1408 notes, 87 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 6
+diff: 6
+xml_score.musicxml None part 2 / 2 1140 notes, 87 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] PSGrid, estimation local, tie break fail Bminor (2#) vs Dmajor (2#) dist prev(Aminor (0))=2, dist global(Aminor (0))=2)
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 2
+diff: 2
+
+
+BWV 866 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_866/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 317 notes, 20 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> [pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+diff: 1
+diff: 1
+xml_score.musicxml None part 2 / 2 321 notes, 20 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+1
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 2
+diff: 2
+
+
+BWV 866 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_866/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 573 notes, 48 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+1
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 395 notes, 48 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_warning] PSGrid, estimation local, tie break fail Aminor (0) vs Cmajor (0) dist prev(Gminor (2b))=2, dist global(Gminor (2b))=2)
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 0
+diff: 0
+
+
+BWV 867 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_867/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 528 notes, 24 bars, add_tons 30
+start Spelling part
+2
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  b- minor
+good index :  0
+possible tone :  a# minor
+[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+global ton: OK: ( b- minor ), has the same signature as <music21.key.KeySignature of 5 flats> diff: 1
+diff: 1
+xml_score.musicxml None part 2 / 2 279 notes, 24 bars, add_tons 30
+start Spelling part
+2[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  b- minor
+good index :  0
+possible tone :  a# minor
+global ton: OK: ( b- minor ), has the same signature as <music21.key.KeySignature of 5 flats> diff: 0
+diff: 0
+
+
+BWV 867 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_867/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 536 notes, 75 bars, add_tons 30
+start Spelling part
+2[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_warning] PSGrid, estimation local, tie break fail Cminor (3b) vs Ebmajor (3b) dist prev(Bbminor (5b))=2, dist global(Bbminor (5b))=2)
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  b- minor
+good index :  0
+possible tone :  a# minor
+global ton: OK: ( b- minor ), has the same signature as <music21.key.KeySignature of 5 flats> diff: 2
+diff: 2
+xml_score.musicxml None part 2 / 2 291 notes, 75 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_warning] PSGrid, estimation local, tie break fail Cminor (3b) vs Ebmajor (3b) dist prev(Bbminor (5b))=2, dist global(Bbminor (5b))=2)
+[pse_warning] PSGrid, estimation local, tie break fail Cminor (3b) vs Ebmajor (3b) dist prev(Bbminor (5b))=2, dist global(Bbminor (5b))=2)
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+2
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  b- minor
+good index :  0
+possible tone :  a# minor
+global ton: OK: ( b- minor ), has the same signature as <music21.key.KeySignature of 5 flats> diff: 3
+diff: 3
+
+
+BWV 868 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_868/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 260 notes, 19 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 0
+diff: 0
+xml_score.musicxml None part 2 / 2 180 notes, 19 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 0
+diff: 0
+
+
+BWV 868 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_868/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 466 notes, 34 bars, add_tons 30
+start Spelling part
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 4
+diff: 4
+xml_score.musicxml None part 2 / 2 442 notes, 34 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton Cbmajor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bmajor (5#) Cbmajor (7b) 
+[pse_warning] PSGrid, estimation local, tie break fail F#minor (3#) vs Amajor (3#) dist prev(Bmajor (5#))=2, dist global(Bmajor (5#))=2)
+[pse_warning] PSGrid, estimation local, tie break fail F#minor (3#) vs Amajor (3#) dist prev(Bmajor (5#))=2, dist global(Bmajor (5#))=2)
+[pse_debug] 1 candidates in second global list: Bmajor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  B major
+good index :  0
+possible tone :  C- major
+global ton: OK: ( B major ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 4
+diff: 4
+
+
+BWV 870 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_870/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 584 notes, 34 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+1
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ), diff: 9
+diff: 9
+xml_score.musicxml None part 2 / 2 410 notes, 34 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 4
+diff: 4
+
+
+BWV 870 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_870/xml_score.musicxml
+xml_score.musicxml None part 1 / 2 682 notes, 83 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 3
+diff: 3
+xml_score.musicxml None part 2 / 2 415 notes, 83 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] PSGrid, estimation local, tie break fail Bminor (2#) vs Dmajor (2#) dist prev(Aminor (0))=2, dist global(Aminor (0))=2)
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 0
+diff: 0
+
+
+BWV 873 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_873/xml_score.musicxml
+Fugue No. 4 in 3 voices in C♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 862 notes, 71 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: C#minor (4#) 
+[pse_warning] PSGrid, estimation local, tie break fail D#minor (6#) vs F#major (6#) dist prev(C#minor (4#))=2, dist global(C#minor (4#))=2)
+[pse_debug] 1 candidates in second global list: C#minor (4#) 
+
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> [pse_warning] PSV rename bar:40(475-485): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0]
+[pse_debug] bar 40, ton C#minor (4#), spell 0: B# F(#) A# G(#) C(#) E(n) D(#) C(#) D(#) Bn  accid=2 dist=1 color=0 cflat=0
+[pse_debug] bar 40, ton C#minor (4#), spell 1: Cn F(#) A# G(#) C# E(n) D(#) C(#) D(#) B(n)  accid=2 dist=1 color=0 cflat=0
+[pse_warning] PSV rename bar:51(615-631): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0]
+[pse_debug] bar 51, ton C#minor (4#), spell 0: G(#) Dn F(#) G(#) E(n) C(#) A(n) G(#) F(#) B# E(n) F(#) G(#) Bn F(#) G(#)  accid=2 dist=1 color=0 cflat=0
+[pse_debug] bar 51, ton C#minor (4#), spell 1: G(#) Dn F(#) G(#) E(n) C(#) A(n) G(#) F(#) Cn E(n) F(#) G(#) B(n) F(#) G(#)  accid=2 dist=1 color=0 cflat=0
+[pse_warning] PSV rename bar:54(653-663): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=1]
+[pse_debug] bar 54, ton C#minor (4#), spell 0: C(#) A(n) Cn A(n) G(#) F(#) B(n) E# F(#) G(#)  accid=2 dist=1 color=0 cflat=1
+[pse_debug] bar 54, ton C#minor (4#), spell 1: C(#) A(n) B# A(n) G(#) F(#) Bn E# F(#) G(#)  accid=2 dist=1 color=0 cflat=1
+[pse_warning] PSV rename bar:61(753-769): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0]
+[pse_debug] bar 61, ton C#minor (4#), spell 0: G(#) C(#) B(n) C(#) F(#) A# D(#) C(#) F(#) B# E(n) F(#) D(#) Bn G(#) F(#)  accid=2 dist=1 color=0 cflat=0
+[pse_debug] bar 61, ton C#minor (4#), spell 1: G(#) C(#) B(n) C(#) F(#) A# D(#) C(#) F(#) Cn E(n) F(#) D(#) B(n) G(#) F(#)  accid=2 dist=1 color=0 cflat=0
+diff: 25
+diff: 25
+Fugue No. 4 in 3 voices in C♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 603 notes, 71 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: C#minor (4#) 
+[pse_debug] 1 candidates in second global list: C#minor (4#) 
+1
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 16
+diff: 16
+
+
+BWV 874 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_874/xml_score.musicxml
+Prélude No. 5 in D Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 930 notes, 56 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Bminor (2#) 
+[pse_debug] 1 candidates in second global list: Bminor (2#) 
+1
+global ton: OK: ( b minor ), has the same signature as D major diff: 0
+diff: 0
+Prélude No. 5 in D Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 620 notes, 56 bars, add_tons 30
+start Spelling part
+1
+[pse_debug] 1 candidates in first global list: Bminor (2#) 
+[pse_debug] 1 candidates in second global list: Bminor (2#) 
+global ton: OK: ( b minor ), has the same signature as D major diff: 1
+diff: 1
+
+
+BWV 874 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_874/xml_score.musicxml
+Fugue No. 5 in 4 voices in D Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 495 notes, 50 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Bminor (2#) 
+[pse_debug] 1 candidates in second global list: Bminor (2#) 
+1
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 1
+diff: 1
+Fugue No. 5 in 4 voices in D Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 471 notes, 50 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Bminor (2#) 
+[pse_debug] 1 candidates in second global list: Bminor (2#) 
+1
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 0
+diff: 0
+
+
+BWV 875 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_875/xml_score.musicxml
+Prélude No. 6 in D Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 581 notes, 61 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 0
+diff: 0
+[pse_error] Speller1Pass local: no bar 57
+Invalid argument
+Invalid argument
+Invalid argument
+Invalid argument
+[pse_error] Speller1Pass local: no bar 58
+[pse_error] Speller1Pass local: no bar 59
+[pse_error] Speller1Pass local: no bar 60
+Prélude No. 6 in D Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 510 notes, 61 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> [pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_warning] PSGrid, estimation local, tie break fail Eminor (1#) vs Gmajor (1#) dist prev(Dminor (1b))=2, dist global(Dminor (1b))=2)
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+diff: 2
+diff: 2
+
+
+BWV 875 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_875/xml_score.musicxml
+Fugue No. 6 in 3 voices in D Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 487 notes, 27 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 8
+diff: 8
+Fugue No. 6 in 3 voices in D Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 344 notes, 27 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 5
+diff: 5
+
+
+BWV 876 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_876/xml_score.musicxml
+Prélude No. 7 in E♭ Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 561 notes, 71 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+1
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 4
+diff: 4
+Invalid argument
+Prélude No. 7 in E♭ Major[pse_error] Speller1Pass local: no bar 70
+ Johann Sebastian Bach(1685 - 1750) part 2 / 2 384 notes, 71 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+1
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 1
+diff: 1
+
+
+BWV 876 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_876/xml_score.musicxml
+Fugue No. 7 in 4 voices in E♭ Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 377 notes, 70 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+1
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 0
+diff: 0
+Fugue No. 7 in 4 voices in E♭ Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 373 notes, 70 bars, add_tons 30
+start Spelling part
+[pse_debug] 2 candidates in first global list: Ebmajor (3b) Cminor (3b) 
+[pse_warning] PSGrid, estimation local, tie break fail Bbminor (5b) vs Dbmajor (5b) dist prev(Ebmajor (3b))=2, dist global(Ebmajor (3b))=2)
+[pse_debug] 2 candidates in second global list: Ebmajor (3b) Cminor (3b) 
+2
+real global tone : <music21.key.KeySignature of 3 flats>
+possible tone :  E- major
+good index :  0
+possible tone :  c minor
+good index :  1
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 0
+diff: 0
+
+
+BWV 880 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_880/xml_score.musicxml
+Prélude No. 11 in F Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 799 notes, 72 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 1
+diff: 1
+Prélude No. 11 in F Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 677 notes, 72 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 5
+diff: 5
+
+
+BWV 880 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_880/xml_score.musicxml
+Fugue No. 11 in 3 voices in F Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 688 notes, 99 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 9
+diff: 9
+Fugue No. 11 in 3 voices in F Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 416 notes, 99 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> [pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+diff: 9
+diff: 9
+
+
+BWV 883 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_883/xml_score.musicxml
+Prélude No. 14 in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 524 notes, 43 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> [pse_warning] PSV rename bar:7(96-113): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0]
+[pse_debug] bar 7, ton F#minor (3#), spell 0: A(n) G(#) F(#) A(n) C(#) F(#) C(#) D# E# F(#) G(#) A(n) G(#) F(#) G(#) F(#) En  accid=2 dist=1 color=0 cflat=0
+[pse_debug] bar 7, ton F#minor (3#), spell 1: A(n) G(#) F(#) A(n) C(#) F(#) C(#) D# Fn F# G(#) A(n) G(#) F(#) G(#) F(#) E(n)  accid=2 dist=1 color=0 cflat=0
+diff: 4
+diff: 4
+Prélude No. 14 in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 414 notes, 43 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> diff: 2
+diff: 2
+
+
+BWV 883 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_883/xml_score.musicxml
+Fugue No. 14 in 3 voices in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 809 notes, 70 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> [pse_warning] PSV rename bar:17(107-120): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0]
+[pse_debug] bar 17, ton F#minor (3#), spell 0: B(n) G(#) A(n) E# G(#) A(n) F(#) F(#) G(#) F(#) En D# E(n)  accid=2 dist=1 color=0 cflat=0
+[pse_debug] bar 17, ton F#minor (3#), spell 1: B(n) G(#) A(n) Fn G(#) A(n) F# F(#) G(#) F(#) E(n) D# E(n)  accid=2 dist=1 color=0 cflat=0
+[pse_warning] PSV rename bar:47(508-530): tie break fail (2 bests) cost[accid=3 dist=2 color=0 cflat=0]
+[pse_debug] bar 47, ton F#minor (3#), spell 0: B(n) D(n) A# B(n) D# C(#) B(n) E(n) C(#) Dn B(n) C(#) E(n) B(n) C(#) E# D(n) C(#) F(#) D(n) En C(#)  accid=3 dist=2 color=0 cflat=0
+[pse_debug] bar 47, ton F#minor (3#), spell 1: B(n) D(n) A# B(n) D# C(#) B(n) E(n) C(#) Dn B(n) C(#) E(n) B(n) C(#) Fn D(n) C(#) F# D(n) E(n) C(#)  accid=3 dist=2 color=0 cflat=0
+diff: 3
+diff: 3
+Fugue No. 14 in 3 voices in F♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 688 notes, 70 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> diff: 2
+diff: 2
+
+
+BWV 884 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_884/xml_score.musicxml
+Prélude No. 15 in G Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 484 notes, 48 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+1
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 2
+diff: 2
+Prélude No. 15 in G Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 422 notes, 48 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> [pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+diff: 0
+diff: 0
+
+
+BWV 884 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_884/xml_score.musicxml
+Fugue No. 15 in 3 voices in G Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 421 notes, 72 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 0
+diff: 0
+Fugue No. 15 in 3 voices in G Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 321 notes, 72 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+1
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 5
+diff: 5
+
+
+BWV 885 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_885/xml_score.musicxml
+Prélude No. 16 in G Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 355 notes, 21 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+1
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 3
+diff: 3
+Prélude No. 16 in G Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 237 notes, 21 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> [pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+diff: 0
+diff: 0
+
+
+BWV 885 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_885/xml_score.musicxml
+Fugue No. 16 in 4 voices in G Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 884 notes, 84 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> [pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+diff: 3
+diff: 3
+Fugue No. 16 in 4 voices in G Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 851 notes, 84 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+1
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 7
+diff: 7
+
+
+BWV 887 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_887/xml_score.musicxml
+Prélude No. 18 in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 672 notes, 50 bars, add_tons 30
+start Spelling part
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> [pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+diff: 42
+diff: 42
+Prélude No. 18 in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 646 notes, 50 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton G#minor (5#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Abminor (7b) G#minor (5#) 
+[pse_warning] PSGrid, estimation local, tie break fail Bbminor (5b) vs Dbmajor (5b) dist prev(Ebmajor (3b))=2, dist global(Abminor (7b))=2)
+[pse_warning] PSGrid, estimation local, tie break fail Bbminor (5b) vs Dbmajor (5b) dist prev(Ebmajor (3b))=2, dist global(Abminor (7b))=2)
+[pse_debug] 1 candidates in second global list: Abminor (7b) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  a- minor
+possible tone :  g# minor
+good index :  1
+global ton: NO: ( a- minor was <music21.key.KeySignature of 5 sharps> ), diff: 62
+diff: 62
+
+
+BWV 887 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_887/xml_score.musicxml
+Fugue No. 18 in 3 voices in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 1045 notes, 143 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_warning] PSGrid, estimation local, tie break fail Bbminor (5b) vs Dbmajor (5b) dist prev(Abminor (7b))=2, dist global(Abminor (7b))=2)
+[pse_warning] PSGrid, estimation local, tie break fail A#minor (7#) vs C#major (7#) dist prev(G#minor (5#))=2, dist global(G#minor (5#))=2)
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 61
+diff: 61
+Fugue No. 18 in 3 voices in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 647 notes, 143 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_warning] PSGrid, estimation local, tie break fail A#minor (7#) vs C#major (7#) dist prev(G#minor (5#))=2, dist global(G#minor (5#))=2)
+[pse_warning] PSGrid, estimation local, tie break fail Bbminor (5b) vs Dbmajor (5b) dist prev(Abminor (7b))=2, dist global(Abminor (7b))=2)
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 49
+diff: 49
+
+
+BWV 888 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_888/xml_score.musicxml
+Prélude No. 19 in A Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 502 notes, 33 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> [pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+diff: 1
+diff: 1
+Prélude No. 19 in A Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 276 notes, 33 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_warning] PSGrid, estimation local, tie break fail G#minor (5#) vs Bmajor (5#) dist prev(F#minor (3#))=2, dist global(F#minor (3#))=2)
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> diff: 0
+diff: 0
+
+
+BWV 888 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_888/xml_score.musicxml
+Fugue No. 19 in 3 voices in A Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 467 notes, 29 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> [pse_warning] PSV rename bar:10(144-161): tie break fail (2 bests) cost[accid=2 dist=1 color=0 cflat=0]
+[pse_debug] bar 10, ton F#minor (3#), spell 0: A(n) G(#) F(#) E# F(#) C(#) D# En A(n) D(#) C(#) B(n) A(n) B(n) F(#) G(#) A(n)  accid=2 dist=1 color=0 cflat=0
+[pse_debug] bar 10, ton F#minor (3#), spell 1: A(n) G(#) F(#) Fn F# C(#) D# E(n) A(n) D(#) C(#) B(n) A(n) B(n) F(#) G(#) A(n)  accid=2 dist=1 color=0 cflat=0
+diff: 0
+diff: 0
+Fugue No. 19 in 3 voices in A Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 337 notes, 29 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: F#minor (3#) 
+[pse_warning] PSGrid, estimation local, tie break fail G#minor (5#) vs Bmajor (5#) dist prev(C#major (7#))=2, dist global(F#minor (3#))=2)
+[pse_debug] 1 candidates in second global list: F#minor (3#) 
+1
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> diff: 1
+diff: 1
+
+
+BWV 889 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_889/xml_score.musicxml
+Prélude No. 20 in A Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 441 notes, 32 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> [pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+diff: 11
+diff: 11
+Prélude No. 20 in A Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 407 notes, 32 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> [pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] PSGrid, estimation local, tie break fail Bminor (2#) vs Dmajor (2#) dist prev(Aminor (0))=2, dist global(Aminor (0))=2)
+[pse_warning] PSGrid, estimation local, tie break fail Eminor (1#) vs Dminor (1b) dist prev(Amajor (3#))=2, dist global(Aminor (0))=1)
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+diff: 10
+diff: 10
+
+
+BWV 889 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_889/xml_score.musicxml
+Fugue No. 20 in 3 voices in A Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 396 notes, 28 bars, add_tons 30
+start Spelling part
+1[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] PSGrid, estimation local, tie break fail Bminor (2#) vs Dmajor (2#) dist prev(Aminor (0))=2, dist global(Aminor (0))=2)
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 3
+diff: 3
+Fugue No. 20 in 3 voices in A Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 366 notes, 28 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 1
+diff: 1
+
+
+BWV 891 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_891/xml_score.musicxml
+Prélude No. 22 in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 730 notes, 83 bars, add_tons 30
+start Spelling part
+2[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  b- minor
+good index :  0
+possible tone :  a# minor
+global ton: OK: ( b- minor ), has the same signature as <music21.key.KeySignature of 5 flats> diff: 1
+diff: 1
+Prélude No. 22 in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 498 notes, 83 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+2
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  b- minor
+good index :  0
+possible tone :  a# minor
+global ton: OK: ( b- minor ), has the same signature as <music21.key.KeySignature of 5 flats> diff: 3
+diff: 3
+
+
+BWV 891 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_891/xml_score.musicxml
+Fugue No. 22 in 4 voices in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 950 notes, 101 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+2
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  b- minor
+good index :  0
+possible tone :  a# minor
+global ton: OK: ( b- minor ), has the same signature as <music21.key.KeySignature of 5 flats> diff: 8
+diff: 8
+Fugue No. 22 in 4 voices in B♭ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 879 notes, 101 bars, add_tons 30
+start Spelling part
+2
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  b- minor
+good index :  0
+possible tone :  a# minor
+[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+global ton: OK: ( b- minor ), has the same signature as <music21.key.KeySignature of 5 flats> diff: 9
+diff: 9
+
+
+BWV 892 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_892/xml_score.musicxml
+Prélude No. 23 in B Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 589 notes, 46 bars, add_tons 30
+start Spelling part
+2[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 12
+diff: 12
+Prélude No. 23 in B Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 476 notes, 46 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 11
+diff: 11
+
+
+BWV 892 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_892/xml_score.musicxml
+Fugue No. 23 in 4 voices in B Major Johann Sebastian Bach(1685 - 1750) part 1 / 2 764 notes, 104 bars, add_tons 30
+start Spelling part
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+2
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 15
+diff: 15
+Fugue No. 23 in 4 voices in B Major Johann Sebastian Bach(1685 - 1750) part 2 / 2 702 notes, 104 bars, add_tons 30
+start Spelling part
+2[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
+[pse_warning] PSGrid, estimation local, tie break fail Bbminor (5b) vs Dbmajor (5b) dist prev(Abminor (7b))=2, dist global(Abminor (7b))=2)
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+
+real global tone : <music21.key.KeySignature of 5 sharps>
+possible tone :  g# minor
+good index :  0
+possible tone :  a- minor
+global ton: OK: ( g# minor ), has the same signature as <music21.key.KeySignature of 5 sharps> diff: 9
+diff: 9
+
+
+BWV 893 Prelude : ../../../Datasets/ASAP/Bach/Prelude/bwv_893/xml_score.musicxml
+Prélude No. 24 in B Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 553 notes, 66 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Bminor (2#) 
+[pse_debug] 1 candidates in second global list: Bminor (2#) 
+1
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 5
+diff: 5
+Prélude No. 24 in B Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 364 notes, 66 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Bminor (2#) 
+[pse_warning] PSGrid, estimation local, tie break fail C#minor (4#) vs Emajor (4#) dist prev(Bminor (2#))=2, dist global(Bminor (2#))=2)
+[pse_debug] 1 candidates in second global list: Bminor (2#) 
+1
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 6
+diff: 6
+
+
+BWV 893 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_893/xml_score.musicxml
+Fugue No. 24 in 3 voices in B Minor Johann Sebastian Bach(1685 - 1750) part 1 / 2 575 notes, 101 bars, add_tons 30
+start Spelling part
+1
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> [pse_debug] 1 candidates in first global list: Bminor (2#) 
+[pse_warning] PSGrid, estimation local, tie break fail C#minor (4#) vs Emajor (4#) dist prev(Bminor (2#))=2, dist global(Bminor (2#))=2)
+[pse_debug] 1 candidates in second global list: Bminor (2#) 
+diff: 3
+diff: 3
+Fugue No. 24 in 3 voices in B Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 466 notes, 101 bars, add_tons 30
+start Spelling part
+[pse_debug] 1 candidates in first global list: Bminor (2#) 
+[pse_warning] PSGrid, estimation local, tie break fail C#minor (4#) vs Emajor (4#) dist prev(Bminor (2#))=2, dist global(Bminor (2#))=2)
+[pse_debug] 1 candidates in second global list: Bminor (2#) 
+1
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 0
+diff: 0
+
+
+parts spelled   : 110
+notes spelled   : 55530
+correct spelling: 98.86 %
+correct KS estim: 99.09 %
