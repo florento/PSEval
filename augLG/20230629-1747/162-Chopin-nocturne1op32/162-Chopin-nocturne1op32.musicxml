@@ -1,0 +1,1046 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE score-partwise  PUBLIC "-//Recordare//DTD MusicXML 3.1 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="3.1">
+  <movement-title>Nocturne 1 op.32</movement-title>
+  <identification>
+    <creator type="composer">F. Chopin</creator>
+    <rights>LG dataset</rights>
+    <encoding>
+      <encoding-date>2023-06-29</encoding-date>
+      <software>music21 v.8.3.0</software>
+      <software>Finale v26.2.2 for Mac</software>
+      <supports attribute="new-system" element="print" type="yes" value="yes" />
+      <supports attribute="new-page" element="print" type="yes" value="yes" />
+    </encoding>
+  </identification>
+  <defaults>
+    <scaling>
+      <millimeters>8.128</millimeters>
+      <tenths>40</tenths>
+    </scaling>
+    <page-layout>
+      <page-height>1462</page-height>
+      <page-width>1033</page-width>
+      <page-margins>
+        <left-margin>49</left-margin>
+        <right-margin>49</right-margin>
+        <top-margin>49</top-margin>
+        <bottom-margin>99</bottom-margin>
+      </page-margins>
+    </page-layout>
+    <system-layout>
+      <system-margins>
+        <left-margin>0</left-margin>
+        <right-margin>0</right-margin>
+      </system-margins>
+      <system-distance>103</system-distance>
+      <top-system-distance>60</top-system-distance>
+    </system-layout>
+    <appearance>
+      <line-width type="stem">0.918</line-width>
+      <line-width type="beam">5</line-width>
+      <line-width type="staff">0.918</line-width>
+      <line-width type="light barline">0.918</line-width>
+      <line-width type="heavy barline">5</line-width>
+      <line-width type="leger">1.0807</line-width>
+      <line-width type="ending">0.957</line-width>
+      <line-width type="wedge">0.918</line-width>
+      <line-width type="enclosure">0.918</line-width>
+      <line-width type="tuplet bracket">0.918</line-width>
+      <note-size type="grace">60</note-size>
+      <note-size type="cue">60</note-size>
+      <distance type="hyphen">120</distance>
+      <distance type="beam">7.5</distance>
+    </appearance>
+    <music-font font-family="Maestro,engraved" font-size="23" />
+    <word-font font-family="FreeSerif" font-size="9.6" />
+  </defaults>
+  <credit page="1">
+    <credit-words default-x="517" default-y="1398" font-family="Times New Roman" font-size="23" justify="center" valign="top">Nocturne 1 op.32</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="984" default-y="1331" font-family="Times New Roman" font-size="11.5" justify="right" valign="top">F. Chopin</credit-words>
+  </credit>
+  <credit page="1">
+    <credit-words default-x="517" default-y="84" font-family="Times New Roman" justify="center" valign="bottom">LG dataset</credit-words>
+  </credit>
+  <part-list>
+    <score-part id="P1">
+      <part-name>Voice</part-name>
+      <score-instrument id="I21c7332633bb718fb98fa7e545b679f0">
+        <instrument-name>SmartMusic SoftSynth 1</instrument-name>
+      </score-instrument>
+    </score-part>
+  </part-list>
+  <!--=========================== Part 1 ===========================-->
+  <part id="P1">
+    <!--========================= Measure 1 ==========================-->
+    <measure number="1" width="304">
+      <print>
+        <system-layout>
+          <top-system-distance>170</top-system-distance>
+        </system-layout>
+        <measure-numbering>system</measure-numbering>
+      </print>
+      <attributes>
+        <divisions>10080</divisions>
+        <key>
+          <fifths>5</fifths>
+          <mode>major</mode>
+        </key>
+        <time>
+          <beats>4</beats>
+          <beat-type>4</beat-type>
+        </time>
+        <clef>
+          <sign>G</sign>
+          <line>2</line>
+        </clef>
+      </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="40" enclosure="none" font-family="Times New Roman" font-size="13.4" font-weight="bold">Andante</words>
+        </direction-type>
+      </direction>
+      <direction placement="below">
+        <direction-type>
+          <words default-y="-73" enclosure="none" font-family="Times New Roman" font-size="11.5" font-style="italic">dolce</words>
+        </direction-type>
+      </direction>
+      <direction placement="above">
+        <direction-type>
+          <words color="#808080" enclosure="none" font-weight="bold">est. global: C- major (-7) (2 candidates: C- major (-7) a- minor (-7) )</words>
+        </direction-type>
+      </direction>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">C- major (-7)</words>
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="155">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <slur bezier-x="-71" bezier-y="36" default-x="6" default-y="3" number="1" placement="above" type="start" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="189">
+        <pitch>
+          <step>F</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+        <accidental>flat</accidental>
+        <stem default-y="-40">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+      </note>
+      <note color="#FF0000" default-x="217">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note color="#FF0000" default-x="235">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-50">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="269">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+    </measure>
+    <!--========================= Measure 2 ==========================-->
+    <measure number="2" width="190">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">C- major (-7)</words>
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="13">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <tie type="start" />
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-55">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <tied type="start" />
+        </notations>
+      </note>
+      <note default-x="48">
+        <pitch>
+          <step>B</step>
+          <octave>4</octave>
+        </pitch>
+        <duration>2520</duration>
+        <tie type="stop" />
+        <type>16th</type>
+        <stem default-y="-55">down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <notations>
+          <tied type="stop" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="66">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-53.5">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="86">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>6</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-52">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="107">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-50">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+      </note>
+      <note color="#FF0000" default-x="124">
+        <pitch>
+          <step>G</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <accidental>flat</accidental>
+        <stem default-y="-35">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="168">
+        <pitch>
+          <step>F</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem default-y="-40">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+    </measure>
+    <!--========================= Measure 3 ==========================-->
+    <measure number="3" width="214">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">C- major (-7)</words>
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="13">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="1" type="stop" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="34">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>1680</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>16th</normal-type>
+        </time-modification>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">begin</beam>
+        <notations>
+          <slur bezier-x="-41" bezier-y="-22" default-x="0" default-y="-65" number="2" placement="below" type="start" />
+          <tuplet bracket="yes" number="1" placement="below" type="start">
+            <tuplet-actual>
+              <tuplet-number>3</tuplet-number>
+              <tuplet-type>16th</tuplet-type>
+            </tuplet-actual>
+            <tuplet-normal>
+              <tuplet-number>2</tuplet-number>
+              <tuplet-type>16th</tuplet-type>
+            </tuplet-normal>
+          </tuplet>
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="53">
+        <pitch>
+          <step>F</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>1680</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>16th</normal-type>
+        </time-modification>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="70">
+        <pitch>
+          <step>G</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>1680</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>3</actual-notes>
+          <normal-notes>2</normal-notes>
+          <normal-type>16th</normal-type>
+        </time-modification>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <tuplet number="1" type="stop" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="88">
+        <pitch>
+          <step>F</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+        <accidental>flat</accidental>
+        <stem default-y="-40">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+      </note>
+      <note color="#FF0000" default-x="117">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <note color="#FF0000" default-x="135">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-50">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="167">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+        <accidental>flat</accidental>
+        <stem default-y="-55">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+      </note>
+      <note color="#FF0000" default-x="195">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        <notations>
+          <slur number="2" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 4 ==========================-->
+    <measure number="4" width="226">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">C- major (-7)</words>
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="13">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <notations>
+          <slur bezier-x="-39" bezier-y="-33" default-x="-5" default-y="-33" number="3" placement="below" type="start" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="31">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="49">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <notations>
+          <ornaments>
+            <inverted-mordent default-x="-6" default-y="5" />
+          </ornaments>
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="67">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+      </note>
+      <note color="#FF0000" default-x="85">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-55">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+      </note>
+      <note color="#FF0000" default-x="103">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-53.5">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="123">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>6</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-52">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="143">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-50">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+      </note>
+      <note color="#FF0000" default-x="162">
+        <pitch>
+          <step>G</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>15120</duration>
+        <type>quarter</type>
+        <dot />
+        <accidental>flat</accidental>
+        <stem default-y="-35">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="205">
+        <pitch>
+          <step>F</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem default-y="-40">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="3" type="stop" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 5 ==========================-->
+    <measure number="5" width="350">
+      <print new-system="yes">
+        <system-layout>
+          <system-distance>150</system-distance>
+        </system-layout>
+      </print>
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">e- minor (-6)</words>
+        </direction-type>
+      </direction>
+      <direction placement="below">
+        <direction-type>
+          <wedge number="1" spread="0" type="crescendo" />
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="123">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <slur bezier-x="-74" bezier-y="48" default-x="7" default-y="-5" number="4" placement="above" type="start" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="169">
+        <pitch>
+          <step>D</step>
+          <alter>0</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+        <accidental>natural</accidental>
+        <stem default-y="-50">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+      </note>
+      <note color="#FF0000" default-x="207">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+      <direction placement="below">
+        <direction-type>
+          <wedge number="1" spread="15" type="stop" />
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="237">
+        <pitch>
+          <step>F</step>
+          <alter>0</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>natural</accidental>
+        <stem default-y="-40">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="265">
+        <grace slash="yes" />
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <type>16th</type>
+        <stem default-y="23">up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <notations>
+          <slur bezier-x="-2" bezier-y="-9" default-x="-4" default-y="-6" number="5" placement="below" type="start" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="278">
+        <grace slash="yes" />
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="26">up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+      </note>
+      <note color="#FF0000" default-x="290">
+        <pitch>
+          <step>G</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+        <accidental>flat</accidental>
+        <stem default-y="-35">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <notations>
+          <slur number="5" type="stop" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="329">
+        <pitch>
+          <step>F</step>
+          <alter>1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <stem default-y="-40">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+      </note>
+    </measure>
+    <!--========================= Measure 6 ==========================-->
+    <measure number="6" width="210">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">e- minor (-6)</words>
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="13">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="60">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="10">up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="-36" default-y="-80">
+            <f />
+          </dynamics>
+        </direction-type>
+        <sound dynamics="88" />
+      </direction>
+      <note color="#FF0000" default-x="106">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-50">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="153">
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>7560</duration>
+        <type>eighth</type>
+        <dot />
+        <accidental>flat</accidental>
+        <stem default-y="5">up</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="4" type="stop" />
+        </notations>
+      </note>
+      <note default-x="191">
+        <rest>
+          <display-step>G</display-step>
+          <display-octave>4</display-octave>
+        </rest>
+        <duration>2520</duration>
+        <type>16th</type>
+        <notations>
+          <fermata type="inverted" />
+        </notations>
+      </note>
+    </measure>
+    <!--========================= Measure 7 ==========================-->
+    <measure number="7" width="290">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">e- minor (-6)</words>
+        </direction-type>
+      </direction>
+      <note default-x="13">
+        <rest />
+        <duration>5040</duration>
+        <type>eighth</type>
+      </note>
+      <note default-x="44">
+        <rest />
+        <duration>2520</duration>
+        <type>16th</type>
+      </note>
+      <direction placement="below">
+        <direction-type>
+          <dynamics default-x="65" default-y="-85">
+            <p />
+          </dynamics>
+        </direction-type>
+        <sound dynamics="44" />
+      </direction>
+      <note color="#FF0000" default-x="65">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2520</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <stem default-y="-55">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <slur bezier-x="-12" bezier-y="-68" default-x="-5" default-y="-48" number="6" placement="below" type="start" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="85">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2016</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>5</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>16th</normal-type>
+        </time-modification>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <notations>
+          <tuplet bracket="yes" number="1" placement="below" type="start">
+            <tuplet-actual>
+              <tuplet-number>5</tuplet-number>
+              <tuplet-type>16th</tuplet-type>
+            </tuplet-actual>
+            <tuplet-normal>
+              <tuplet-number>4</tuplet-number>
+              <tuplet-type>16th</tuplet-type>
+            </tuplet-normal>
+          </tuplet>
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="103">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2016</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>5</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>16th</normal-type>
+        </time-modification>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="122">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2016</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>5</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>16th</normal-type>
+        </time-modification>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="140">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+        </pitch>
+        <duration>2016</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>5</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>16th</normal-type>
+        </time-modification>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+      </note>
+      <note color="#FF0000" default-x="158">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>2016</duration>
+        <type>16th</type>
+        <accidental>flat</accidental>
+        <time-modification>
+          <actual-notes>5</actual-notes>
+          <normal-notes>4</normal-notes>
+          <normal-type>16th</normal-type>
+        </time-modification>
+        <stem default-y="-60">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <tuplet number="1" type="stop" />
+        </notations>
+      </note>
+      <note color="#FF0000" default-x="177">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="208">
+        <pitch>
+          <step>E</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>10080</duration>
+        <type>quarter</type>
+        <accidental>flat</accidental>
+        <stem default-y="-45">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+      <note color="#FF0000" default-x="258">
+        <pitch>
+          <step>D</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>5040</duration>
+        <type>eighth</type>
+        <accidental>flat</accidental>
+        <stem default-y="-50">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+      </note>
+    </measure>
+    <!--========================= Measure 8 ==========================-->
+    <measure number="8" width="85">
+      <direction>
+        <direction-type>
+          <words enclosure="none" font-style="italic">e- minor (-6)</words>
+        </direction-type>
+      </direction>
+      <note color="#FF0000" default-x="13">
+        <pitch>
+          <step>C</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+        </pitch>
+        <duration>20160</duration>
+        <type>half</type>
+        <accidental>flat</accidental>
+        <stem default-y="-55">down</stem>
+        <notehead color="#FF0000" parentheses="no">normal</notehead>
+        <notations>
+          <slur number="6" type="stop" />
+        </notations>
+      </note>
+    </measure>
+  </part>
+</score-partwise>
