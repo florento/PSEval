@@ -1,0 +1,27 @@
+id,title,composer,part,KSgt,KSest,notes,err,time
+1,Preludes_op_101,Chopin,rh,,C major (0),990,58,0.062
+1,Preludes_op_101,Chopin,lh,,C major (0),388,15,0.034
+2,Preludes_op_102,Chopin,rh,,a minor (0),1127,57,0.087
+2,Preludes_op_102,Chopin,lh,,a minor (0),348,19,0.037
+3,Preludes_op_103,Chopin,rh,,E major (4),1205,14,0.107
+3,Preludes_op_103,Chopin,lh,,E major (4),755,73,0.063
+5,Preludes_op_105,Chopin,rh,(-6),F# major (6),1000,0,0.095
+5,Preludes_op_105,Chopin,lh,(-6),F# major (6),637,15,0.067
+7,Preludes_op_107,Chopin,rh,,C major (0),1363,93,0.119
+7,Preludes_op_107,Chopin,lh,,C major (0),447,30,0.039
+8,Preludes_op_108,Chopin,rh,,F major (-1),1311,26,0.082
+8,Preludes_op_108,Chopin,lh,,F major (-1),1010,14,0.078
+12,Preludes_op_1012,Chopin,rh,,c minor (-3),690,50,0.067
+12,Preludes_op_1012,Chopin,lh,,c minor (-3),1414,98,0.090
+1,Preludes_op_251,Chopin,rh,,A- major (-4),1132,27,0.065
+1,Preludes_op_251,Chopin,lh,,A- major (-4),1100,24,0.064
+2,Preludes_op_252,Chopin,rh,,f minor (-4),815,7,0.052
+2,Preludes_op_252,Chopin,lh,,f minor (-4),392,4,0.029
+4,Preludes_op_254,Chopin,rh,,a minor (0),760,89,0.073
+4,Preludes_op_254,Chopin,lh,,a minor (0),793,71,0.066
+8,Preludes_op_258,Chopin,rh,(-5),C# major (7),827,51,0.076
+8,Preludes_op_258,Chopin,lh,(-5),C# major (7),722,9,0.064
+11,Preludes_op_2511,Chopin,rh,,a minor (0),2086,87,0.127
+11,Preludes_op_2511,Chopin,lh,,a minor (0),1099,50,0.089
+12,Preludes_op_2512,Chopin,rh,,c minor (-3),1203,2,0.087
+12,Preludes_op_2512,Chopin,lh,,c minor (-3),1489,14,0.109

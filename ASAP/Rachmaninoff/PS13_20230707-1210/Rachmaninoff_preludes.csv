@@ -1,0 +1,9 @@
+id,title,composer,part,KSgt,KSest,notes,err,time
+4,Preludes_op_234,Rachmaninoff,rh,(2),NaN,730,12,0.005
+4,Preludes_op_234,Rachmaninoff,lh,(2),NaN,647,15,0.005
+6,Preludes_op_236,Rachmaninoff,rh,(-3),NaN,679,18,0.005
+6,Preludes_op_236,Rachmaninoff,lh,(-3),NaN,646,32,0.005
+5,Preludes_op_325,Rachmaninoff,rh,(1),NaN,519,12,0.004
+5,Preludes_op_325,Rachmaninoff,lh,(1),NaN,815,0,0.006
+10,Preludes_op_3210,Rachmaninoff,rh,(2),NaN,1564,17,0.011
+10,Preludes_op_3210,Rachmaninoff,lh,(2),NaN,1422,92,0.010
