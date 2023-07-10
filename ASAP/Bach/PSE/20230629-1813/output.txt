@@ -171,9 +171,6 @@ diff: 3
 BWV 858 Fugue : ../../../Datasets/ASAP/Bach/Fugue/bwv_858/xml_score.musicxml
 xml_score.musicxml None part 1 / 2 583 notes, 35 bars, add_tons 30
 real global tone : <music21.key.KeySignature of 6 sharps>
-possible tone :  e- minor
-possible tone :  d# minor
-good index :  1
 global ton: NO: ( e- minor was <music21.key.KeySignature of 6 sharps> ), 
 [pse_debug] enharmonic ton D#minor (6#) currently not a global candidate, added
 [pse_debug] 2 candidates in first global list: Ebminor (6b) D#minor (6#) 
@@ -855,7 +852,8 @@ diff: 52
 
 Prélude No. 18 in G♯ Minor Johann Sebastian Bach(1685 - 1750) part 2 / 2 646 notes, 50 bars, add_tons 30
 real global tone : <music21.key.KeySignature of 5 sharps>
-global ton: NO: ( a- minor was <music21.key.KeySignature of 5 sharps> ), [pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+global ton: NO: ( a- minor was <music21.key.KeySignature of 5 sharps> ), 
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
 [pse_debug] 2 candidates in first global list: G#minor (5#) Abminor (7b) 
 [pse_warning] PSGrid, estimation local, tie break fail Bbminor (5b) vs Dbmajor (5b) dist prev(Ebmajor (3b))=2, dist global(Abminor (7b))=2)
 [pse_debug] 1 candidates in second global list: Abminor (7b) 
