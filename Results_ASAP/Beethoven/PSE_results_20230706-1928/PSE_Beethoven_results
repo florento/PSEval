@@ -1,0 +1,655 @@
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+1 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/1-1/xml_score.musicxml
+None None part 1 / 2 808 notes, 153 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Fminor (4b)
+[pse_warning] estimateLocal: ties bar 65
+[pse_warning] estimateLocal: ties bar 84
+[pse_warning] estimateLocal: ties bar 86
+[pse_warning] estimateLocal: ties bar 88
+[pse_warning] estimateLocal: ties bar 117
+[pse_debug] 1 candidates in second global list: Fminor (4b)
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 17
+diff: 17
+None None part 2 / 2 890 notes, 153 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Fminor (4b)
+[pse_warning] estimateLocal: ties bar 81
+[pse_debug] 1 candidates in second global list: Fminor (4b)
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 12
+diff: 12
+2 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/2-1/xml_score.musicxml
+None None part 1 / 2 2 key changes cannot spell, skip
+None None part 2 / 2 2 key changes cannot spell, skip
+3 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/3-2/xml_score.musicxml
+None None part 1 / 2 2 key changes cannot spell, skip
+None None part 2 / 2 2 key changes cannot spell, skip
+7 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/7-2/xml_score.musicxml
+None None part 1 / 2 1134 notes, 87 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 26
+diff: 26
+None None part 2 / 2 969 notes, 87 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_warning] estimateLocal: ties bar 24
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 13
+diff: 13
+7 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/7-3/xml_score.musicxml
+None None part 1 / 2 1 key changes cannot spell, skip
+None None part 2 / 2 1 key changes cannot spell, skip
+8 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/8-1/xml_score.musicxml
+None None part 1 / 2 2 key changes cannot spell, skip
+None None part 2 / 2 2 key changes cannot spell, skip
+8 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/8-2/xml_score.musicxml
+None None part 1 / 2 1066 notes, 73 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Fminor (4b)
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 38
+[pse_debug] 1 candidates in second global list: Fminor (4b)
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 117
+diff: 117
+None None part 2 / 2 594 notes, 73 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Fminor (4b)
+[pse_debug] 1 candidates in second global list: Fminor (4b)
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 98
+diff: 98
+8 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/8-3/xml_score.musicxml
+None None part 1 / 2 1329 notes, 211 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 31
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 15
+diff: 15
+None None part 2 / 2 1128 notes, 211 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 145
+[pse_warning] estimateLocal: ties bar 151
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 13
+diff: 13
+9 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/9-1/xml_score.musicxml
+None None part 1 / 2 1218 notes, 162 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: C#minor (4#)
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 104
+[pse_debug] 1 candidates in second global list: C#minor (4#)
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 35
+diff: 35
+None None part 2 / 2 1497 notes, 162 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: C#minor (4#)
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 28
+[pse_debug] 1 candidates in second global list: C#minor (4#)
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 85
+diff: 85
+9 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/9-3/xml_score.musicxml
+None None part 1 / 2 2 key changes cannot spell, skip
+None None part 2 / 2 2 key changes cannot spell, skip
+10 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/10-1/xml_score.musicxml
+None None part 1 / 2 1563 notes, 202 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Eminor (1#)
+[pse_warning] estimateLocal: ties bar 107
+[pse_debug] 1 candidates in second global list: Eminor (1#)
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 18
+diff: 18
+None None part 2 / 2 1209 notes, 202 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Eminor (1#)
+[pse_debug] 1 candidates in second global list: Eminor (1#)
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 28
+diff: 28
+11 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/11-1/xml_score.musicxml
+None None part 1 / 2 2092 notes, 200 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Gminor (2b)
+[pse_warning] estimateLocal: ties bar 64
+[pse_debug] 1 candidates in second global list: Gminor (2b)
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 126
+diff: 126
+None None part 2 / 2 1809 notes, 200 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Gminor (2b)
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 101
+[pse_warning] estimateLocal: ties bar 112
+[pse_warning] estimateLocal: ties bar 177
+[pse_debug] 1 candidates in second global list: Gminor (2b)
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 23
+diff: 23
+11 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/11-2/xml_score.musicxml
+None None part 1 / 2 1034 notes, 77 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 59
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 10
+diff: 10
+None None part 2 / 2 1213 notes, 77 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 4
+diff: 4
+11 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/11-3/xml_score.musicxml
+None None part 1 / 2 382 notes, 51 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Gminor (2b)
+[pse_debug] 1 candidates in second global list: Gminor (2b)
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 8
+diff: 8
+None None part 2 / 2 389 notes, 51 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Gminor (2b)
+[pse_warning] estimateLocal: ties bar 47
+[pse_debug] 1 candidates in second global list: Gminor (2b)
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 4
+diff: 4
+
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+13 4 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/13-4/xml_score.musicxml
+None None part 1 / 2 2063 notes, 286 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 108
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 15
+diff: 15
+None None part 2 / 2 2060 notes, 286 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 50
+[pse_warning] estimateLocal: ties bar 56
+[pse_warning] estimateLocal: ties bar 123
+[pse_warning] estimateLocal: ties bar 220
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 13
+diff: 13
+
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+14 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/14-3/xml_score.musicxml
+None None part 1 / 2 2488 notes, 200 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: C#minor (4#)
+[pse_debug] 1 candidates in second global list: C#minor (4#)
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 27
+diff: 27
+None None part 2 / 2 2588 notes, 200 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: C#minor (4#)
+[pse_warning] estimateLocal: ties bar 187
+[pse_debug] 1 candidates in second global list: C#minor (4#)
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 20
+diff: 20
+15 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/15-1/xml_score.musicxml
+None None part 1 / 2 2170 notes, 461 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Bminor (2#)
+[pse_warning] estimateLocal: ties bar 48
+[pse_warning] estimateLocal: ties bar 71
+[pse_warning] estimateLocal: ties bar 127
+[pse_warning] estimateLocal: ties bar 184
+[pse_warning] estimateLocal: ties bar 199
+[pse_warning] estimateLocal: ties bar 202
+[pse_warning] estimateLocal: ties bar 437
+[pse_debug] 1 candidates in second global list: Bminor (2#)
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 16
+diff: 16
+[pse_error] Speller1Pass local: no bar 460
+Invalid argument
+None None part 2 / 2 2055 notes, 461 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Bminor (2#)
+[pse_warning] estimateLocal: ties bar 44
+[pse_warning] estimateLocal: ties bar 52
+[pse_warning] estimateLocal: ties bar 54
+[pse_warning] estimateLocal: ties bar 56
+[pse_warning] estimateLocal: ties bar 58
+[pse_warning] estimateLocal: ties bar 71
+[pse_warning] estimateLocal: ties bar 119
+[pse_warning] estimateLocal: ties bar 141
+[pse_warning] estimateLocal: ties bar 149
+[pse_warning] estimateLocal: ties bar 153
+[pse_warning] estimateLocal: ties bar 155
+[pse_warning] estimateLocal: ties bar 157
+[pse_debug] 1 candidates in second global list: Bminor (2#)
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 12
+diff: 12
+[pse_error] Speller1Pass local: no bar 460
+Invalid argument
+15 4 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/15-4/xml_score.musicxml
+None None part 1 / 2 1660 notes, 212 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Bminor (2#)
+[pse_warning] estimateLocal: ties bar 50
+[pse_warning] estimateLocal: ties bar 100
+[pse_debug] 1 candidates in second global list: Bminor (2#)
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 12
+diff: 12
+None None part 2 / 2 1115 notes, 212 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Bminor (2#)
+[pse_warning] estimateLocal: ties bar 50
+[pse_warning] estimateLocal: ties bar 74
+[pse_warning] estimateLocal: ties bar 75
+[pse_warning] estimateLocal: ties bar 76
+[pse_warning] estimateLocal: ties bar 77
+[pse_warning] estimateLocal: ties bar 78
+[pse_debug] 1 candidates in second global list: Bminor (2#)
+global ton: OK: ( b minor ), has the same signature as <music21.key.KeySignature of 2 sharps> diff: 15
+diff: 15
+
+
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+16 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/16-1/xml_score.musicxml
+None None part 1 / 2 2083 notes, 326 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Eminor (1#)
+[pse_warning] estimateLocal: ties bar 55
+[pse_warning] estimateLocal: ties bar 59
+[pse_warning] estimateLocal: ties bar 61
+[pse_warning] estimateLocal: ties bar 63
+[pse_warning] estimateLocal: ties bar 64
+[pse_warning] estimateLocal: ties bar 73
+[pse_warning] estimateLocal: ties bar 130
+[pse_warning] estimateLocal: ties bar 149
+[pse_warning] estimateLocal: ties bar 163
+[pse_warning] estimateLocal: ties bar 247
+[pse_debug] 1 candidates in second global list: Eminor (1#)
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 16
+diff: 16
+[pse_error] Speller1Pass local: no bar 325
+Invalid argument
+None None part 2 / 2 1736 notes, 326 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Eminor (1#)
+[pse_warning] estimateLocal: ties bar 132
+[pse_warning] estimateLocal: ties bar 154
+[pse_debug] 1 candidates in second global list: Eminor (1#)
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> diff: 41
+diff: 41
+[pse_error]
+
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+ 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/17-1/xml_score.musicxml
+None None part 1 / 2 1513 notes, 232 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 70
+[pse_warning] estimateLocal: ties bar 72
+[pse_warning] estimateLocal: ties bar 96
+[pse_warning] estimateLocal: ties bar 97
+[pse_warning] estimateLocal: ties bar 122
+[pse_warning] estimateLocal: ties bar 123
+[pse_warning] estimateLocal: ties bar 161
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 34
+diff: 34
+None None part 2 / 2 1502 notes, 232 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_warning] estimateLocal: ties bar 71
+[pse_warning] estimateLocal: ties bar 96
+[pse_warning] estimateLocal: ties bar 122
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 21
+diff: 21
+17 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/17-2/xml_score.musicxml
+None None part 1 / 2 899 notes, 103 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Gminor (2b)
+[pse_debug] 1 candidates in second global list: Gminor (2b)
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> diff: 34
+diff: 34
+
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+17 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/17-3/xml_score.musicxml
+None None part 1 / 2 1689 notes, 400 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 67
+[pse_warning] estimateLocal: ties bar 247
+[pse_warning] estimateLocal: ties bar 374
+[pse_warning] estimateLocal: ties bar 379
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 28
+diff: 28
+[pse_error] Speller1Pass local: no bar 398
+Invalid argument
+[pse_error] Speller1Pass local: no bar 399
+Invalid argument
+None None part 2 / 2 2189 notes, 400 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_warning] estimateLocal: ties bar 62
+[pse_warning] estimateLocal: ties bar 108
+[pse_warning] estimateLocal: ties bar 145
+[pse_warning] estimateLocal: ties bar 255
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 41
+diff: 41
+18 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/18-1/xml_score.musicxml
+None None part 1 / 2 1822 notes, 253 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 117
+[pse_warning] estimateLocal: ties bar 119
+[pse_warning] estimateLocal: ties bar 121
+[pse_warning] estimateLocal: ties bar 194
+[pse_warning] estimateLocal: ties bar 216
+[pse_warning] estimateLocal: ties bar 227
+[pse_warning] estimateLocal: ties bar 240
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 30
+diff: 30
+None None part 2 / 2 1516 notes, 253 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 44
+[pse_warning] estimateLocal: ties bar 49
+[pse_warning] estimateLocal: ties bar 60
+[pse_warning] estimateLocal: ties bar 108
+[pse_warning] estimateLocal: ties bar 117
+[pse_warning] estimateLocal: ties bar 119
+[pse_warning] estimateLocal: ties bar 121
+[pse_warning] estimateLocal: ties bar 216
+[pse_warning] estimateLocal: ties bar 227
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 39
+diff: 39
+18 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/18-2/xml_score.musicxml
+None None part 1 / 2 1044 notes, 173 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Fminor (4b)
+[pse_warning] estimateLocal: ties bar 168
+[pse_debug] 1 candidates in second global list: Fminor (4b)
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 3
+diff: 3
+None None part 2 / 2 1248 notes, 173 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Fminor (4b)
+[pse_warning] estimateLocal: ties bar 105
+[pse_warning] estimateLocal: ties bar 168
+[pse_debug] 1 candidates in second global list: Fminor (4b)
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> diff: 16
+diff: 16
+18 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/18-3/xml_score.musicxml
+None None part 1 / 2 469 notes, 73 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 69
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as E- major diff: 16
+diff: 16
+None None part 2 / 2 369 notes, 73 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as E- major diff: 10
+diff: 10
+18 4 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/18-4/xml_score.musicxml
+/Users/augustinbouquillard/anaconda3/lib/python3.10/site-packages/music21/musicxml/xmlToM21.py:4681: MusicXMLWarning: Cannot put in an element with a missing voice tag when no previous voice tag was given.  Assuming voice 1...
+  warnings.warn('Cannot put in an element with a missing voice tag when '
+None None part 1 / 2 1 key changes cannot spell, skip
+None None part 2 / 2 1536 notes, 336 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 298
+[pse_warning] estimateLocal: ties bar 300
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 54
+diff: 54
+
+
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+21 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/21-1/xml_score.musicxml
+None None part 1 / 2 3015 notes, 304 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Aminor (0)
+[pse_warning] estimateLocal: ties bar 59
+[pse_warning] estimateLocal: ties bar 75
+[pse_warning] estimateLocal: ties bar 76
+[pse_warning] estimateLocal: ties bar 79
+[pse_warning] estimateLocal: ties bar 80
+[pse_warning] estimateLocal: ties bar 94
+[pse_warning] estimateLocal: ties bar 101
+[pse_warning] estimateLocal: ties bar 107
+[pse_warning] estimateLocal: ties bar 108
+[pse_warning] estimateLocal: ties bar 111
+[pse_warning] estimateLocal: ties bar 125
+[pse_warning] estimateLocal: ties bar 147
+[pse_warning] estimateLocal: ties bar 177
+[pse_warning] estimateLocal: ties bar 184
+[pse_warning] estimateLocal: ties bar 269
+[pse_debug] 1 candidates in second global list: Aminor (0)
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 115
+diff: 115
+None None part 2 / 2 3942 notes, 304 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Aminor (0)
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 49
+[pse_warning] estimateLocal: ties bar 112
+[pse_warning] estimateLocal: ties bar 125
+[pse_warning] estimateLocal: ties bar 171
+[pse_warning] estimateLocal: ties bar 172
+[pse_warning] estimateLocal: ties bar 175
+[pse_debug] 1 candidates in second global list: Aminor (0)
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> diff: 138
+diff: 138
+21 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/21-2/xml_score.musicxml
+None None part 1 / 2 184 notes, 28 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Aminor (0)
+[pse_debug] 1 candidates in second global list: Aminor (0)
+global ton: NO: ( a minor was <music21.key.KeySignature of 1 flat> ), diff: 6
+diff: 6
+None None part 2 / 2 334 notes, 28 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Aminor (0)
+[pse_debug] 1 candidates in second global list: Aminor (0)
+global ton: NO: ( a minor was <music21.key.KeySignature of 1 flat> ), diff: 10
+diff: 10
+21 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/21-3/xml_score.musicxml
+None None part 1 / 2 2 key changes cannot spell, skip
+None None part 2 / 2 2 key changes cannot spell, skip
+22 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/22-1/xml_score.musicxml
+None None part 1 / 2 1664 notes, 155 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_warning] estimateLocal: ties bar 91
+[pse_warning] estimateLocal: ties bar 119
+[pse_warning] estimateLocal: ties bar 127
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 18
+diff: 18
+[pse_error] Speller1Pass local: no bar 153
+Invalid argument
+[pse_error] Speller1Pass local: no bar 154
+Invalid argument
+None None part 2 / 2 1477 notes, 155 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_warning] estimateLocal: ties bar 67
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 19
+diff: 19
+
+22 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/22-2/xml_score.musicxml
+None None part 1 / 2 1243 notes, 189 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Aminor (0)
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 43
+[pse_debug] 1 candidates in second global list: Aminor (0)
+global ton: NO: ( a minor was <music21.key.KeySignature of 1 flat> ), diff: 74
+diff: 74
+None None part 2 / 2 1341 notes, 189 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Dminor (1b)
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 68
+[pse_warning] estimateLocal: ties bar 135
+[pse_warning] estimateLocal: ties bar 146
+[pse_debug] 1 candidates in second global list: Dminor (1b)
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> diff: 90
+diff: 90
+
+
+
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+24 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/24-1/xml_score.musicxml
+None None part 1 / 2 1200 notes, 109 bars, add_tons 30
+[pse_debug] enharmonic ton Ebminor (6b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: D#minor (6#) Ebminor (6b)
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_debug] 1 candidates in second global list: Ebminor (6b)
+real global tone : <music21.key.KeySignature of 6 sharps>
+possible tone :  d# minor
+good index :  0
+possible tone :  e- minor
+global ton: NO: ( e- minor was <music21.key.KeySignature of 6 sharps> ), diff: 9
+diff: 9
+None None part 2 / 2 1010 notes, 109 bars, add_tons 30
+[pse_debug] enharmonic ton Ebminor (6b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: D#minor (6#) Ebminor (6b)
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 76
+[pse_warning] estimateLocal: ties bar 78
+[pse_warning] estimateLocal: ties bar 79
+[pse_warning] estimateLocal: ties bar 92
+[pse_warning] estimateLocal: ties bar 94
+[pse_warning] estimateLocal: ties bar 106
+[pse_debug] 1 candidates in second global list: D#minor (6#)
+real global tone : <music21.key.KeySignature of 6 sharps>
+possible tone :  d# minor
+good index :  0
+possible tone :  e- minor
+global ton: OK: ( d# minor ), has the same signature as <music21.key.KeySignature of 6 sharps> diff: 17
+diff: 17
+
+(base) MacBook-Pro-2:scripts augustinbouquillard$ python evalASAP.py
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+24 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/24-2/xml_score.musicxml
+None None part 1 / 2 1011 notes, 183 bars, add_tons 30
+[pse_debug] enharmonic ton Ebminor (6b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: D#minor (6#) Ebminor (6b)
+[pse_warning] estimateLocal: ties bar 93
+[pse_warning] estimateLocal: ties bar 107
+[pse_warning] estimateLocal: ties bar 109
+[pse_warning] estimateLocal: ties bar 123
+[pse_warning] estimateLocal: ties bar 124
+[pse_warning] estimateLocal: ties bar 125
+[pse_warning] estimateLocal: ties bar 126
+[pse_warning] estimateLocal: ties bar 127
+[pse_warning] estimateLocal: ties bar 128
+[pse_warning] estimateLocal: ties bar 129
+[pse_warning] estimateLocal: ties bar 137
+[pse_warning] estimateLocal: ties bar 138
+[pse_warning] estimateLocal: ties bar 140
+[pse_warning] estimateLocal: ties bar 150
+[pse_debug] 1 candidates in second global list: Ebminor (6b)
+real global tone : <music21.key.KeySignature of 6 sharps>
+possible tone :  d# minor
+good index :  0
+possible tone :  e- minor
+global ton: NO: ( e- minor was <music21.key.KeySignature of 6 sharps> ), diff: 53
+diff: 53
+None None part 2 / 2 805 notes, 183 bars, add_tons 30
+[pse_debug] enharmonic ton Ebminor (6b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: D#minor (6#) Ebminor (6b)
+[pse_warning] estimateLocal: ties bar 118
+[pse_warning] estimateLocal: ties bar 122
+[pse_warning] estimateLocal: ties bar 137
+[pse_warning] estimateLocal: ties bar 154
+[pse_warning] estimateLocal: ties bar 156
+[pse_warning] estimateLocal: ties bar 164
+[pse_debug] 1 candidates in second global list: D#minor (6#)
+real global tone : <music21.key.KeySignature of 6 sharps>
+possible tone :  d# minor
+good index :  0
+possible tone :  e- minor
+global ton: OK: ( d# minor ), has the same signature as <music21.key.KeySignature of 6 sharps> diff: 31
+diff: 31
+26 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/26-1/xml_score.musicxml
+None None part 1 / 2 1496 notes, 257 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 82
+[pse_warning] estimateLocal: ties bar 178
+[pse_warning] estimateLocal: ties bar 190
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 23
+diff: 23
+None None part 2 / 2 1280 notes, 257 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 61
+[pse_warning] estimateLocal: ties bar 132
+[pse_warning] estimateLocal: ties bar 159
+[pse_warning] estimateLocal: ties bar 160
+[pse_warning] estimateLocal: ties bar 176
+[pse_warning] estimateLocal: ties bar 186
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 48
+diff: 48
+26 2 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/26-2/xml_score.musicxml
+None None part 1 / 2 457 notes, 42 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Gminor (2b)
+[pse_warning] estimateLocal: ties bar 25
+[pse_debug] 1 candidates in second global list: Gminor (2b)
+global ton: NO: ( g minor was <music21.key.KeySignature of 3 flats> ), diff: 9
+diff: 9
+None None part 2 / 2 442 notes, 42 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Gminor (2b)
+[pse_warning] estimateLocal: ties bar 23
+[pse_debug] 1 candidates in second global list: Gminor (2b)
+global ton: NO: ( g minor was <music21.key.KeySignature of 3 flats> ), diff: 8
+diff: 8
+26 3 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/26-3/xml_score.musicxml
+None None part 1 / 2 1763 notes, 197 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 69
+[pse_warning] estimateLocal: ties bar 92
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 63
+diff: 63
+None None part 2 / 2 2174 notes, 197 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: Cminor (3b)
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 41
+[pse_debug] 1 candidates in second global list: Cminor (3b)
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> diff: 119
+diff: 119
+
+28 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/28-1/xml_score.musicxml
+None None part 1 / 2 884 notes, 102 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: F#minor (3#)
+[pse_debug] 1 candidates in second global list: F#minor (3#)
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> diff: 16
+diff: 16
+None None part 2 / 2 724 notes, 102 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: F#minor (3#)
+[pse_debug] 1 candidates in second global list: F#minor (3#)
+global ton: OK: ( f# minor ), has the same signature as <music21.key.KeySignature of 3 sharps> diff: 10
+diff: 10
+
+What?
+eval ASAP/Beethoven with algo Algo.Algo_PSE
+30 1 : ../../../Datasets/ASAP/Beethoven/Piano_Sonatas/30-1/xml_score.musicxml
+None None part 1 / 2 932 notes, 102 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: C#minor (4#)
+[pse_warning] estimateLocal: ties bar 13
+[pse_debug] 1 candidates in second global list: C#minor (4#)
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 22
+diff: 22
+None None part 2 / 2 744 notes, 102 bars, add_tons 30
+[pse_debug] 1 candidates in first global list: C#minor (4#)
+[pse_debug] 1 candidates in second global list: C#minor (4#)
+global ton: OK: ( c# minor ), has the same signature as <music21.key.KeySignature of 4 sharps> diff: 8
+diff: 8
+
+(17+12+26+13+117+98+15+13+35+85+18+28+126+23+10+4+8+4+15+13+27+20+16+12+12+15+16+41+34+21+34+28+41+30+39+3+16+16+10+54+115+138+6+10+18+19+74+90+9+17+53+31+23+48+9+8+63+119+16+10+22+8)
+/
+(808+890+1134+969+1066+594+1329+1128+1218+1497+1563+1209+2092+1809+1034+1213+382+389+2063+2060+488+588+2170+2055+1660+1115+2083+1736+1513+1502+899+1689+2189+1822+1516+1044+1248+2469+2369+1536+3015+3942+184+334+1664+1477+1243+1341+1200+1010+1011+805+1496+1280+457+442+1763+2174+884+724+932+744+932+744)
+=
+

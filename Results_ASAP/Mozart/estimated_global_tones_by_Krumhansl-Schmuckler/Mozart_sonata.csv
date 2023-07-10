@@ -1,0 +1,11 @@
+id,title,composer,part,KSgt,KSest,notes,err,time
+12,Sonata_12_1,Mozart,rh,,F major (-1),1426,69,0.126
+12,Sonata_12_1,Mozart,lh,,F major (-1),1052,32,0.094
+12,Sonata_12_1,Mozart,rh,C major (0),F major (-1),2383,193,0.183
+12,Sonata_12_1,Mozart,lh,C major (0),F major (-1),1404,93,0.113
+12,Sonata_12_2,Mozart,rh,B- major (-2),F major (-1),646,24,0.044
+12,Sonata_12_2,Mozart,lh,B- major (-2),F major (-1),665,15,0.048
+12,Sonata_12_3,Mozart,rh,,F major (-1),1809,51,0.131
+12,Sonata_12_3,Mozart,lh,,F major (-1),1179,41,0.104
+8,Sonata_8_1,Mozart,rh,,a minor (0),1667,14,0.121
+8,Sonata_8_1,Mozart,lh,,a minor (0),1599,25,0.128
