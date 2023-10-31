@@ -1,5 +1,7 @@
-# PSeval
+# PSEval
 Evaluation results of the engraving-based algorithms PSE and PS13b, for joint  Pitch-Spelling and global and local Key Estimation.
+
+The code of the algorithms can be found at https://gitlab.inria.fr/pse/pse
 
 
 
