@@ -1,0 +1,978 @@
+
+runfile('/Users/jacquema/Developer/PSE/scripts/evalFRB.py', wdir='/Users/jacquema/Developer/PSE/scripts')
+Reloaded modules: pse, PSeval
+What?
+
+eval_FRB(tons=30)
+
+ starting evaluation of FRB dataset - 66 entries
+
+
+ Afro blue 
+
+Afro blue None 215 notes, 40 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 2 candidates in first global list: Ebmajor (3b) Cminor (3b) 
+[pse_debug] 2 candidates in second global list: Ebmajor (3b) Cminor (3b) 
+spell finished
+real global tone : <music21.key.KeySignature of 4 flats>
+possible tone :  E- major
+possible tone :  c minor
+global ton: NO: ( E- major was <music21.key.KeySignature of 4 flats> ), BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+
+ Afternoon in Paris 
+
+Afternoon in Paris None 246 notes, 26 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 2 candidates in first global list: Cmajor (0) Aminor (0) 
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C major
+good index :  0
+possible tone :  a minor
+good index :  1
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Airegin 
+
+Airegin None 274 notes, 34 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] enharmonic ton A#minor (7#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Bbminor (5b) A#minor (7#) 
+[pse_warning] estimateLocal: ties bar 1
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+real global tone : <music21.key.KeySignature of 4 flats>
+possible tone :  b- minor
+possible tone :  a# minor
+global ton: NO: ( b- minor was <music21.key.KeySignature of 4 flats> ), BEFORE diff
+diff: 12
+rewrite passing notes
+diff: 12
+
+ Alice in wonderland 
+
+Alice in wonderland None 302 notes, 50 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 41
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 4
+rewrite passing notes
+diff: 4
+
+ All blues 
+
+All blues None 69 notes, 12 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] estimateLocal: ties bar 8
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+spell finished
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ All in love is fair 
+
+All in love is fair None 281 notes, 35 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+global ton: NO: ( g minor was <music21.key.KeySignature of 1 flat> ), BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+
+ All my tomorrows 
+
+All my tomorrows None 319 notes, 30 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> BEFORE diff
+diff: 26
+rewrite passing notes
+diff: 26
+
+ All of me 
+
+All of me None 176 notes, 32 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] estimateLocal: ties bar 27
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+spell finished
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 9
+rewrite passing notes
+diff: 9
+
+ All of you 
+
+All of you None 228 notes, 33 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 14
+rewrite passing notes
+diff: 14
+
+ All the things you are 
+
+All the things you are None 226 notes, 36 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_warning] estimateLocal: ties bar 32
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+spell finished
+global ton: NO: ( c minor was <music21.key.KeySignature of 4 flats> ), BEFORE diff
+diff: 4
+rewrite passing notes
+diff: 4
+
+ Alone together 
+
+Alone together None 253 notes, 33 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 5
+rewrite passing notes
+diff: 5
+
+ Ana Maria 
+
+Ana Maria None 352 notes, 54 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 39
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+spell finished
+global ton: NO: ( c minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 8
+rewrite passing notes
+diff: 8
+
+ Angel eyes 
+
+Angel eyes None 397 notes, 27 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_warning] estimateLocal: ties bar 22
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 27
+rewrite passing notes
+diff: 27
+
+ Anthropology 
+
+Anthropology None 318 notes, 26 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_warning] estimateLocal: ties bar 13
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 5
+rewrite passing notes
+diff: 5
+
+ April in Paris 
+
+April in Paris None 272 notes, 32 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+spell finished
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 16
+rewrite passing notes
+diff: 16
+
+ April in Paris-mod 
+
+April in Paris None 271 notes, 33 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+spell finished
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 14
+rewrite passing notes
+diff: 14
+Invalid argument[pse_error] Speller1Pass local: no bar 32
+
+
+ Autumn in New York SKIP
+
+
+ Autumn leaves 
+
+Autumn leaves None 163 notes, 27 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Avalon 
+
+Avalon None 126 notes, 33 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+spell finished
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+
+ Beautiful love 
+
+Beautiful love None 138 notes, 21 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+Invalid argument[pse_error] Speller1Pass local: no bar 20
+
+
+ Bessie's blues 
+
+Bessie's blues None 189 notes, 19 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_warning] estimateLocal: ties bar 5
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+spell finished
+global ton: NO: ( f minor was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 7
+rewrite passing notes
+diff: 7
+
+ Bewitched 
+
+Bewitched None 256 notes, 27 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] estimateLocal: ties bar 10
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Birth of the blues 
+
+Birth of the blues None 302 notes, 27 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+spell finished
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 20
+rewrite passing notes
+diff: 20
+
+ Black Orpheus 
+
+Black Orpheus None 334 notes, 43 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] estimateLocal: ties bar 3
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Black and tan fantasy 
+
+Black and tan fantasy None 205 notes, 24 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_warning] estimateLocal: ties bar 21
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+
+global ton: NO: ( f minor was <music21.key.KeySignature of 5 flats> ), BEFORE diff
+diff: 7
+rewrite passing notes
+diff: 7
+Invalid argument[pse_error] Speller1Pass local: no bar 22
+
+Invalid argument
+[pse_error] Speller1Pass local: no bar 23
+
+ Black narcissus 
+
+Black narcissus None 182 notes, 24 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] enharmonic ton G#minor (5#) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: Abminor (7b) G#minor (5#) 
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 21
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  a- minor
+possible tone :  g# minor
+global ton: NO: ( g# minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 121
+rewrite passing notes
+diff: 121
+
+ Black nile 
+
+Black nile None 351 notes, 35 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+global ton: NO: ( g minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 25
+rewrite passing notes
+diff: 25
+
+ Blessed relief 
+
+Blessed relief None 199 notes, 50 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+Invalid argument
+Invalid argument
+Invalid argument
+
+ Blue Monk 
+
+[pse_error] Speller1Pass local: no bar 47
+[pse_error] Speller1Pass local: no bar 48
+[pse_error] Speller1Pass local: no bar 49
+Blue Monk None 114 notes, 12 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+spell finished
+global ton: NO: ( d minor was <music21.key.KeySignature of 2 flats> ), BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+
+ Blue bossa 
+
+Blue bossa None 102 notes, 17 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+spell finished
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+
+ Blue in green 
+
+Blue in green None 108 notes, 14 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+spell finished
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 8
+rewrite passing notes
+diff: 8
+Invalid argument
+[pse_error] Speller1Pass local: no bar 13
+
+ Blue moon 
+
+Blue moon None 474 notes, 35 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_warning] estimateLocal: ties bar 20
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 20
+rewrite passing notes
+diff: 20
+
+ Blue room 
+
+Blue room None 253 notes, 26 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 2 candidates in first global list: Fmajor (1b) Dminor (1b) 
+[pse_debug] 2 candidates in second global list: Fmajor (1b) Dminor (1b) 
+spell finished
+real global tone : <music21.key.KeySignature of 1 flat>
+possible tone :  F major
+good index :  0
+possible tone :  d minor
+good index :  1
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+
+ Blue trane 
+
+Blue trane None 129 notes, 15 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 2 candidates in first global list: Ebmajor (3b) Cminor (3b) 
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+spell finished
+real global tone : <music21.key.KeySignature of 3 flats>
+possible tone :  E- major
+good index :  0
+possible tone :  c minor
+good index :  1
+global ton: OK: ( c minor ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Bluesette 
+
+Bluesette None 122 notes, 25 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] enharmonic ton Bbminor (5b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: A#minor (7#) Bbminor (5b) 
+[pse_warning] estimateLocal: ties bar 14
+[pse_debug] 1 candidates in second global list: Bbminor (5b) 
+
+real global tone : <music21.key.KeySignature of 2 flats>
+possible tone :  a# minor
+possible tone :  b- minor
+global ton: NO: ( b- minor was <music21.key.KeySignature of 2 flats> ), BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+Invalid argument[pse_error] Speller1Pass local: no bar 24
+
+
+ Body and soul 
+
+Body and soul None 3 key changes cannot spell, skip
+
+ Bohemia after dark 
+
+Bohemia after dark None 258 notes, 25 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+spell finished
+global ton: NO: ( g minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 4
+rewrite passing notes
+diff: 4
+
+ Boplicity 
+
+Boplicity None 291 notes, 25 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+spell finished
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ Bud's blues 
+
+Bud's blues None 74 notes, 13 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 2 candidates in first global list: Bbmajor (2b) Gminor (2b) 
+[pse_warning] estimateLocal: ties bar 4
+[pse_debug] 2 candidates in second global list: Bbmajor (2b) Gminor (2b) 
+
+real global tone : <music21.key.KeySignature of 2 flats>
+possible tone :  B- major
+good index :  0
+possible tone :  g minor
+good index :  1
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+Invalid argument
+[pse_error] Speller1Pass local: no bar 12
+
+ But beautiful 
+
+But beautyful None 256 notes, 25 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+spell finished
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ Bye bye blackbird 
+
+Buzzy None 266 notes, 32 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+spell finished
+global ton: NO: ( d minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 8
+rewrite passing notes
+diff: 8
+
+ Caravan 
+
+Caravan None 238 notes, 36 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_warning] estimateLocal: ties bar 30
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 11
+rewrite passing notes
+diff: 11
+
+ Ceora 
+
+Ceora None 284 notes, 25 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+spell finished
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 9
+rewrite passing notes
+diff: 9
+
+ Cherokee 
+
+Cherokee None 313 notes, 56 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 27
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+spell finished
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 10
+rewrite passing notes
+diff: 10
+
+ Chicken feathers 
+
+Chicken feathers None 185 notes, 27 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+spell finished
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+
+ Come sunday 
+
+Come sunday None 212 notes, 24 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+spell finished
+global ton: OK: ( g minor ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 11
+rewrite passing notes
+diff: 11
+
+ Con Alma 
+
+Con Alma None 130 notes, 16 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] enharmonic ton Ebminor (6b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: D#minor (6#) Ebminor (6b) 
+[pse_debug] 1 candidates in second global list: D#minor (6#) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  d# minor
+possible tone :  e- minor
+global ton: NO: ( d# minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 76
+rewrite passing notes
+diff: 76
+
+ Confirmation 
+
+Confirmation None 379 notes, 33 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_warning] estimateLocal: ties bar 7
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+global ton: NO: ( g minor was <music21.key.KeySignature of 1 flat> ), BEFORE diff
+diff: 11
+rewrite passing notes
+diff: 11
+
+ Corcovado 
+
+Corcovado None 342 notes, 42 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] estimateLocal: ties bar 37
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+spell finished
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 22
+rewrite passing notes
+diff: 22
+
+ Cottontail 
+
+Cottontail None 197 notes, 25 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 21
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+spell finished
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ Cry me a river 
+
+Cry me a river None 341 notes, 25 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Gminor (2b) 
+[pse_debug] 1 candidates in second global list: Gminor (2b) 
+
+global ton: NO: ( g minor was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 20
+rewrite passing notes
+diff: 20
+
+ Crystal silence 
+
+Crystal silence None 271 notes, 37 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 29
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+spell finished
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Daahood 
+
+Daahood None 291 notes, 30 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] enharmonic ton Ebminor (6b) currently not a global candidate, added
+[pse_debug] 2 candidates in first global list: D#minor (6#) Ebminor (6b) 
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 21
+[pse_debug] 1 candidates in second global list: Ebminor (6b) 
+
+real global tone : <music21.key.KeySignature of 3 flats>
+possible tone :  d# minor
+possible tone :  e- minor
+global ton: NO: ( e- minor was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 4
+rewrite passing notes
+diff: 4
+
+ Dancing on the ceiling 
+
+Dancing on the ceiling None 200 notes, 24 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+spell finished
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ Darn that dream 
+
+Darn that dream None 329 notes, 26 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+spell finished
+global ton: OK: ( e minor ), has the same signature as <music21.key.KeySignature of 1 sharp> BEFORE diff
+diff: 37
+rewrite passing notes
+diff: 37
+
+ Day of wine and roses 
+
+Day of wine and roses None 249 notes, 33 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+spell finished
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 12
+rewrite passing notes
+diff: 12
+
+ Dearly beloved 
+
+Dearly beloved None 166 notes, 24 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 10
+rewrite passing notes
+diff: 10
+
+ Deep purple 
+
+Deep purple None 257 notes, 35 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+spell finished
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 22
+rewrite passing notes
+diff: 22
+
+ Deluge 
+
+Deluge None 189 notes, 23 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] enharmonic ton Cbmajor (7b) currently not a global candidate, added
+[pse_debug] enharmonic ton Abminor (7b) currently not a global candidate, added
+[pse_debug] 4 candidates in first global list: Bmajor (5#) G#minor (5#) Cbmajor (7b) Abminor (7b) 
+[pse_warning] estimateLocal: ties bar 14
+[pse_debug] 1 candidates in second global list: G#minor (5#) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  B major
+possible tone :  g# minor
+possible tone :  C- major
+possible tone :  a- minor
+global ton: NO: ( g# minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 97
+rewrite passing notes
+diff: 97
+
+ Desafinado 
+
+Desafinado None 435 notes, 56 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Dminor (1b) 
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 47
+[pse_debug] 1 candidates in second global list: Dminor (1b) 
+spell finished
+global ton: OK: ( d minor ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 28
+rewrite passing notes
+diff: 28
+
+ Dindi 
+
+Dindi None 282 notes, 34 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 19
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+spell finished
+global ton: NO: ( f minor was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 16
+rewrite passing notes
+diff: 16
+Invalid argument
+[pse_error] Speller1Pass local: no bar 33
+
+ Django 
+
+Dearly beloved None 131 notes, 20 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Fminor (4b) 
+[pse_debug] 1 candidates in second global list: Fminor (4b) 
+
+global ton: OK: ( f minor ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Do you know what it means 
+
+Do you know what it means None 360 notes, 28 bars, algo PSE
+add_tons 30
+spell
+spell finished
+[pse_debug] 1 candidates in first global list: Eminor (1#) 
+[pse_debug] 1 candidates in second global list: Eminor (1#) 
+global ton: NO: ( e minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 26
+rewrite passing notes
+diff: 26
+
+ Dolphin dance 
+
+Dolphin dance None 291 notes, 38 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 1 candidates in first global list: Cminor (3b) 
+[pse_debug] 1 candidates in second global list: Cminor (3b) 
+spell finished
+global ton: NO: ( c minor was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 12
+rewrite passing notes
+diff: 12
+
+ Don't blame me 
+
+Don't blame me None 254 notes, 26 bars, algo PSE
+add_tons 30
+spell
+spell finished[pse_debug] 1 candidates in first global list: Aminor (0) 
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 5
+rewrite passing notes
+diff: 5
+
+ Don't get around much anymore 
+
+Don't get around much anymore None 330 notes, 27 bars, algo PSE
+add_tons 30
+spell
+[pse_debug] 2 candidates in first global list: Cmajor (0) Aminor (0) 
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 23
+[pse_debug] 1 candidates in second global list: Aminor (0) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C major
+good index :  0
+possible tone :  a minor
+good index :  1
+global ton: OK: ( a minor ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 12
+rewrite passing notes
+diff: 12
+parts spelled   : 64
+notes spelled   : 15747
+correct spelling: 94.50 %
+correct KS estim: 65.62 %
+
