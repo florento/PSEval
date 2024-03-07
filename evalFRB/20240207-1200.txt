@@ -1,0 +1,4037 @@
+ Afro blue 
+
+Afro blue None 215 notes, 40 bars, algo PSE 135 tons
+add_tons 135
+adding 215 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal:
+ ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_debug] 2 candidates in second global list: Abmajor (4b) Ebmajor (3b) 
+real global tone : <music21.key.KeySignature of 4 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+good index :  3
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( A- major ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+Traceback (most recent call last):
+
+  Cell In[2], line 1
+    eval_FRB()
+
+  File ~/Developer/PSE/scripts/evalFRB.py:159 in eval_FRB
+    (ls, lld) = ps.eval_score(score=s, stat=stat,
+
+  File ~/Developer/PSE/scripts/PSeval.py:917 in eval_score
+    (k_gt, ton_est, nn, ld) = eval_part(part, stat,
+
+  File ~/Developer/PSE/scripts/PSeval.py:890 in eval_part
+    anote_local_part(part, sp, goodgtindex)
+
+  File ~/Developer/PSE/scripts/PSeval.py:536 in anote_local_part
+    k = m21_key(sp.local_bar(i, j))
+
+  File ~/Developer/PSE/scripts/PSeval.py:342 in m21_key
+    return m21.key.KeySignature(ton.fifths()).asKey(m21_mode(ton.mode()))
+
+  File ~/Developer/PSE/scripts/PSeval.py:319 in m21_mode
+    elif (m == pse.Mode.MinMel):
+
+AttributeError: type object 'pse.Mode' has no attribute 'MinMel'
+
+
+runfile('/Users/jacquema/Developer/PSE/scripts/evalFRB.py', wdir='/Users/jacquema/Developer/PSE/scripts')
+What?
+Reloaded modules: pse, PSeval
+What?
+
+eval_FRB()
+
+ starting evaluation of FRB dataset - 101 entries
+
+
+ Afro blue 
+
+Afro blue None 215 notes, 40 bars, algo PSE 135 tons
+add_tons 135
+adding 215 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_debug] 2 candidates in second global list: Abmajor (4b) Ebmajor (3b) 
+
+real global tone : <music21.key.KeySignature of 4 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+good index :  3
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( A- major ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+
+ Afternoon in Paris 
+
+Afternoon in Paris None 246 notes, 26 bars, algo PSE 135 tons
+add_tons 135
+adding 246 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal:spell finished
+ ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Airegin 
+
+Airegin None 274 notes, 34 bars, algo PSE 135 tons
+add_tons 135
+adding 274 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal:spell finished
+ ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_debug] 1 candidates in second global list: Dbmajor (5b) 
+real global tone : <music21.key.KeySignature of 4 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+good index :  3
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: NO: ( D- major was <music21.key.KeySignature of 4 flats> ), BEFORE diff
+diff: 17
+rewrite passing notes
+diff: 17
+
+ Alice in wonderland 
+
+Alice in wonderland None 302 notes, 50 bars, algo PSE 135 tons
+add_tons 135
+adding 302 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal:spell finished
+ ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 44
+[pse_warning] estimateLocal: ties bar 44
+[pse_warning] estimateLocal: ties bar 44
+[pse_warning] estimateLocal: ties bar 45
+[pse_warning] estimateLocal: ties bar 45
+[pse_warning] estimateLocal: ties bar 45
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 47
+[pse_warning] estimateLocal: ties bar 47
+[pse_warning] estimateLocal: ties bar 47
+[pse_warning] estimateLocal: ties bar 47
+[pse_warning] estimateLocal: ties bar 48
+[pse_warning] estimateLocal: ties bar 48
+[pse_warning] estimateLocal: ties bar 49
+[pse_warning] estimateLocal: ties bar 49
+[pse_warning] estimateLocal: ties bar 49
+[pse_warning] estimateLocal: ties bar 49
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ All blues 
+
+All blues None 69 notes, 12 bars, algo PSE 135 tons
+add_tons 135
+adding 69 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ All in love is fair 
+
+All in love is fair None 281 notes, 35 bars, algo PSE 135 tons
+add_tons 135
+adding 281 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_debug] 1 candidates in second global list: Fmajor (1b) 
+real global tone : <music21.key.KeySignature of 1 flat>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+good index :  6
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 9
+rewrite passing notes
+diff: 9
+
+ All my tomorrows 
+
+All my tomorrows None 319 notes, 30 bars, algo PSE 135 tons
+add_tons 135
+adding 319 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal:spell finished
+ ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_debug] 1 candidates in second global list: Gmajor (1#) 
+real global tone : <music21.key.KeySignature of 1 sharp>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+good index :  8
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( G major ), has the same signature as <music21.key.KeySignature of 1 sharp> BEFORE diff
+diff: 11
+rewrite passing notes
+diff: 11
+
+ All of me 
+
+All of me None 176 notes, 32 bars, algo PSE 135 tons
+add_tons 135
+adding 176 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal:spell finished
+ ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ All of you 
+
+All of you None 228 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 228 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_debug] 1 candidates in second global list: Ebmajor (3b) 
+real global tone : <music21.key.KeySignature of 3 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+good index :  4
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ All the things you are 
+
+All the things you are None 226 notes, 36 bars, algo PSE 135 tons
+add_tons 135
+adding 226 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal:spell finished
+ ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_debug] 1 candidates in second global list: Ebmajor (3b) 
+real global tone : <music21.key.KeySignature of 4 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+good index :  3
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: NO: ( E- major was <music21.key.KeySignature of 4 flats> ), BEFORE diff
+diff: 10
+rewrite passing notes
+diff: 10
+
+ Alone together 
+
+Alone together None 253 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 253 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal:
+ ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_debug] 1 candidates in second global list: Fmajor (1b) 
+real global tone : <music21.key.KeySignature of 1 flat>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+good index :  6
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 10
+rewrite passing notes
+diff: 10
+
+ Ana Maria 
+
+Ana Maria None 356 notes, 54 bars, algo PSE 135 tons
+add_tons 135
+adding 356 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal:spell finished
+ ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 39
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 40
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 43
+[pse_warning] estimateLocal: ties bar 45
+[pse_warning] estimateLocal: ties bar 45
+[pse_warning] estimateLocal: ties bar 45
+[pse_warning] estimateLocal: ties bar 45
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 47
+[pse_warning] estimateLocal: ties bar 47
+[pse_warning] estimateLocal: ties bar 47
+[pse_warning] estimateLocal: ties bar 47
+[pse_warning] estimateLocal: ties bar 48
+[pse_warning] estimateLocal: ties bar 48
+[pse_warning] estimateLocal: ties bar 49
+[pse_warning] estimateLocal: ties bar 49
+[pse_warning] estimateLocal: ties bar 50
+[pse_warning] estimateLocal: ties bar 50
+[pse_warning] estimateLocal: ties bar 51
+[pse_warning] estimateLocal: ties bar 52
+[pse_warning] estimateLocal: ties bar 52
+[pse_warning] estimateLocal: ties bar 52
+[pse_warning] estimateLocal: ties bar 53
+[pse_warning] estimateLocal: ties bar 53
+[pse_debug] 1 candidates in second global list: Ebmajor (3b) 
+real global tone : <music21.key.KeySignature of 3 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+good index :  4
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 22
+rewrite passing notes
+diff: 22
+
+ Angel eyes 
+
+Angel eyes None 397 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 397 notes
+spelling...
+spell finished
+real global tone :[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_debug] 1 candidates in second global list: Ebmajor (3b) 
+ <music21.key.KeySignature of 3 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+good index :  4
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 21
+rewrite passing notes
+diff: 21
+
+ Anthropology 
+
+Anthropology None 318 notes, 26 bars, algo PSE 135 tons
+add_tons 135
+adding 318 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal:
+ ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_debug] 1 candidates in second global list: Bbmajor (2b) 
+real global tone : <music21.key.KeySignature of 2 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+good index :  5
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 7
+rewrite passing notes
+diff: 7
+
+ April in Paris 
+
+April in Paris None 272 notes, 32 bars, algo PSE 135 tons
+add_tons 135
+adding 272 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+possible tone :  A- major
+possible tone :  E- major
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 22
+rewrite passing notes
+diff: 22
+
+ April in Paris-mod 
+
+April in Paris None 271 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 271 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse
+_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 21
+rewrite passing notes
+diff: 21
+Invalid argument
+[pse_error] Speller1Pass local: no bar 32
+
+ Autumn in New York SKIP
+
+
+ Autumn leaves 
+
+Autumn leaves None 163 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 163 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_debug] 1 candidates in second global list: Bbmajor (2b) 
+spell finished
+real global tone : <music21.key.KeySignature of 2 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+good index :  5
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+[pse_warning] PSV rename bar:23(135-145): tie break fail (2 bests) cost[accid=3 dist=2chromarm=1 color=1 cflat=0 a+d=5]
+[pse_debug] bar 23, ton Bbmajor (2b), spell 0: F(n) G# C(n) E(b) D(n) F(n) A(n) C(n) Gb Gn  accid=3 dist=2chromarm=1 color=1 cflat=0 a+d=5
+[pse_debug] bar 23, ton Bbmajor (2b), spell 1: F(n) Ab C(n) E(b) D(n) F(n) An C(n) F# G(n)  accid=3 dist=2chromarm=1 color=1 cflat=0 a+d=5
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Avalon 
+
+Avalon None 126 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 126 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_debug] 1 candidates in second global list: Bbmajor (2b) 
+
+real global tone : <music21.key.KeySignature of 2 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+good index :  5
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+
+ Beautiful love 
+
+Beautiful love None 138 notes, 21 bars, algo PSE 135 tons
+add_tons 135
+adding 138 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_
+warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_debug] 1 candidates in second global list: Fmajor (1b) 
+real global tone : <music21.key.KeySignature of 1 flat>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+good index :  6
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 5
+rewrite passing notes
+diff: 5
+Invalid argument
+[pse_error] Speller1Pass local: no bar 20
+
+ Bessie's blues 
+
+Bessie's blues None 189 notes, 19 bars, algo PSE 135 tons
+add_tons 135
+adding 189 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_debug] 1 candidates in second global list: Abmajor (4b) 
+
+real global tone : <music21.key.KeySignature of 3 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+good index :  4
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: NO: ( A- major was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Bewitched 
+
+Bewitched None 256 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 256 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 10
+rewrite passing notes
+diff: 10
+
+ Birth of the blues 
+
+Birth of the blues None 302 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 302 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal:spell finished
+ ties bar 4
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 13
+rewrite passing notes
+diff: 13
+
+ Black Orpheus 
+
+Black Orpheus None 334 notes, 43 bars, algo PSE 135 tons
+add_tons 135
+adding 334 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal:real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+ ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 31
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 35
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 36
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 37
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 41
+[pse_warning] estimateLocal: ties bar 42
+[pse_debug] 1 candidates in second global list: Cmajor (0) 
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 18
+rewrite passing notes
+diff: 18
+
+ Black and tan fantasy 
+
+Black and tan fantasy None 205 notes, 24 bars, algo PSE 135 tons
+add_tons 135
+adding 205 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal:spell finished
+ ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_debug] 1 candidates in second global list: Bbmajor (2b) 
+real global tone : <music21.key.KeySignature of 5 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+good index :  2
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: NO: ( B- major was <music21.key.KeySignature of 5 flats> ), BEFORE diff
+diff: 7
+rewrite passing notes
+diff: 7
+Invalid argument[pse_error] Speller1Pass local: no bar 22
+
+Invalid argument
+[pse_error] Speller1Pass local: no bar 23
+
+ Black narcissus 
+
+Black narcissus None 182 notes, 24 bars, algo PSE 135 tons
+add_tons 135
+adding 182 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal:spell finished
+ ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_debug] 1 candidates in second global list: Amajor (3#) 
+real global tone : <music21.key.KeySignature of 6 flats>
+possible tone :  C- major
+possible tone :  G- major
+good index :  1
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: NO: ( A major was <music21.key.KeySignature of 6 flats> ), BEFORE diff
+diff: 108
+rewrite passing notes
+diff: 108
+
+ Black nile 
+
+Black nile None 351 notes, 35 bars, algo PSE 135 tons
+add_tons 135
+adding 351 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[psespell finished
+_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 17
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 19
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 20
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 24
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 27
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 28
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 29
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 32
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 33
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_debug] 1 candidates in second global list: Bbmajor (2b) 
+real global tone : <music21.key.KeySignature of 1 flat>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+good index :  6
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: NO: ( B- major was <music21.key.KeySignature of 1 flat> ), BEFORE diff
+diff: 27
+rewrite passing notes
+diff: 27
+
+ Blessed relief 
+
+Blessed relief None 199 notes, 50 bars, algo PSE 135 tons
+add_tons 135
+adding 199 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 18
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 21
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 22
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 23
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 25
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 26
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 30
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 34
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 38
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 42
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties ba
+r 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_warning] estimateLocal: ties bar 46
+[pse_debug] 1 candidates in second global list: Fmajor (1b) 
+real global tone : <music21.key.KeySignature of 1 flat>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+good index :  6
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+Invalid argument
+Invalid argument
+Invalid argument
+[pse_error] Speller1Pass local: no bar 47
+[pse_error] Speller1Pass local: no bar 48
+[pse_error] Speller1Pass local: no bar 49
+
+ Blue Monk 
+
+Blue Monk None 114 notes, 12 bars, algo PSE 135 tons
+add_tons 135
+adding 114 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal:spell finished
+ ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 8
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_debug] 1 candidates in second global list: Bbmajor (2b) 
+real global tone : <music21.key.KeySignature of 2 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+good index :  5
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Blue bossa 
+
+Blue bossa None 102 notes, 17 bars, algo PSE 135 tons
+add_tons 135
+adding 102 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 13
+[pse_warning] estimateLocal: ties bar 14
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 15
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_warning] estimateLocal: ties bar 16
+[pse_debug] 1 candidates in second global list: Ebmajor (3b) 
+spell finished
+real global tone : <music21.key.KeySignature of 3 flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+good index :  4
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Blue in green 
+
+Blue in green None 108 notes, 14 bars, algo PSE 135 tons
+add_tons 135
+adding 108 notes
+spelling...
+[pse_debug] 15 candidates in first global list: Cbmajor (7b) Gbmajor (6b) Dbmajor (5b) Abmajor (4b) Ebmajor (3b) Bbmajor (2b) Fmajor (1b) Cmajor (0) Gmajor (1#) Dmajor (2#) Amajor (3#) Emajor (4#) Bmajor (5#) F#major (6#) C#major (7#) 
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 0
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 1
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 2
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal:spell finished
+ ties bar 3
+[pse_warning] estimateLocal: ties bar 3
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 4
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 5
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 6
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 7
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 9
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 10
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 11
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_warning] estimateLocal: ties bar 12
+[pse_debug] 1 candidates in second global list: Fmajor (1b) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+possible tone :  C- major
+possible tone :  G- major
+possible tone :  D- major
+possible tone :  A- major
+possible tone :  E- major
+possible tone :  B- major
+possible tone :  F major
+possible tone :  C major
+good index :  7
+possible tone :  G major
+possible tone :  D major
+possible tone :  A major
+possible tone :  E major
+possible tone :  B major
+possible tone :  F# major
+possible tone :  C# major
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 10
+rewrite passing notes
+diff: 10
+Invalid argument
+[pse_error] Speller1Pass local: no bar 13
