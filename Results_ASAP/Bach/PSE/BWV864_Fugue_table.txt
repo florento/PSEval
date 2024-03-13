@@ -1,0 +1,29 @@
+spelling 813 notes
+PSE: first table 
+Row Costs:
+Gbmajor (6b) cost accid=199 dist=0 chromarm=188 color=10  cflat=25
+Dbmajor (5b) cost accid=251 dist=0 chromarm=237 color=19  cflat=46
+Abmajor (4b) cost accid=291 dist=0 chromarm=280 color=35  cflat=44
+Ebmajor (3b) cost accid=279 dist=0 chromarm=274 color=123 cflat=24
+Bbmajor (2b) cost accid=252 dist=0 chromarm=258 color=246 cflat=8
+Fmajor  (1b) cost accid=219 dist=0 chromarm=222 color=274 cflat=0 
+Cmajor  (0)  cost accid=169 dist=0 chromarm=175 color=344 cflat=0 
+Gmajor  (1#) cost accid=123 dist=0 chromarm=130 color=3   cflat=4 
+Dmajor  (2#) cost accid=71  dist=0 chromarm=78  color=3   cflat=4
+Amajor  (3#) cost accid=38  dist=0 chromarm=43  color=2   cflat=4
+Emajor  (4#) cost accid=69  dist=0 chromarm=81  color=1   cflat=4
+Bmajor  (5#) cost accid=113 dist=0 chromarm=124 color=1   cflat=4
+F#major (6#) cost accid=154 dist=0 chromarm=165 color=0   cflat=0
+Ebminor (6b) cost accid=179 dist=0 chromarm=205 color=23  cflat=19
+Bbminor (5b) cost accid=220 dist=0 chromarm=257 color=30  cflat=34
+Fminor  (4b) cost accid=255 dist=0 chromarm=283 color=76  cflat=29
+Cminor  (3b) cost accid=229 dist=0 chromarm=279 color=159 cflat=12
+Gminor  (2b) cost accid=204 dist=0 chromarm=262 color=293 cflat=4
+Dminor  (1b) cost accid=167 dist=0 chromarm=222 color=293 cflat=0
+Aminor  (0)  cost accid=130 dist=0 chromarm=175 color=344 cflat=0
+Eminor  (1#) cost accid=110 dist=0 chromarm=130 color=3   cflat=4
+Bminor  (2#) cost accid=67  dist=0 chromarm=78  color=3   cflat=4
+F#minor (3#) cost accid=33  dist=0 chromarm=43  color=2   cflat=0
+C#minor (4#) cost accid=69  dist=0 chromarm=81  color=1   cflat=4
+G#minor (5#) cost accid=111 dist=0 chromarm=124 color=1   cflat=5
+D#minor (6#) cost accid=145 dist=0 chromarm=165 color=0   cflat=0
