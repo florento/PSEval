@@ -1,0 +1,1187 @@
+
+eval_FRB()
+
+ starting evaluation of FRB dataset - 101 entries
+
+
+ Afro blue 
+
+Afro blue None 215 notes, 40 bars, algo PSE 135 tons
+add_tons 135
+adding 215 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+spell finished
+real global tone : <music21.key.KeySignature of 4 flats>
+global ton: NO: ( E- major was <music21.key.KeySignature of 4 flats> ), BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+
+ Afternoon in Paris 
+
+Afternoon in Paris None 246 notes, 26 bars, algo PSE 135 tons
+add_tons 135
+adding 246 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_debug] 1 candidates in second global list: C major (0) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+
+ Airegin 
+
+Airegin None 274 notes, 34 bars, algo PSE 135 tons
+add_tons 135
+adding 274 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 19:Bb minor (5b) vs 18:Db major (5b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_debug] 1 candidates in second global list: Ab major (4b) 
+real global tone : <music21.key.KeySignature of 4 flats>
+global ton: OK: ( A- major ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 31
+rewrite passing notes
+diff: 31
+
+ Alice in wonderland 
+
+Alice in wonderland None 302 notes, 50 bars, algo PSE 135 tons
+add_tons 135
+adding 302 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_debug] 1 candidates in second global list: C major (0) 
+
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ All blues 
+
+All blues None 69 notes, 12 bars, algo PSE 135 tons
+add_tons 135
+adding 69 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_debug] 1 candidates in second global list: C major (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 4
+rewrite passing notes
+diff: 4
+
+ All in love is fair 
+
+All in love is fair None 281 notes, 35 bars, algo PSE 135 tons
+add_tons 135
+adding 281 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+spell finished
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: NO: ( B- major was <music21.key.KeySignature of 1 flat> ), BEFORE diff
+diff: 9
+rewrite passing notes
+diff: 9
+
+ All my tomorrows 
+
+All my tomorrows None 319 notes, 30 bars, algo PSE 135 tons
+add_tons 135
+adding 319 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_debug] 1 candidaspell finished
+tes in second global list: G major (1#) 
+real global tone : <music21.key.KeySignature of 1 sharp>
+global ton: OK: ( G major ), has the same signature as <music21.key.KeySignature of 1 sharp> BEFORE diff
+diff: 4
+rewrite passing notes
+diff: 4
+
+ All of me 
+
+All of me None 176 notes, 32 bars, algo PSE 135 tons
+add_tons 135
+adding 176 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_debug] 1 candidates in second global list: C major (0) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ All of you 
+
+All of you None 228 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 228 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 5
+rewrite passing notes
+diff: 5
+
+ All the things you are 
+
+All the things you are None 226 notes, 36 bars, algo PSE 135 tons
+add_tons 135
+adding 226 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+
+real global tone : <music21.key.KeySignature of 4 flats>
+global ton: NO: ( E- major was <music21.key.KeySignature of 4 flats> ), BEFORE diff
+diff: 37
+rewrite passing notes
+diff: 37
+
+ Alone together 
+
+Alone together None 253 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 253 notes
+spelling...
+spell finished
+real global tone :[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_debug] 1 candidates in second global list: F major (1b) 
+ <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 8
+rewrite passing notes
+diff: 8
+
+ Ana Maria 
+
+Ana Maria None 356 notes, 54 bars, algo PSE 135 tons
+add_tons 135
+adding 356 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+spell finished
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 29
+rewrite passing notes
+diff: 29
+
+ Angel eyes 
+
+Angel eyes None 397 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 397 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+spell finished
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 18
+rewrite passing notes
+diff: 18
+
+ Anthropology 
+
+Anthropology None 318 notes, 26 bars, algo PSE 135 tons
+add_tons 135
+adding 318 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ April in Paris 
+
+April in Paris None 272 notes, 32 bars, algo PSE 135 tons
+add_tons 135
+adding 272 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_debug] 1 candidates in second global list: C major (0) 
+
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 15
+rewrite passing notes
+diff: 15
+
+ April in Paris-mod 
+
+April in Paris None 271 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 271 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_debug] 1 candidates in second global list: C major (0) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 14
+rewrite passing notes
+diff: 14
+Invalid argument[pse_error] Speller1Pass local: no bar 32
+
+
+ Autumn in New York SKIP
+
+
+ Autumn leaves 
+
+Autumn leaves None 163 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 163 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Avalon 
+
+Avalon None 126 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 126 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Beautiful love 
+
+Beautiful love None 138 notes, 21 bars, algo PSE 135 tons
+add_tons 135
+adding 138 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_debug] 1 candidates in second global list: F major (1b) 
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+Invalid argument
+[pse_error] Speller1Pass local: no bar 20
+
+ Bessie's blues 
+
+Bessie's blues None 189 notes, 19 bars, algo PSE 135 tons
+add_tons 135
+adding 189 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 19:Bb minor (5b) vs 18:Db major (5b)
+[pse_warning] PSGrid: tie break1 fail 109:G# minor (5#) vs 108:B major (5#)
+[pse_warning] PSGrid: tie break1 fail 19:Bb minor (5b) vs 18:Db major (5b)
+[pse_debug] 1 candidates in second global list: Ab major (4b) 
+spell finished
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: NO: ( A- major was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Bewitched 
+
+Bewitched None 256 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 256 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 82:B minor (2#) vs 81:D major (2#)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 82:B minor (2#) vs 81:D major (2#)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_debug] 1 candidates in second global list: C major (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 7
+rewrite passing notes
+diff: 7
+
+ Birth of the blues 
+
+Birth of the blues None 302 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 302 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_debug] 1 candidates in second global list: C major (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 15
+rewrite passing notes
+diff: 15
+
+ Black Orpheus 
+
+Black Orpheus None 334 notes, 43 bars, algo PSE 135 tons
+add_tons 135
+adding 334 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_debug] 1 candidates in second global list: C major (0) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+
+ Black and tan fantasy 
+
+Black and tan fantasy None 205 notes, 24 bars, algo PSE 135 tons
+add_tons 135
+adding 205 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 109:G# minor (5#) vs 108:B major (5#)
+[pse_debug] 1 candidates in second global list: Ab major (4b) 
+spell finished
+real global tone : <music21.key.KeySignature of 5 flats>
+global ton: NO: ( A- major was <music21.key.KeySignature of 5 flats> ), BEFORE diff
+diff: 7
+rewrite passing notes
+diff: 7
+Invalid argument
+Invalid argument
+[pse_error] Speller1Pass local: no bar 22
+[pse_error] Speller1Pass local: no bar 23
+
+ Black narcissus 
+
+Black narcissus None 182 notes, 24 bars, algo PSE 135 tons
+add_tons 135
+adding 182 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_debug] 1 candidates in second global list: E major (4#) 
+spell finished
+real global tone : <music21.key.KeySignature of 6 flats>
+global ton: NO: ( E major was <music21.key.KeySignature of 6 flats> ), BEFORE diff
+diff: 110
+rewrite passing notes
+diff: 110
+
+ Black nile 
+
+Black nile None 351 notes, 35 bars, algo PSE 135 tons
+add_tons 135
+adding 351 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: NO: ( B- major was <music21.key.KeySignature of 1 flat> ), BEFORE diff
+diff: 27
+rewrite passing notes
+diff: 27
+
+ Blessed relief 
+
+Blessed relief None 199 notes, 50 bars, algo PSE 135 tons
+add_tons 135
+adding 199 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_debug] 1 candidates in second global list: F major (1b) 
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+Invalid argument[pse_error] Speller1Pass local: no bar 47
+
+Invalid argument
+Invalid argument
+
+ Blue Monk 
+
+[pse_error] Speller1Pass local: no bar 48
+[pse_error] Speller1Pass local: no bar 49
+Blue Monk None 114 notes, 12 bars, algo PSE 135 tons
+add_tons 135
+adding 114 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+spell finished
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Blue bossa 
+
+Blue bossa None 102 notes, 17 bars, algo PSE 135 tons
+add_tons 135
+adding 102 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 19:Bb minor (5b) vs 18:Db major (5b)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Blue in green 
+
+Blue in green None 108 notes, 14 bars, algo PSE 135 tons
+add_tons 135
+adding 108 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_debug] 1 candidates in second global list: F major (1b) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 10
+rewrite passing notes
+diff: 10
+Invalid argument[pse_error] Speller1Pass local: no bar 13
+
+
+ Blue moon 
+
+Blue moon None 474 notes, 35 bars, algo PSE 135 tons
+add_tons 135
+adding 474 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+spell finished
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 24
+rewrite passing notes
+diff: 24
+
+ Blue room 
+
+Blue room None 253 notes, 26 bars, algo PSE 135 tons
+add_tons 135
+adding 253 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_debug] 1 candidates in second global list: F major (1b) 
+
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 0
+rewrite passing notes
+diff: 0
+
+ Blue trane 
+
+Blue trane None 129 notes, 15 bars, algo PSE 135 tons
+add_tons 135
+adding 129 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 19:Bb minor (5b) vs 18:Db major (5b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: OK: ( E- major ), has the same signature as <music21.key.KeySignature of 3 flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Bluesette 
+
+Bluesette None 122 notes, 25 bars, algo PSE 135 tons
+add_tons 135
+adding 122 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 19:Bb minor (5b) vs 18:Db major (5b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+spell finished
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: NO: ( E- major was <music21.key.KeySignature of 2 flats> ), BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+Invalid argument[pse_error] Speller1Pass local: no bar 24
+
+
+ Body and soul 
+
+Body and soul None 3 key changes cannot spell, skip
+
+ Bohemia after dark 
+
+Bohemia after dark None 258 notes, 25 bars, algo PSE 135 tons
+add_tons 135
+adding 258 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 4
+rewrite passing notes
+diff: 4
+
+ Boplicity 
+
+Boplicity None 291 notes, 25 bars, algo PSE 135 tons
+add_tons 135
+adding 291 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_debug] 1 candidates in second global list: F major (1b) 
+
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 9
+rewrite passing notes
+diff: 9
+
+ Bud's blues 
+
+Bud's blues None 74 notes, 13 bars, algo PSE 135 tons
+add_tons 135
+adding 74 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+spell finished
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+Invalid argument
+[pse_error] Speller1Pass local: no bar 12
+
+ But beautiful 
+
+But beautyful None 256 notes, 25 bars, algo PSE 135 tons
+add_tons 135
+adding 256 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 82:B minor (2#) vs 81:D major (2#)
+[pse_warning] PSGrid: tie break1 fail 82:B minor (2#) vs 81:D major (2#)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_debug] 1 candidates in second global list: G major (1#) 
+spell finished
+real global tone : <music21.key.KeySignature of 1 sharp>
+global ton: OK: ( G major ), has the same signature as <music21.key.KeySignature of 1 sharp> BEFORE diff
+diff: 7
+rewrite passing notes
+diff: 7
+
+ Bye bye blackbird 
+
+Buzzy None 266 notes, 32 bars, algo PSE 135 tons
+add_tons 135
+adding 266 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_debug] 1 candidates in second global list: F major (1b) 
+
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: NO: ( F major was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 6
+rewrite passing notes
+diff: 6
+
+ Caravan 
+
+Caravan None 238 notes, 36 bars, algo PSE 135 tons
+add_tons 135
+adding 238 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_debug] 1 candidates in second global list: Ab major (4b) 
+real global tone : <music21.key.KeySignature of 4 flats>
+global ton: OK: ( A- major ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 19
+rewrite passing notes
+diff: 19
+
+ Ceora 
+
+Ceora None 284 notes, 25 bars, algo PSE 135 tons
+add_tons 135
+adding 284 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_debug] 1 candidates in second global list: Eb major (3b) 
+
+real global tone : <music21.key.KeySignature of 4 flats>
+global ton: NO: ( E- major was <music21.key.KeySignature of 4 flats> ), BEFORE diff
+diff: 9
+rewrite passing notes
+diff: 9
+
+ Cherokee 
+
+Cherokee None 313 notes, 56 bars, algo PSE 135 tons
+add_tons 135
+adding 313 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 19:Bb minor (5b) vs 18:Db major (5b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+spell finished
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 13
+rewrite passing notes
+diff: 13
+
+ Chicken feathers 
+
+Chicken feathers None 185 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 185 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 1
+rewrite passing notes
+diff: 1
+
+ Come sunday 
+
+Come sunday None 212 notes, 24 bars, algo PSE 135 tons
+add_tons 135
+adding 212 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+spell finished
+real global tone : <music21.key.KeySignature of 2 flats>
+global ton: OK: ( B- major ), has the same signature as <music21.key.KeySignature of 2 flats> BEFORE diff
+diff: 11
+rewrite passing notes
+diff: 11
+
+ Con Alma 
+
+Con Alma None 130 notes, 16 bars, algo PSE 135 tons
+add_tons 135
+adding 130 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 120:F# dorian (6#) vs 119:D# minor mel (6#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 102:E dorian (4#) vs 101:C# minor mel (4#)
+[pse_warning] PSGrid: tie break1 fail 102:E dorian (4#) vs 101:C# minor mel (4#)
+[pse_warning] PSGrid: tie break1 fail 102:E dorian (4#) vs 101:C# minor mel (4#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 100:C# minor (4#) vs 99:E major (4#)
+[pse_warning] PSGrid: tie break1 fail 100:C# minor (4#) vs 99:E major (4#)
+[pse_warning] PSGrid: tie break1 fail 100:C# minor (4#) vs 99:E major (4#)
+[pse_debug] 1 candidates in second global list: F# major (6#) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: NO: ( F# major was <music21.key.KeySignature of no sharps or flats> ), BEFORE diff
+diff: 64
+rewrite passing notes
+diff: 64
+
+ Confirmation 
+
+Confirmation None 379 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 379 notes
+spelling...
+spell finished
+real global tone :[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+ <music21.key.KeySignature of 1 flat>
+global ton: NO: ( B- major was <music21.key.KeySignature of 1 flat> ), BEFORE diff
+diff: 20
+rewrite passing notes
+diff: 20
+
+ Corcovado 
+
+Corcovado None 342 notes, 42 bars, algo PSE 135 tons
+add_tons 135
+adding 342 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_debug] 1 candidates in second global list: C major (0) 
+
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 20
+rewrite passing notes
+diff: 20
+
+ Cottontail 
+
+Cottontail None 197 notes, 25 bars, algo PSE 135 tons
+add_tons 135
+adding 197 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_debug] 1 candidates in second global list: Ab major (4b) 
+spell finished
+real global tone : <music21.key.KeySignature of 4 flats>
+global ton: OK: ( A- major ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Cry me a river 
+
+Cry me a river None 341 notes, 25 bars, algo PSE 135 tons
+add_tons 135
+adding 341 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 37:C minor (3b) vs 36:Eb major (3b)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_debug] 1 candidates in second global list: Bb major (2b) 
+spell finished
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: NO: ( B- major was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 19
+rewrite passing notes
+diff: 19
+
+ Crystal silence 
+
+Crystal silence None 271 notes, 37 bars, algo PSE 135 tons
+add_tons 135
+adding 271 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_debug] 1 candidates in second global list: C major (0) 
+spell finished
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 8
+rewrite passing notes
+diff: 8
+
+ Daahood 
+
+Daahood None 291 notes, 30 bars, algo PSE 135 tons
+add_tons 135
+adding 291 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 109:G# minor (5#) vs 108:B major (5#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 130:C# phrygian (7#) vs 128:A# minor mel (7#)
+[pse_warning] PSGrid: tie break1 fail 120:F# dorian (6#) vs 119:D# minor mel (6#)
+[pse_warning] PSGrid: tie break1 fail 120:F# dorian (6#) vs 119:D# minor mel (6#)
+[pse_debug] 1 candidates in second global list: C# major (7#) 
+
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: NO: ( C# major was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 246
+rewrite passing notes
+diff: 246
+
+ Dancing on the ceiling 
+
+Dancing on the ceiling None 200 notes, 24 bars, algo PSE 135 tons
+add_tons 135
+adding 200 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_debug] 1 candidates in second global list: F major (1b) 
+spell finished
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 9
+rewrite passing notes
+diff: 9
+
+ Darn that dream 
+
+Darn that dream None 329 notes, 26 bars, algo PSE 135 tons
+add_tons 135
+adding 329 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 82:B minor (2#) vs 81:D major (2#)
+[pse_warning] PSGrid: tie break1 fail 82:B minor (2#) vs 81:D major (2#)
+[pse_warning] PSGrid: tie break1 fail 91:F# minor (3#) vs 90:A major (3#)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 73:E minor (1#) vs 72:G major (1#)
+[pse_warning] PSGrid: tie break1 fail 82:B minor (2#) vs 81:D major (2#)
+[pse_debug] 1 candidates in second global list: C major (0) 
+
+real global tone : <music21.key.KeySignature of 1 sharp>
+global ton: NO: ( C major was <music21.key.KeySignature of 1 sharp> ), BEFORE diff
+diff: 15
+rewrite passing notes
+diff: 15
+
+ Day of wine and roses 
+
+Day of wine and roses None 249 notes, 33 bars, algo PSE 135 tons
+add_tons 135
+adding 249 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_debug] 1 candidates in second global list: F major (1b) 
+spell finished
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+
+ Dearly beloved 
+
+Dearly beloved None 166 notes, 24 bars, algo PSE 135 tons
+add_tons 135
+adding 166 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_debug] 1 candidates in second global list: C major (0) 
+
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 10
+rewrite passing notes
+diff: 10
+
+ Deep purple 
+
+Deep purple None 257 notes, 35 bars, algo PSE 135 tons
+add_tons 135
+adding 257 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_debug] 1 candidates in second global list: F major (1b) 
+spell finished
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 17
+rewrite passing notes
+diff: 17
+
+ Deluge 
+
+Deluge None 189 notes, 23 bars, algo PSE 135 tons
+add_tons 135
+adding 189 notes
+spelling...
+spell finished
+real global tone : <music21.key.KeySignature of 6 flats>
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 10:Eb minor (6b) vs 9:Gb major (6b)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 111:B dorian (5#) vs 110:G# minor mel (5#)
+[pse_warning] PSGrid: tie break1 fail 102:E dorian (4#) vs 101:C# minor mel (4#)
+[pse_warning] PSGrid: tie break1 fail 102:E dorian (4#) vs 101:C# minor mel (4#)
+[pse_warning] PSGrid: tie break1 fail 102:E dorian (4#) vs 101:C# minor mel (4#)
+[pse_warning] PSGrid: tie break1 fail 93:A dorian (3#) vs 92:F# minor mel (3#)
+[pse_warning] PSGrid: tie break1 fail 102:E dorian (4#) vs 101:C# minor mel (4#)
+[pse_warning] PSGrid: tie break1 fail 102:E dorian (4#) vs 101:C# minor mel (4#)
+[pse_warning] PSGrid: tie break1 fail 93:A dorian (3#) vs 92:F# minor mel (3#)
+[pse_debug] 1 candidates in second global list: B major (5#) 
+global ton: NO: ( B major was <music21.key.KeySignature of 6 flats> ), BEFORE diff
+diff: 90
+rewrite passing notes
+diff: 90
+
+ Desafinado 
+
+Desafinado None 435 notes, 56 bars, algo PSE 135 tons
+add_tons 135
+adding 435 notes
+spelling...
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_warning] PSGrid: tie break1 fail 28:F minor (4b) vs 27:Ab major (4b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_debug] 1 candidates in second global list: F major (1b) 
+spell finished
+real global tone : <music21.key.KeySignature of 1 flat>
+global ton: OK: ( F major ), has the same signature as <music21.key.KeySignature of 1 flat> BEFORE diff
+diff: 17
+rewrite passing notes
+diff: 17
+
+ Dindi 
+
+Dindi None 282 notes, 34 bars, algo PSE 135 tons
+add_tons 135
+adding 282 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_debug] 1 candidates in second global list: Ab major (4b) 
+real global tone : <music21.key.KeySignature of 3 flats>
+global ton: NO: ( A- major was <music21.key.KeySignature of 3 flats> ), BEFORE diff
+diff: 15
+rewrite passing notes
+diff: 15
+Invalid argument
+[pse_error] Speller1Pass local: no bar 33
+
+ Django 
+
+Dearly beloved None 131 notes, 20 bars, algo PSE 135 tons
+add_tons 135
+adding 131 notes
+spelling...
+spell finished[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 109:G# minor (5#) vs 108:B major (5#)
+[pse_warning] PSGrid: tie break1 fail 46:G minor (2b) vs 45:Bb major (2b)
+[pse_debug] 1 candidates in second global list: Ab major (4b) 
+
+real global tone : <music21.key.KeySignature of 4 flats>
+global ton: OK: ( A- major ), has the same signature as <music21.key.KeySignature of 4 flats> BEFORE diff
+diff: 2
+rewrite passing notes
+diff: 2
+
+ Do you know what it means 
+
+Do you know what it means None 360 notes, 28 bars, algo PSE 135 tons
+add_tons 135
+adding 360 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 72:G major (1#) vs 55:D minor (1b)
+[pse_debug] 1 candidates in second global list: C major (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 18
+rewrite passing notes
+diff: 18
+
+ Dolphin dance 
+
+Dolphin dance None 1 key changes cannot spell, skip
+
+ Don't blame me 
+
+Don't blame me None 254 notes, 26 bars, algo PSE 135 tons
+add_tons 135
+adding 254 notes
+spelling...
+spell finished
+[pse_debug] 15 candidates in first global list
+[pse_warning] PSGrid: tie break1 fail 55:D minor (1b) vs 54:F major (1b)
+[pse_warning] PSGrid: tie break1 fail 82:B minor (2#) vs 81:D major (2#)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_warning] PSGrid: tie break1 fail 64:A minor (0) vs 63:C major (0)
+[pse_debug] 1 candidates in second global list: C major (0) 
+real global tone : <music21.key.KeySignature of no sharps or flats>
+global ton: OK: ( C major ), has the same signature as <music21.key.KeySignature of no sharps or flats> BEFORE diff
+diff: 3
+rewrite passing notes
+diff: 3
+
+ Don't get around much anymore 
+
+Don't get around much anymore None 330 notes, 27 bars, algo PSE 135 tons
+add_tons 135
+adding 330 notes
+
+INTERRUPTED
+
+
