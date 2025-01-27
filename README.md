@@ -25,14 +25,15 @@ Every evaluation directory contains:
   `.csv` file with 1 row for each score file evaluated
 
 the firectory names have the following form:
-```FBR_tons_C1_M1D1_filtre_GRID_C2_M2D2```
+```PSE_tons_C1_M1D1_filter_GRID_C2_M2D2```
 where
+- `tons` number of tonalities for evalution (typically 30, 135 or 165)
 - `Ci` = is the cost domain used at step `i`
 - `Mi` = if the computation of the initial state for spelling (modal/tonal) at step `i`
 - `Di` = wheter the computation of the spell table is deterministic (with chromatic scale) or exhaustive, for the step `i`
 - `filter` : % latency wrt best global for the pre-selection of global tons after step 1 
    100 means no selection (use all global for grid and step 2), and is not kept in the dir name
-- GRID: name of algo for the computation of the grid
+- `GRID`: name of algo for the computation of the grid
 
 ## Color code anotations
 
