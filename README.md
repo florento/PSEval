@@ -3,8 +3,6 @@ Evaluation results of the engraving-based algorithms PSE and PS13b, for joint  P
 
 The code of the algorithms can be found at https://gitlab.inria.fr/pse/pse
 
-
-
 ## Evaluation Datasets
 
 These algorithms have been evaluation on two different datasets:
@@ -15,8 +13,6 @@ These algorithms have been evaluation on two different datasets:
   the last results on this corpora are in directory `Results_LG/`
 - the directory `Archives/` contains older evaluations and is obsolete.
 
-
-
 ## Evaluation directories
 
 Every evaluation directory contains:
@@ -25,12 +21,19 @@ Every evaluation directory contains:
   - color codes for notes with spelling errors  (see below for a precise description of colors)
   - the estimated local key for each measure
   - the estimated global key at the beginning of the score
-
 - one evaluation table in `cvs` format 
   `.csv` file with 1 row for each score file evaluated
-- one evaluation summary for the directory in `cvs` format (file `X_sum.csv` )
 
-
+the firectory names have the following form:
+```PSE_tons_C1_M1D1_filter_GRID_C2_M2D2```
+where
+- `tons` number of tonalities for evalution (typically 30, 135 or 165)
+- `Ci` = is the cost domain used at step `i`
+- `Mi` = if the computation of the initial state for spelling (modal/tonal) at step `i`
+- `Di` = wheter the computation of the spell table is deterministic (with chromatic scale) or exhaustive, for the step `i`
+- `filter` : % latency wrt best global for the pre-selection of global tons after step 1 
+   100 means no selection (use all global for grid and step 2), and is not kept in the dir name
+- `GRID`: name of algo for the computation of the grid
 
 ## Color code anotations
 
