@@ -1,0 +1,51 @@
+id,title,composer,KSgt,KSest,notes,err,success,time_1,time_2,time_3
+0,01-All-the-Things-You-Are,,,E- major (-3),1062,34,96.80,0.198,7.206,0.365
+1,02-Alone-Together,,,F major (-1),1087,27,97.52,0.176,6.776,0.348
+2,03-Apple-Jump,,,F major (-1),1494,35,97.66,0.246,9.630,0.476
+3,04-Autumn-Leaves,,B- major (-2),F major (-1),1055,41,96.11,0.235,6.281,0.414
+4,05-Blues-By-Five,,C major (0),F major (-1),998,54,94.59,0.263,5.420,0.448
+5,06-Bye-Bye-Blackbird,,,F major (-1),1225,41,96.65,0.214,8.306,0.401
+6,07-C-Jam-Blues,,C major (0),F major (-1),945,38,95.98,0.170,6.383,0.333
+7,08-Come-Rain-Or-Shine,,,F major (-1),1396,67,95.20,0.222,9.179,0.448
+8,09-Cottontail,,E- major (-3),B- major (-2),2005,40,98.00,0.360,13.209,0.727
+9,10-Dear-Old-Stockholm,,,F major (-1),1261,16,98.73,0.206,8.412,0.403
+10,11-Dolphin-Dance,,E- major (-3),B- major (-2),1271,15,98.82,0.278,6.509,45.185
+11,12-Doxy,,,F major (-1),1278,22,98.28,0.272,8.149,0.457
+12,13-For-Regulars-Only,,B- major (-2),A- major (-4),1635,68,95.84,0.331,10.363,0.582
+13,14-Four,,E- major (-3),A- major (-4),1868,63,96.63,0.324,13.314,0.636
+14,15-Fried-Bananas,,,E- major (-3),1640,23,98.60,0.293,11.246,0.542
+15,16-Gone-With-The-Wind,,C major (0),B- major (-2),1452,131,90.98,0.238,10.016,0.463
+16,17-Have-You-Met-Miss-Jones,,,F major (-1),1902,141,92.59,0.307,13.360,0.593
+17,18-Honeysuckle-Rose,,C major (0),F major (-1),1542,95,93.84,0.260,9.746,0.518
+18,19-Ill-Remember-April,,G major (1),C major (0),1749,64,96.34,0.282,12.681,0.541
+19,20-In-A-Mellow-Tone,,A- major (-4),E- major (-3),1164,42,96.39,0.316,7.416,0.584
+20,21-In-Your-Own-Sweet-Way,,F major (-1),B- major (-2),1072,47,95.62,0.181,6.631,0.404
+21,22-Invitation,,E- major (-3),B- major (-2),1553,110,92.92,0.276,11.327,0.547
+22,23-Isotope,,C major (0),F major (-1),1551,84,94.58,0.310,10.283,0.568
+23,24-Just-Friends,,,F major (-1),1589,97,93.90,0.294,11.111,0.547
+24,25-Ladybird,,C major (0),F major (-1),1681,173,89.71,0.285,12.278,0.562
+25,26-Milestones,,C major (0),F major (-1),1382,123,91.10,0.263,8.518,0.481
+26,27-Montmartre,,D- major (-5),B- major (-2),1639,189,88.47,0.308,11.318,0.623
+27,28-Namely-You,,,B- major (-2),1264,36,97.15,0.240,7.318,0.460
+28,29-Nows-The-Time,,,F major (-1),1492,56,96.25,0.272,10.811,0.520
+29,30-Oleo,,,F major (-1),1968,91,95.38,0.369,13.654,0.679
+30,31-On-Green-Dolphin-Street,,,E- major (-3),1672,25,98.50,0.301,11.746,0.592
+31,32-Out-Of-The-Night,,A- major (-4),E- major (-3),982,35,96.44,0.211,6.570,0.422
+32,33-Parisian-Thoroughfare,,,C major (0),1808,63,96.52,0.304,11.964,0.579
+33,34-Pennies-From-Heaven,,,C major (0),967,63,93.49,0.176,6.297,0.356
+34,35-Satin-Doll,,,C major (0),1384,88,93.64,0.325,7.605,0.588
+35,36-Scrapple-From-The-Apple,,C major (0),F major (-1),1709,74,95.67,0.298,12.053,0.597
+36,37-Sonnymoon-For-Two,,F major (-1),B- major (-2),1089,53,95.13,0.215,7.779,0.402
+37,38-Soon,,,E- major (-3),1461,14,99.04,0.288,9.909,0.510
+38,39-Star-Eyes,,B- major (-2),A- major (-4),1810,102,94.36,0.345,12.189,0.662
+39,40-Stella-By-Starlight,,F major (-1),B- major (-2),1622,57,96.49,0.295,10.845,0.541
+40,41-Step-Lightly,,,C major (0),903,62,93.13,0.183,6.299,0.339
+41,42-Sweet-Georgia-Brown,,A- major (-4),E- major (-3),1152,12,98.96,0.319,6.622,0.548
+42,43-Take-The-A-Train,,,C major (0),1395,24,98.28,0.261,8.762,0.496
+43,44-Tangerine,,C major (0),F major (-1),1862,59,96.83,0.301,12.124,0.590
+44,45-The-Rainbow-People,,E- major (-3),B- major (-2),1157,17,98.53,0.261,7.134,0.504
+45,46-There-Will-Never-Be-Another-You,,,B- major (-2),1743,60,96.56,0.374,11.216,0.684
+46,47-Three-Little-Words,,,C major (0),1828,125,93.16,0.306,13.488,0.578
+47,48-UMMG,,,D- major (-5),1612,48,97.02,0.291,12.056,0.564
+,,,48,23,69376,3044,95.61,,,
+,,,,47.916666666666664,,,,,,
