@@ -1,0 +1,3 @@
+Row Costs:
+Amajor  (3 sharps) cost accid=38 dist=35 chromarm=3 color=4 cflat=1
+F#minor (3 sharps) cost accid=33 dist=21 chromarm=0 color=0 cflat=0
